@@ -1,3 +1,7 @@
+i=========================================
+1           ENTRANCE  _R_/  __SERVER_HOST__ __SERVER_PORT__
+i  -------------------------------------
+i
 i[ TEXTIFY SEARCH TRENDS ]
 i
 iThe purpose of this repository is converting search trends' results and related web pages to
