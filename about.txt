@@ -1,0 +1,8 @@
+i[ TEXTIFY SEARCH TRENDS ]
+i
+iThe purpose of this repository is converting search trends' results and related web pages to
+igopher text, then saving them in the file structures which is ready for using by Texopher
+iKnowledge Boxes.
+i
+i$
+Bt:         About this service
