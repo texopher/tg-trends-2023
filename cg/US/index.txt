@@ -8,7 +8,7 @@ i=========================================
 i                Others
 i  -------------------------------------
 i
-1About	_R_/about.txt	__SERVER_HOST__	__SERVER_PORT__ 
+1About	_R_/cg/US/about.txt	__SERVER_HOST__	__SERVER_PORT__ 
 i
 i$
 Bt:    Textified Search Trends of 2023
