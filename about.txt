@@ -1,5 +1,5 @@
 i=========================================
-1           ENTRANCE  _R_/  __SERVER_HOST__ __SERVER_PORT__
+1           ENTRANCE	_R_/	__SERVER_HOST__	__SERVER_PORT__
 i  -------------------------------------
 i
 i[ TEXTIFY SEARCH TRENDS ]
