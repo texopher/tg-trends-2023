@@ -4,3 +4,6 @@ LICENSE
 logo.txt
 index.txt
 about.txt
+sg
+cg
+se
