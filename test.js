@@ -7,6 +7,14 @@ function __exec__(data) {
   write_text(data, "");  
 }
 
+function intPart(text) {
+  var idx = lang().newString(text).indexOf('.');
+  if (idx >= 0) {
+    return parseInt(lang().newString(text).substring(0, idx));
+  }
+  return parseInt(text);
+}
+
 function pad_head(text) {
   var head = lang().newString("=========================================");
   var left = intPart('' + ((head.length() - lang().newString(text).length())/2));
