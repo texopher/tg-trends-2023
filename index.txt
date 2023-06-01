@@ -10,6 +10,7 @@ i  -------------------------------------
 i
 1About	_R_/about.txt	__SERVER_HOST__	__SERVER_PORT__ 
 i
+1Test.js	_R_/test.js	__SERVER_HOST__	__SERVER_PORT__ 
 IIcon	_R_/icon.png	__SERVER_HOST__	__SERVER_PORT__ 
 i
 i$
