@@ -9,3 +9,4 @@ about.txt
 /cg
 /se
 icon.png
+test.js
