@@ -10,7 +10,7 @@ i  -------------------------------------
 i
 1About	_R_/about.txt	__SERVER_HOST__	__SERVER_PORT__ 
 i
-lIcon	_R_/icon.png	__SERVER_HOST__	__SERVER_PORT__ 
+IIcon	_R_/icon.png	__SERVER_HOST__	__SERVER_PORT__ 
 i
 i$
 Bt:    Textified Search Trends of 2023
