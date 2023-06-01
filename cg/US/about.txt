@@ -1,0 +1,13 @@
+i=========================================
+1           ENTRANCE	_R_/cg/US	__SERVER_HOST__	__SERVER_PORT__
+i  -------------------------------------
+i
+i[ TEXTIFY SEARCH TRENDS ]
+i
+iThe purpose of this service is converting search 
+itrends' results and related web pages to gopher text, 
+ithen saving them in the file structures which is 
+iready for using by Texopher Knowledge Boxes.
+i
+i$
+Bt:         About this service
