@@ -8,3 +8,4 @@ about.txt
 /sg
 /cg
 /se
+icon.png
