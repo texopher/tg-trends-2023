@@ -114,16 +114,7 @@ iown ...
 i
 i
 i
-1:7. Jamie Foxx | Spotify open.spotify.com › artist	_R_/sg/a374/1ea2/8367/1534/2514/bf76/7908/c8cf/a3741ea2836715342514bf767908c8cf.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_open_46_spotify_46_com_47_artist_47__55_LnaAXbDVIL_55__53_IVPnndf_55_w
-i
-iListen to Jamie Foxx on Spotify. Artist · 5.3M monthly listeners. ... Jamie
-iFoxx. 5,345,141 monthly listeners. Follow. Popular. 1. Slow Jamz.
-i147,102,391.
-i
-i
-i
-1:8. Jamie Foxx - Rotten Tomatoes www.rottentomatoes.com › celebrity › jamie_foxx	_R_/sg/dbb5/8cb6/ccab/05bc/22e3/395c/0d37/ef36/dbb58cb6ccab05bc22e3395c0d37ef36.txt	__SERVER_HOST__	__SERVER_PORT__
+1:7. Jamie Foxx - Rotten Tomatoes www.rottentomatoes.com › celebrity › jamie_foxx	_R_/sg/dbb5/8cb6/ccab/05bc/22e3/395c/0d37/ef36/dbb58cb6ccab05bc22e3395c0d37ef36.txt	__SERVER_HOST__	__SERVER_PORT__
 iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_rottentomatoes_46_com_47_celebrity_47_jamie_95_foxx
 i
 iFirst discovered by audiences as a confident, fresh-faced comic who was
