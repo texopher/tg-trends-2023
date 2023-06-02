@@ -106,15 +106,7 @@ iand Golden Globe ...
 i
 i
 i
-1:6. Is Jamie Foxx 'paralyzed and partially blind' weeks after medical ... www.pinkvilla.com › Entertainment › Hollywood	_R_/sg/08ef/5b06/6a75/1362/df91/d17f/8ed1/d28f/08ef5b066a751362df91d17f8ed1d28f.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_pinkvilla_46_com_47_entertainment_47_hollywood_47_is_45_jamie_45_foxx_45_paralyzed_45_and_45_partially_45_blind_45_weeks_45_after_45_medical_45_emergency_45_details_45_inside_45__49__50__50__51__57__50__51_
-i
-i4 hours ago · Jamie Foxx was rushed to the hospital when he was in Atlanta,
-iGeorgia, shooting for his upcoming Netflix movie Back in Action.
-i
-i
-i
-1:7. Jamie Foxx, American actor, comedian, singer - People people.com › tag › jamie-foxx	_R_/sg/8614/8fd0/552f/d7d2/46be/c498/b8ba/06f5/86148fd0552fd7d246bec498b8ba06f5.txt	__SERVER_HOST__	__SERVER_PORT__
+1:6. Jamie Foxx, American actor, comedian, singer - People people.com › tag › jamie-foxx	_R_/sg/8614/8fd0/552f/d7d2/46be/c498/b8ba/06f5/86148fd0552fd7d246bec498b8ba06f5.txt	__SERVER_HOST__	__SERVER_PORT__
 iGU: gopher://texopher.com/x/w/g/https_58__47__47_people_46_com_47_tag_47_jamie_45_foxx_47_
 i
 iJamie Foxx is an American actor, comedian and singer. He rose to fame after
@@ -123,7 +115,7 @@ iown ...
 i
 i
 i
-1:8. Jamie Foxx | Spotify open.spotify.com › artist	_R_/sg/a374/1ea2/8367/1534/2514/bf76/7908/c8cf/a3741ea2836715342514bf767908c8cf.txt	__SERVER_HOST__	__SERVER_PORT__
+1:7. Jamie Foxx | Spotify open.spotify.com › artist	_R_/sg/a374/1ea2/8367/1534/2514/bf76/7908/c8cf/a3741ea2836715342514bf767908c8cf.txt	__SERVER_HOST__	__SERVER_PORT__
 iGU: gopher://texopher.com/x/w/g/https_58__47__47_open_46_spotify_46_com_47_artist_47__55_LnaAXbDVIL_55__53_IVPnndf_55_w
 i
 iListen to Jamie Foxx on Spotify. Artist · 5.3M monthly listeners. ... Jamie
@@ -132,7 +124,7 @@ i147,102,391.
 i
 i
 i
-1:9. Jamie Foxx - Rotten Tomatoes www.rottentomatoes.com › celebrity › jamie_foxx	_R_/sg/dbb5/8cb6/ccab/05bc/22e3/395c/0d37/ef36/dbb58cb6ccab05bc22e3395c0d37ef36.txt	__SERVER_HOST__	__SERVER_PORT__
+1:8. Jamie Foxx - Rotten Tomatoes www.rottentomatoes.com › celebrity › jamie_foxx	_R_/sg/dbb5/8cb6/ccab/05bc/22e3/395c/0d37/ef36/dbb58cb6ccab05bc22e3395c0d37ef36.txt	__SERVER_HOST__	__SERVER_PORT__
 iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_rottentomatoes_46_com_47_celebrity_47_jamie_95_foxx
 i
 iFirst discovered by audiences as a confident, fresh-faced comic who was
