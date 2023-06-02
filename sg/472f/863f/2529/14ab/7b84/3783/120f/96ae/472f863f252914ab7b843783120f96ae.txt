@@ -125,4 +125,3 @@ i
 i
 i$
 Bt:Search via Proxy: https://www.google.com/search?hl=en&q=Jamie+Foxx&start=0	_R_/sg/472f/863f/2529/14ab/7b84/3783/120f/96ae/472f863f252914ab7b843783120f96ae.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/sg/_49__124_Jamie_32_Foxx
