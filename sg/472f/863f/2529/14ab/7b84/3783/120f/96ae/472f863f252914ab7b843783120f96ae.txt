@@ -81,8 +81,7 @@ ion Twitter
 i
 i
 i
-1:3. instagram.com	_R_/sg/f1d9/c905/5548/7084/b9a0/1a83/42f3/a2c2/f1d9c90555487084b9a01a8342f3a2c2.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_instagram_46_com_47_iamjamiefoxx_47_
+13. Jamie Foxx (@iamjamiefoxx) • Instagram photos and videos	_R_/sg/f1d9/c905/5548/7084/b9a0/1a83/42f3/a2c2/f1d9c90555487084b9a01a8342f3a2c2.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 iView all
 i
