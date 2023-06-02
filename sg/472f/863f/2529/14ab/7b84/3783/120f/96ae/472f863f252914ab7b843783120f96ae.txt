@@ -97,8 +97,7 @@ iGolden Globe... Wikipedia
 i
 i
 i
-1:5. Jamie Foxx - IMDb www.imdb.com › name	_R_/sg/f28f/0907/374d/9ec8/13a8/1b29/8efa/0c7a/f28f0907374d9ec813a81b298efa0c7a.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_imdb_46_com_47_name_47_nm_48__48__48__52__57__51__55__47_
+15. Jamie Foxx - IMDb www.imdb.com › name	_R_/sg/f28f/0907/374d/9ec8/13a8/1b29/8efa/0c7a/f28f0907374d9ec813a81b298efa0c7a.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i18 hours ago · Jamie Foxx is an American actor, singer and comedian. He won
 ian Academy Award for Best Actor, BAFTA Award for Best Actor in a Leading
