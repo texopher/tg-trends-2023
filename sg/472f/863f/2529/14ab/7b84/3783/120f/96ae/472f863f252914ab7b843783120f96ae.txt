@@ -114,8 +114,7 @@ iown ...
 i
 i
 i
-1:7. Jamie Foxx - Rotten Tomatoes www.rottentomatoes.com › celebrity › jamie_foxx	_R_/sg/dbb5/8cb6/ccab/05bc/22e3/395c/0d37/ef36/dbb58cb6ccab05bc22e3395c0d37ef36.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_rottentomatoes_46_com_47_celebrity_47_jamie_95_foxx
+17. Jamie Foxx - Rotten Tomatoes www.rottentomatoes.com › celebrity › jamie_foxx	_R_/sg/dbb5/8cb6/ccab/05bc/22e3/395c/0d37/ef36/dbb58cb6ccab05bc22e3395c0d37ef36.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 iFirst discovered by audiences as a confident, fresh-faced comic who was
 iproficient at playing outrageous characters and sending up famous
