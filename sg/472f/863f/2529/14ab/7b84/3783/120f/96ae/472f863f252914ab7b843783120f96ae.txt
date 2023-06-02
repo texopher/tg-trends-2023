@@ -87,8 +87,7 @@ iView all
 i
 i
 i
-1:4. Wikipedia	_R_/sg/37e2/f61e/98f3/6618/a48b/d1f8/2819/90d2/37e2f61e98f36618a48bd1f8281990d2.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_en_46_wikipedia_46_org_47_wiki_47_Jamie_95_Foxx
+14. Jamie Foxx - Wikipedia	_R_/sg/37e2/f61e/98f3/6618/a48b/d1f8/2819/90d2/37e2f61e98f36618a48bd1f8281990d2.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 iEric Marlon Bishop, known professionally as Jamie Foxx, is an American actor,
 icomedian, and singer. He received acclaim for his portrayal of Ray Charles in
