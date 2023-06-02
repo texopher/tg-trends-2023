@@ -2,7 +2,7 @@ i=========================================
 i                JUNE 2023
 i  -------------------------------------
 i
-1gopher://texopher.com/x/w/sg/_49__124_Jamie_32_Foxx	/sg/472f/863f/2529/14ab/7b84/3783/120f/96ae/472f863f252914ab7b843783120f96ae.txt	__SERVER_HOST__	__SERVER_PORT__
+1gopher://texopher.com/x/w/sg/_49__124_Jamie_32_Foxx	_R_/sg/472f/863f/2529/14ab/7b84/3783/120f/96ae/472f863f252914ab7b843783120f96ae.txt	__SERVER_HOST__	__SERVER_PORT__
 i     
 i
 i$
