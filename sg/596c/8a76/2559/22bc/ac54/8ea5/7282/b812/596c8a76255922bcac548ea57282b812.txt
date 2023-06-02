@@ -7,8 +7,7 @@ ifacing ...
 i
 i
 i
-1:2. Miami Heat vs Denver Nuggets Jun 1, 2023 Box Scores | NBA.com www.nba.com › NBA Games › DEN vs MIA	_R_/sg/4a2a/95a1/68d6/bc76/a087/936b/7219/2cdd/4a2a95a168d6bc76a087936b72192cdd.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_nba_46_com_47_game_47_mia_45_vs_45_den_45__48__48__52__50__50__48__48__52__48__49__47_box_45_score
+12. Miami Heat vs Denver Nuggets Jun 1, 2023 Box Scores | NBA.com www.nba.com › NBA Games › DEN vs MIA	_R_/sg/4a2a/95a1/68d6/bc76/a087/936b/7219/2cdd/4a2a95a168d6bc76a087936b72192cdd.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i10 hours ago · Miami Heat vs Denver Nuggets Jun 1, 2023 player box scores
 iincluding video and shot charts.
