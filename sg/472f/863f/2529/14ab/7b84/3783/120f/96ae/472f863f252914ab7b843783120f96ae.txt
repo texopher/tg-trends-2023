@@ -106,8 +106,7 @@ iand Golden Globe ...
 i
 i
 i
-1:6. Jamie Foxx, American actor, comedian, singer - People people.com › tag › jamie-foxx	_R_/sg/8614/8fd0/552f/d7d2/46be/c498/b8ba/06f5/86148fd0552fd7d246bec498b8ba06f5.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_people_46_com_47_tag_47_jamie_45_foxx_47_
+16. Jamie Foxx, American actor, comedian, singer - People people.com › tag › jamie-foxx	_R_/sg/8614/8fd0/552f/d7d2/46be/c498/b8ba/06f5/86148fd0552fd7d246bec498b8ba06f5.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 iJamie Foxx is an American actor, comedian and singer. He rose to fame after
 istarring on the sketch comedy show 'In Living Color,' before starring on his
