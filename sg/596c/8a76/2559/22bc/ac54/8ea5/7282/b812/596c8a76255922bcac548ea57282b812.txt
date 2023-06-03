@@ -14,8 +14,7 @@ iincluding video and shot charts.
 i
 i
 i
-1:3. Miami Heat vs. Denver Nuggets Box Score, Summary, and Team Stats www.cbssports.com › nba › gametracker › boxscore	_R_/sg/59ac/33f0/46f2/d9a6/2b3a/197c/e1c8/60aa/59ac33f046f2d9a62b3a197ce1c860aa.txt	__SERVER_HOST__	__SERVER_PORT__
-iGU: gopher://texopher.com/x/w/g/https_58__47__47_www_46_cbssports_46_com_47_nba_47_gametracker_47_boxscore_47_NBA_95__50__48__50__51__48__54__48__49__95_MIA_37__52__48_DEN_47_
+13. Miami Heat vs. Denver Nuggets Box Score, Summary, and Team Stats www.cbssports.com › nba › gametracker › boxscore	_R_/sg/59ac/33f0/46f2/d9a6/2b3a/197c/e1c8/60aa/59ac33f046f2d9a62b3a197ce1c860aa.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i8 hours ago · Get real-time NBA basketball coverage and scores as Miami Heat
 itakes on Denver Nuggets. We bring you the latest game previews, live stats,
