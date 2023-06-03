@@ -9,5 +9,6 @@ working.txt
 /sg
 /cg
 /se
+/kw
 icon.png
 test.js
