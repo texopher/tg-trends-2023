@@ -1,0 +1,315 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+1Diablo 4	/x/w/sg/_49__124_Diablo_32__52_	__SERVER_HOST__	__SERVER_PORT__
+1Spider-Verse	/x/w/sg/_49__124_Spider_45_Verse	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Canada
+i              -------------
+i
+1Odisha train accident	/x/w/sg/_49__124_Odisha_32_train_32_accident	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Mexico
+i              -------------
+i
+1GP España	/x/w/sg/_49__124_GP_32_Espa_241_a	__SERVER_HOST__	__SERVER_PORT__
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+1Telegram	/x/w/sg/_49__124_Telegram	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Brazil
+i              -------------
+i
+1Vitoria	/x/w/sg/_49__124_Vitoria	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Chile
+i              -------------
+i
+1Nomina seleccion chilena	/x/w/sg/_49__124_Nomina_32_seleccion_32_chilena	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Colombia
+i              -------------
+i
+1Manchester City	/x/w/sg/_49__124_Manchester_32_City	__SERVER_HOST__	__SERVER_PORT__
+1Seleccion Colombia	/x/w/sg/_49__124_Seleccion_32_Colombia	__SERVER_HOST__	__SERVER_PORT__
+i
+i                   Peru
+i              -------------
+i
+1Transformers: El Despertar de las Bestias	/x/w/sg/_49__124_Transformers_58__32_El_32_Despertar_32_de_32_las_32_Bestias	__SERVER_HOST__	__SERVER_PORT__
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+1Бердянск	/x/w/sg/_49__124__1041__1077__1088__1076__1103__1085__1089__1082_	__SERVER_HOST__	__SERVER_PORT__
+1Татьяна Буланова	/x/w/sg/_49__124__1058__1072__1090__1100__1103__1085__1072__32__1041__1091__1083__1072__1085__1086__1074__1072_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+1שמחה רוטמן	/x/w/sg/_49__124__1513__1502__1495__1492__32__1512__1493__1496__1502__1503_	__SERVER_HOST__	__SERVER_PORT__
+1חברת החשמל	/x/w/sg/_49__124__1495__1489__1512__1514__32__1492__1495__1513__1502__1500_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Saudi Arabia
+i              -------------
+i
+1ميرنا نور الدين	/x/w/sg/_49__124__1605__1610__1585__1606__1575__32__1606__1608__1585__32__1575__1604__1583__1610__1606_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Turkey
+i              -------------
+i
+1Yalı Çapkını 35. bölüm izle	/x/w/sg/_49__124_Yal_305__32__199_apk_305_n_305__32__51__53__46__32_b_246_l_252_m_32_izle	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+1香港01	/x/w/sg/_49__124__39321__28207__48__49_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Japan
+i              -------------
+i
+1上岡龍太郎	/x/w/sg/_49__124__19978__23713__40845__22826__37070_	__SERVER_HOST__	__SERVER_PORT__
+1除湿機	/x/w/sg/_49__124__38500__28287__27231_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               South Korea
+i              -------------
+i
+1BTS	/x/w/sg/_49__124_BTS	__SERVER_HOST__	__SERVER_PORT__
+1전현희	/x/w/sg/_49__124__51204__54788__55148_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Taiwan
+i              -------------
+i
+1陳昇	/x/w/sg/_49__124__38515__26119_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+1World Bicycle Day	/x/w/sg/_49__124_World_32_Bicycle_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Nepal PM Pushpa Kamal Dahal	/x/w/sg/_49__124_Nepal_32_PM_32_Pushpa_32_Kamal_32_Dahal	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+1Kaka	/x/w/sg/_49__124_Kaka	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Malaysia
+i              -------------
+i
+1Sassuolo vs Fiorentina	/x/w/sg/_49__124_Sassuolo_32_vs_32_Fiorentina	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Philippines
+i              -------------
+i
+1Spider-Verse	/x/w/sg/_49__124_Spider_45_Verse	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Singapore
+i              -------------
+i
+1Cristiano Ronaldo	/x/w/sg/_49__124_Cristiano_32_Ronaldo	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Thailand
+i              -------------
+i
+1วันวิสาขบูชา 2566	/x/w/sg/_49__124__3623__3633__3609__3623__3636__3626__3634__3586__3610__3641__3594__3634__32__50__53__54__54_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Vietnam
+i              -------------
+i
+1Việt Nam	/x/w/sg/_49__124_Vi_7879_t_32_Nam	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+1Roller girl	/x/w/sg/_49__124_Roller_32_girl	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Finland
+i              -------------
+i
+1Daniel Craig	/x/w/sg/_49__124_Daniel_32_Craig	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ireland
+i              -------------
+i
+1Jesse Lingard	/x/w/sg/_49__124_Jesse_32_Lingard	__SERVER_HOST__	__SERVER_PORT__
+1Novak Djokovic	/x/w/sg/_49__124_Novak_32_Djokovic	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Sweden
+i              -------------
+i
+1Manifest	/x/w/sg/_49__124_Manifest	__SERVER_HOST__	__SERVER_PORT__
+i
+i              United Kingdom
+i              -------------
+i
+1Inheritance tax	/x/w/sg/_49__124_Inheritance_32_tax	__SERVER_HOST__	__SERVER_PORT__
+1Phillip Schofield	/x/w/sg/_49__124_Phillip_32_Schofield	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+1Zugunglück Indien	/x/w/sg/_49__124_Zugungl_252_ck_32_Indien	__SERVER_HOST__	__SERVER_PORT__
+1Viva la Diva	/x/w/sg/_49__124_Viva_32_la_32_Diva	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Belgium
+i              -------------
+i
+1XPeng P7	/x/w/sg/_49__124_XPeng_32_P_55_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  France
+i              -------------
+i
+1Sergio Ramos	/x/w/sg/_49__124_Sergio_32_Ramos	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Germany
+i              -------------
+i
+1Harry Meghan	/x/w/sg/_49__124_Harry_32_Meghan	__SERVER_HOST__	__SERVER_PORT__
+1Prinz Harry	/x/w/sg/_49__124_Prinz_32_Harry	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Netherlands
+i              -------------
+i
+1Ing	/x/w/sg/_49__124_Ing	__SERVER_HOST__	__SERVER_PORT__
+1FA Cup	/x/w/sg/_49__124_FA_32_Cup	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Switzerland
+i              -------------
+i
+1Grimes	/x/w/sg/_49__124_Grimes	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+1Spider-Man: Paralelní světy	/x/w/sg/_49__124_Spider_45_Man_58__32_Paraleln_237__32_sv_283_ty	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Hungary
+i              -------------
+i
+1Dull Szabolcs	/x/w/sg/_49__124_Dull_32_Szabolcs	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Poland
+i              -------------
+i
+1Viaplay	/x/w/sg/_49__124_Viaplay	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Romania
+i              -------------
+i
+1Sabalenka	/x/w/sg/_49__124_Sabalenka	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ukraine
+i              -------------
+i
+1Михалков	/x/w/sg/_49__124__1052__1080__1093__1072__1083__1082__1086__1074_	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+1FA Cup	/x/w/sg/_49__124_FA_32_Cup	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Italy
+i              -------------
+i
+1India	/x/w/sg/_49__124_India	__SERVER_HOST__	__SERVER_PORT__
+1Sergio Ramos	/x/w/sg/_49__124_Sergio_32_Ramos	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Portugal
+i              -------------
+i
+1Certificados de Aforro	/x/w/sg/_49__124_Certificados_32_de_32_Aforro	__SERVER_HOST__	__SERVER_PORT__
+1Taca de Portugal	/x/w/sg/_49__124_Taca_32_de_32_Portugal	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Spain
+i              -------------
+i
+1Almudena Cid	/x/w/sg/_49__124_Almudena_32_Cid	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+1Kokkinakis	/x/w/sg/_49__124_Kokkinakis	__SERVER_HOST__	__SERVER_PORT__
+i
+i               New Zealand
+i            -----------------
+i
+1Hurricanes vs Crusaders	/x/w/sg/_49__124_Hurricanes_32_vs_32_Crusaders	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+1شيرين عبد الوهاب	/x/w/sg/_49__124__1588__1610__1585__1610__1606__32__1593__1576__1583__32__1575__1604__1608__1607__1575__1576_	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+1Xavi Simons	/x/w/sg/_49__124_Xavi_32_Simons	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+1Omanyala	/x/w/sg/_49__124_Omanyala	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+1DC Young Fly	/x/w/sg/_49__124_DC_32_Young_32_Fly	__SERVER_HOST__	__SERVER_PORT__
+i
+i
+Bt:    Trends at 06/03/2023 11:04:49
