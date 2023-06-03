@@ -1,0 +1,12 @@
+i=========================================
+1           ENTRANCE	_R_/cg/US	__SERVER_HOST__	__SERVER_PORT__
+i  -------------------------------------
+i
+i[ SAVE SEARCH TRENDS ]
+i
+iThe purpose of this service is saving search 
+itrends in each hours.
+i
+i
+i$
+Bt:         About this service
