@@ -14,6 +14,8 @@ i  -------------------------------------
 i
 1About	_R_/about.txt	__SERVER_HOST__	__SERVER_PORT__ 
 i
+1Trends of 2023	_R_/kw/	__SERVER_HOST__	__SERVER_PORT__ 
+i
 1Test jsb	_R_/test.js	__SERVER_HOST__	__SERVER_PORT__ 
 ITest image	_R_/icon.png	__SERVER_HOST__	__SERVER_PORT__ 
 i
