@@ -16,8 +16,6 @@ i
 i                  Canada
 i              -------------
 i
-1Churchill Park Music Festival	/x/w/sg/_49__124_Churchill_32_Park_32_Music_32_Festival	__SERVER_HOST__	__SERVER_PORT__
-1China	/x/w/sg/_49__124_China	__SERVER_HOST__	__SERVER_PORT__
 1Odisha train accident	/x/w/sg/_49__124_Odisha_32_train_32_accident	__SERVER_HOST__	__SERVER_PORT__
 i
 i                  Mexico
@@ -32,13 +30,11 @@ i
 i                Argentina
 i              -------------
 i
-1Banco Patagonia	/x/w/sg/_49__124_Banco_32_Patagonia	__SERVER_HOST__	__SERVER_PORT__
 1Telegram	/x/w/sg/_49__124_Telegram	__SERVER_HOST__	__SERVER_PORT__
 i
 i                  Brazil
 i              -------------
 i
-1Fortaleza x Bahia	/x/w/sg/_49__124_Fortaleza_32_x_32_Bahia	__SERVER_HOST__	__SERVER_PORT__
 1Ceara	/x/w/sg/_49__124_Ceara	__SERVER_HOST__	__SERVER_PORT__
 1Vitoria	/x/w/sg/_49__124_Vitoria	__SERVER_HOST__	__SERVER_PORT__
 i
@@ -51,14 +47,12 @@ i
 i                 Colombia
 i              -------------
 i
-1Encuesta Invamer	/x/w/sg/_49__124_Encuesta_32_Invamer	__SERVER_HOST__	__SERVER_PORT__
 1Manchester City	/x/w/sg/_49__124_Manchester_32_City	__SERVER_HOST__	__SERVER_PORT__
 1Seleccion Colombia	/x/w/sg/_49__124_Seleccion_32_Colombia	__SERVER_HOST__	__SERVER_PORT__
 i
 i                   Peru
 i              -------------
 i
-1Nayib Bukele	/x/w/sg/_49__124_Nayib_32_Bukele	__SERVER_HOST__	__SERVER_PORT__
 1Transformers: El Despertar de las Bestias	/x/w/sg/_49__124_Transformers_58__32_El_32_Despertar_32_de_32_las_32_Bestias	__SERVER_HOST__	__SERVER_PORT__
 i
 i                North Asia
@@ -82,14 +76,12 @@ i
 i               Saudi Arabia
 i              -------------
 i
-12030	/x/w/sg/_49__124__50__48__51__48_	__SERVER_HOST__	__SERVER_PORT__
 1Manchester united	/x/w/sg/_49__124_Manchester_32_united	__SERVER_HOST__	__SERVER_PORT__
 1ميرنا نور الدين	/x/w/sg/_49__124__1605__1610__1585__1606__1575__32__1606__1608__1585__32__1575__1604__1583__1610__1606_	__SERVER_HOST__	__SERVER_PORT__
 i
 i                  Turkey
 i              -------------
 i
-1İbrahim Kalın	/x/w/sg/_49__124__304_brahim_32_Kal_305_n	__SERVER_HOST__	__SERVER_PORT__
 1Yalı Çapkını 35. bölüm izle	/x/w/sg/_49__124_Yal_305__32__199_apk_305_n_305__32__51__53__46__32_b_246_l_252_m_32_izle	__SERVER_HOST__	__SERVER_PORT__
 i
 i               Eastern Asia
@@ -103,9 +95,6 @@ i
 i                  Japan
 i              -------------
 i
-1磐田市	/x/w/sg/_49__124__30928__30000__24066_	__SERVER_HOST__	__SERVER_PORT__
-1海街ダイアリー	/x/w/sg/_49__124__28023__34903__12480__12452__12450__12522__12540_	__SERVER_HOST__	__SERVER_PORT__
-1FC東京	/x/w/sg/_49__124_FC_26481__20140_	__SERVER_HOST__	__SERVER_PORT__
 1八王子バイパス #土砂崩れ	/x/w/sg/_49__124__20843__29579__23376__12496__12452__12497__12473__32__35__22303__30722__23849__12428_	__SERVER_HOST__	__SERVER_PORT__
 1上岡龍太郎	/x/w/sg/_49__124__19978__23713__40845__22826__37070_	__SERVER_HOST__	__SERVER_PORT__
 1除湿機	/x/w/sg/_49__124__38500__28287__27231_	__SERVER_HOST__	__SERVER_PORT__
@@ -148,29 +137,22 @@ i
 i               Philippines
 i              -------------
 i
-1BTS	/x/w/sg/_49__124_BTS	__SERVER_HOST__	__SERVER_PORT__
 1Spider-Verse	/x/w/sg/_49__124_Spider_45_Verse	__SERVER_HOST__	__SERVER_PORT__
 i
 i                Singapore
 i              -------------
 i
-1FA Cup	/x/w/sg/_49__124_FA_32_Cup	__SERVER_HOST__	__SERVER_PORT__
-1Odisha train accident	/x/w/sg/_49__124_Odisha_32_train_32_accident	__SERVER_HOST__	__SERVER_PORT__
-1Djokovic	/x/w/sg/_49__124_Djokovic	__SERVER_HOST__	__SERVER_PORT__
 1Cristiano Ronaldo	/x/w/sg/_49__124_Cristiano_32_Ronaldo	__SERVER_HOST__	__SERVER_PORT__
 i
 i                Thailand
 i              -------------
 i
-1สายสีเหลือง	/x/w/sg/_49__124__3626__3634__3618__3626__3637__3648__3627__3621__3639__3629__3591_	__SERVER_HOST__	__SERVER_PORT__
-1นุ๊ก-สุทธิดา	/x/w/sg/_49__124__3609__3640__3658__3585__45__3626__3640__3607__3608__3636__3604__3634_	__SERVER_HOST__	__SERVER_PORT__
 1นุ๊กสุทธิดา	/x/w/sg/_49__124__3609__3640__3658__3585__3626__3640__3607__3608__3636__3604__3634_	__SERVER_HOST__	__SERVER_PORT__
 1วันวิสาขบูชา 2566	/x/w/sg/_49__124__3623__3633__3609__3623__3636__3626__3634__3586__3610__3641__3594__3634__32__50__53__54__54_	__SERVER_HOST__	__SERVER_PORT__
 i
 i                 Vietnam
 i              -------------
 i
-1BTS	/x/w/sg/_49__124_BTS	__SERVER_HOST__	__SERVER_PORT__
 1Việt Nam	/x/w/sg/_49__124_Vi_7879_t_32_Nam	__SERVER_HOST__	__SERVER_PORT__
 i
 i             Northern Europe
@@ -201,8 +183,6 @@ i
 i              United Kingdom
 i              -------------
 i
-1Frankie Dettori	/x/w/sg/_49__124_Frankie_32_Dettori	__SERVER_HOST__	__SERVER_PORT__
-1Brian Turner	/x/w/sg/_49__124_Brian_32_Turner	__SERVER_HOST__	__SERVER_PORT__
 1Inheritance tax	/x/w/sg/_49__124_Inheritance_32_tax	__SERVER_HOST__	__SERVER_PORT__
 1Phillip Schofield	/x/w/sg/_49__124_Phillip_32_Schofield	__SERVER_HOST__	__SERVER_PORT__
 i
@@ -218,7 +198,6 @@ i
 i                 Belgium
 i              -------------
 i
-1Nadal	/x/w/sg/_49__124_Nadal	__SERVER_HOST__	__SERVER_PORT__
 1XPeng P7	/x/w/sg/_49__124_XPeng_32_P_55_	__SERVER_HOST__	__SERVER_PORT__
 i
 i                  France
@@ -229,7 +208,6 @@ i
 i                 Germany
 i              -------------
 i
-1Leipzig	/x/w/sg/_49__124_Leipzig	__SERVER_HOST__	__SERVER_PORT__
 1Indien Zugunglück	/x/w/sg/_49__124_Indien_32_Zugungl_252_ck	__SERVER_HOST__	__SERVER_PORT__
 1Harry Meghan	/x/w/sg/_49__124_Harry_32_Meghan	__SERVER_HOST__	__SERVER_PORT__
 1Prinz Harry	/x/w/sg/_49__124_Prinz_32_Harry	__SERVER_HOST__	__SERVER_PORT__
@@ -257,26 +235,22 @@ i
 i                 Hungary
 i              -------------
 i
-1Rammstein	/x/w/sg/_49__124_Rammstein	__SERVER_HOST__	__SERVER_PORT__
 1Dull Szabolcs	/x/w/sg/_49__124_Dull_32_Szabolcs	__SERVER_HOST__	__SERVER_PORT__
 i
 i                  Poland
 i              -------------
 i
-1Oppenheimer	/x/w/sg/_49__124_Oppenheimer	__SERVER_HOST__	__SERVER_PORT__
 1Andrzej Seweryn	/x/w/sg/_49__124_Andrzej_32_Seweryn	__SERVER_HOST__	__SERVER_PORT__
 1Viaplay	/x/w/sg/_49__124_Viaplay	__SERVER_HOST__	__SERVER_PORT__
 i
 i                 Romania
 i              -------------
 i
-1FA Cup	/x/w/sg/_49__124_FA_32_Cup	__SERVER_HOST__	__SERVER_PORT__
 1Sabalenka	/x/w/sg/_49__124_Sabalenka	__SERVER_HOST__	__SERVER_PORT__
 i
 i                 Ukraine
 i              -------------
 i
-1Shebekino	/x/w/sg/_49__124_Shebekino	__SERVER_HOST__	__SERVER_PORT__
 1Михалков	/x/w/sg/_49__124__1052__1080__1093__1072__1083__1082__1086__1074_	__SERVER_HOST__	__SERVER_PORT__
 i
 i             Southern Europe
@@ -285,20 +259,17 @@ i
 i                  Greece
 i              -------------
 i
-1Μητσοτακησ	/x/w/sg/_49__124__924__951__964__963__959__964__945__954__951__963_	__SERVER_HOST__	__SERVER_PORT__
 1FA Cup	/x/w/sg/_49__124_FA_32_Cup	__SERVER_HOST__	__SERVER_PORT__
 i
 i                  Italy
 i              -------------
 i
-1Beautiful	/x/w/sg/_49__124_Beautiful	__SERVER_HOST__	__SERVER_PORT__
 1India	/x/w/sg/_49__124_India	__SERVER_HOST__	__SERVER_PORT__
 1Sergio Ramos	/x/w/sg/_49__124_Sergio_32_Ramos	__SERVER_HOST__	__SERVER_PORT__
 i
 i                 Portugal
 i              -------------
 i
-1Inteligência artificial	/x/w/sg/_49__124_Intelig_234_ncia_32_artificial	__SERVER_HOST__	__SERVER_PORT__
 1Porto Braga	/x/w/sg/_49__124_Porto_32_Braga	__SERVER_HOST__	__SERVER_PORT__
 1Certificados de Aforro	/x/w/sg/_49__124_Certificados_32_de_32_Aforro	__SERVER_HOST__	__SERVER_PORT__
 1Taca de Portugal	/x/w/sg/_49__124_Taca_32_de_32_Portugal	__SERVER_HOST__	__SERVER_PORT__
@@ -306,7 +277,6 @@ i
 i                  Spain
 i              -------------
 i
-1Merche	/x/w/sg/_49__124_Merche	__SERVER_HOST__	__SERVER_PORT__
 1Almudena Cid	/x/w/sg/_49__124_Almudena_32_Cid	__SERVER_HOST__	__SERVER_PORT__
 i
 i                Australia
@@ -315,13 +285,11 @@ i
 i                Australia
 i            -----------------
 i
-1West Coast vs Collingwood	/x/w/sg/_49__124_West_32_Coast_32_vs_32_Collingwood	__SERVER_HOST__	__SERVER_PORT__
 1Kokkinakis	/x/w/sg/_49__124_Kokkinakis	__SERVER_HOST__	__SERVER_PORT__
 i
 i               New Zealand
 i            -----------------
 i
-1Warriors vs Dolphins	/x/w/sg/_49__124_Warriors_32_vs_32_Dolphins	__SERVER_HOST__	__SERVER_PORT__
 1Hurricanes vs Crusaders	/x/w/sg/_49__124_Hurricanes_32_vs_32_Crusaders	__SERVER_HOST__	__SERVER_PORT__
 i
 i             Northern Africa
@@ -356,11 +324,8 @@ i
 i               South Africa
 i            -----------------
 i
-1Carlos Alcaraz	/x/w/sg/_49__124_Carlos_32_Alcaraz	__SERVER_HOST__	__SERVER_PORT__
-1AC Milan	/x/w/sg/_49__124_AC_32_Milan	__SERVER_HOST__	__SERVER_PORT__
-1Djokovic	/x/w/sg/_49__124_Djokovic	__SERVER_HOST__	__SERVER_PORT__
 1FA Cup	/x/w/sg/_49__124_FA_32_Cup	__SERVER_HOST__	__SERVER_PORT__
 1DC Young Fly	/x/w/sg/_49__124_DC_32_Young_32_Fly	__SERVER_HOST__	__SERVER_PORT__
 i
 i
-Bt:    Trends at 06/03/2023 03:05:20
+Bt:    Trends at 06/03/2023 12:05:10
