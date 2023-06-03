@@ -4,7 +4,7 @@ i  -------------------------------------
 i
 i[ June 2023 ]
 i
-1June 3, 2023	_R_/kw/2023/06/03/	__SERVER_HOST__	__SERVER_PORT__
+1June 3, 2023	_R_/kw/2023/06/03/index.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i$
 Bt:         Trends of 2023
