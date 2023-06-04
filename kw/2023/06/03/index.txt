@@ -1,8 +1,7 @@
 i=========================================
-i             JUNE 3, 2023
+i             JUNE 03, 2023
 i  -------------------------------------
 i
-100 hour	_R_/kw/2023/06/03/2023-06-03_00.txt	__SERVER_HOST__	__SERVER_PORT__
 101 hour	_R_/kw/2023/06/03/2023-06-03_01.txt	__SERVER_HOST__	__SERVER_PORT__
 102 hour	_R_/kw/2023/06/03/2023-06-03_02.txt	__SERVER_HOST__	__SERVER_PORT__
 103 hour	_R_/kw/2023/06/03/2023-06-03_03.txt	__SERVER_HOST__	__SERVER_PORT__
@@ -15,18 +14,6 @@ i
 110 hour	_R_/kw/2023/06/03/2023-06-03_10.txt	__SERVER_HOST__	__SERVER_PORT__
 111 hour	_R_/kw/2023/06/03/2023-06-03_11.txt	__SERVER_HOST__	__SERVER_PORT__
 112 hour	_R_/kw/2023/06/03/2023-06-03_12.txt	__SERVER_HOST__	__SERVER_PORT__
-113 hour	_R_/kw/2023/06/03/2023-06-03_13.txt	__SERVER_HOST__	__SERVER_PORT__
-114 hour	_R_/kw/2023/06/03/2023-06-03_14.txt	__SERVER_HOST__	__SERVER_PORT__
-115 hour	_R_/kw/2023/06/03/2023-06-03_15.txt	__SERVER_HOST__	__SERVER_PORT__
-116 hour	_R_/kw/2023/06/03/2023-06-03_16.txt	__SERVER_HOST__	__SERVER_PORT__
-117 hour	_R_/kw/2023/06/03/2023-06-03_17.txt	__SERVER_HOST__	__SERVER_PORT__
-118 hour	_R_/kw/2023/06/03/2023-06-03_18.txt	__SERVER_HOST__	__SERVER_PORT__
-119 hour	_R_/kw/2023/06/03/2023-06-03_19.txt	__SERVER_HOST__	__SERVER_PORT__
-120 hour	_R_/kw/2023/06/03/2023-06-03_20.txt	__SERVER_HOST__	__SERVER_PORT__
-121 hour	_R_/kw/2023/06/03/2023-06-03_21.txt	__SERVER_HOST__	__SERVER_PORT__
-122 hour	_R_/kw/2023/06/03/2023-06-03_22.txt	__SERVER_HOST__	__SERVER_PORT__
-123 hour	_R_/kw/2023/06/03/2023-06-03_23.txt	__SERVER_HOST__	__SERVER_PORT__
-124 hour	_R_/kw/2023/06/03/2023-06-03_24.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i$
 Bt:    Trends of June 03, 2023
