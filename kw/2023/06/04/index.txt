@@ -26,7 +26,6 @@ i
 121 hour	_R_/kw/2023/06/04/2023-06-04_21.txt	__SERVER_HOST__	__SERVER_PORT__
 122 hour	_R_/kw/2023/06/04/2023-06-04_22.txt	__SERVER_HOST__	__SERVER_PORT__
 123 hour	_R_/kw/2023/06/04/2023-06-04_23.txt	__SERVER_HOST__	__SERVER_PORT__
-124 hour	_R_/kw/2023/06/04/2023-06-04_24.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i$
 Bt:    Trends of June 04, 2023
