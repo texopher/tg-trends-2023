@@ -11,4 +11,5 @@ working.txt
 /se
 /kw
 icon.png
+robots.txt
 test.js
