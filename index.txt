@@ -19,7 +19,7 @@ i
 1Test jsb	_R_/test.js	__SERVER_HOST__	__SERVER_PORT__ 
 ITest image	_R_/icon.png	__SERVER_HOST__	__SERVER_PORT__ 
 i
-0Test robots.txt	_R_/robots.txt	__SERVER_HOST__	__SERVER_PORT__
+0Test robots.txt	/robots.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 1Works in progress	_R_/working.txt	__SERVER_HOST__	__SERVER_PORT__ 
 i
