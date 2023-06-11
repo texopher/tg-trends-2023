@@ -1,0 +1,325 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+1Messi	/x/w/sg/_49__124_Messi	__SERVER_HOST__	__SERVER_PORT__
+1Nuggets	/x/w/sg/_49__124_Nuggets	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Canada
+i              -------------
+i
+1Vanderpump Rules' Reunion Part 3	/x/w/sg/_49__124_Vanderpump_32_Rules_39__32_Reunion_32_Part_32__51_	__SERVER_HOST__	__SERVER_PORT__
+1Chris Bassitt	/x/w/sg/_49__124_Chris_32_Bassitt	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Mexico
+i              -------------
+i
+1Casa de los Famosos mexico	/x/w/sg/_49__124_Casa_32_de_32_los_32_Famosos_32_mexico	__SERVER_HOST__	__SERVER_PORT__
+1Hunter Schafer	/x/w/sg/_49__124_Hunter_32_Schafer	__SERVER_HOST__	__SERVER_PORT__
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+1Rodrigo Tapari	/x/w/sg/_49__124_Rodrigo_32_Tapari	__SERVER_HOST__	__SERVER_PORT__
+1Beltran	/x/w/sg/_49__124_Beltran	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Brazil
+i              -------------
+i
+1Fluminense	/x/w/sg/_49__124_Fluminense	__SERVER_HOST__	__SERVER_PORT__
+1PALMEIRAS x Barcelona SC	/x/w/sg/_49__124_PALMEIRAS_32_x_32_Barcelona_32_SC	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Chile
+i              -------------
+i
+1Craig Jones	/x/w/sg/_49__124_Craig_32_Jones	__SERVER_HOST__	__SERVER_PORT__
+1Magaly Medina	/x/w/sg/_49__124_Magaly_32_Medina	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Colombia
+i              -------------
+i
+1Culpa mia pelicula	/x/w/sg/_49__124_Culpa_32_mia_32_pelicula	__SERVER_HOST__	__SERVER_PORT__
+1Inter de Miami	/x/w/sg/_49__124_Inter_32_de_32_Miami	__SERVER_HOST__	__SERVER_PORT__
+i
+i                   Peru
+i              -------------
+i
+1Inter de Miami	/x/w/sg/_49__124_Inter_32_de_32_Miami	__SERVER_HOST__	__SERVER_PORT__
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+1Шебекино Белгородской области	/x/w/sg/_49__124__1064__1077__1073__1077__1082__1080__1085__1086__32__1041__1077__1083__1075__1086__1088__1086__1076__1089__1082__1086__1081__32__1086__1073__1083__1072__1089__1090__1080_	__SERVER_HOST__	__SERVER_PORT__
+18 июня праздник	/x/w/sg/_49__124__56__32__1080__1102__1085__1103__32__1087__1088__1072__1079__1076__1085__1080__1082_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+1Heat vs Nuggets	/x/w/sg/_49__124_Heat_32_vs_32_Nuggets	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Saudi Arabia
+i              -------------
+i
+1عثمان 129	/x/w/sg/_49__124__1593__1579__1605__1575__1606__32__49__50__57_	__SERVER_HOST__	__SERVER_PORT__
+1فينيسيوس	/x/w/sg/_49__124__1601__1610__1606__1610__1587__1610__1608__1587_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Turkey
+i              -------------
+i
+1Ludovic Blas	/x/w/sg/_49__124_Ludovic_32_Blas	__SERVER_HOST__	__SERVER_PORT__
+1Dolar kaç TL	/x/w/sg/_49__124_Dolar_32_ka_231__32_TL	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+1加拿大山火	/x/w/sg/_49__124__21152__25343__22823__23665__28779_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Japan
+i              -------------
+i
+1広末涼子	/x/w/sg/_49__124__24195__26411__28092__23376_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               South Korea
+i              -------------
+i
+1마녀공장	/x/w/sg/_49__124__47560__45376__44277__51109_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Taiwan
+i              -------------
+i
+1梅西	/x/w/sg/_49__124__26757__35199_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+1Gitanjali Aiyar	/x/w/sg/_49__124_Gitanjali_32_Aiyar	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+1Jadwal Singapore Open 2023	/x/w/sg/_49__124_Jadwal_32_Singapore_32_Open_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Malaysia
+i              -------------
+i
+1Machine	/x/w/sg/_49__124_Machine	__SERVER_HOST__	__SERVER_PORT__
+1SPM 2022	/x/w/sg/_49__124_SPM_32__50__48__50__50_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Philippines
+i              -------------
+i
+1Messi	/x/w/sg/_49__124_Messi	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Singapore
+i              -------------
+i
+1Transformers: Rise of the Beasts	/x/w/sg/_49__124_Transformers_58__32_Rise_32_of_32_the_32_Beasts	__SERVER_HOST__	__SERVER_PORT__
+1Jude Bellingham	/x/w/sg/_49__124_Jude_32_Bellingham	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Thailand
+i              -------------
+i
+1JOB EXPO THAILAND 2023	/x/w/sg/_49__124_JOB_32_EXPO_32_THAILAND_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1The Flash	/x/w/sg/_49__124_The_32_Flash	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Vietnam
+i              -------------
+i
+1Bellingham	/x/w/sg/_49__124_Bellingham	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+1Inter Miami	/x/w/sg/_49__124_Inter_32_Miami	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Finland
+i              -------------
+i
+1Volvo EX30	/x/w/sg/_49__124_Volvo_32_EX_51__48_	__SERVER_HOST__	__SERVER_PORT__
+1Inter Miami	/x/w/sg/_49__124_Inter_32_Miami	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ireland
+i              -------------
+i
+1Mason Greenwood	/x/w/sg/_49__124_Mason_32_Greenwood	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Sweden
+i              -------------
+i
+1Inter Miami	/x/w/sg/_49__124_Inter_32_Miami	__SERVER_HOST__	__SERVER_PORT__
+1Roger Pontare	/x/w/sg/_49__124_Roger_32_Pontare	__SERVER_HOST__	__SERVER_PORT__
+i
+i              United Kingdom
+i              -------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+1Tyson Fury	/x/w/sg/_49__124_Tyson_32_Fury	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+1Casper Ruud	/x/w/sg/_49__124_Casper_32_Ruud	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Belgium
+i              -------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+1Casper Ruud	/x/w/sg/_49__124_Casper_32_Ruud	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  France
+i              -------------
+i
+1Gagnant Top Chef 2023	/x/w/sg/_49__124_Gagnant_32_Top_32_Chef_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Germany
+i              -------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Netherlands
+i              -------------
+i
+1Muse	/x/w/sg/_49__124_Muse	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Switzerland
+i              -------------
+i
+1Casper Ruud	/x/w/sg/_49__124_Casper_32_Ruud	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+1Inter Miami	/x/w/sg/_49__124_Inter_32_Miami	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Hungary
+i              -------------
+i
+1Seregi Zoltán	/x/w/sg/_49__124_Seregi_32_Zolt_225_n	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Poland
+i              -------------
+i
+1MLS	/x/w/sg/_49__124_MLS	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Romania
+i              -------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+1Fiorentina	/x/w/sg/_49__124_Fiorentina	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ukraine
+i              -------------
+i
+1Useless	/x/w/sg/_49__124_Useless	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+1MLS	/x/w/sg/_49__124_MLS	__SERVER_HOST__	__SERVER_PORT__
+1Κορυδαλλοσ	/x/w/sg/_49__124__922__959__961__965__948__945__955__955__959__963_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Italy
+i              -------------
+i
+1Heat Nuggets	/x/w/sg/_49__124_Heat_32_Nuggets	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Portugal
+i              -------------
+i
+1Zverev	/x/w/sg/_49__124_Zverev	__SERVER_HOST__	__SERVER_PORT__
+1Fluminense	/x/w/sg/_49__124_Fluminense	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Spain
+i              -------------
+i
+1Incendios canada	/x/w/sg/_49__124_Incendios_32_canada	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+1Arnold Schwarzenegger	/x/w/sg/_49__124_Arnold_32_Schwarzenegger	__SERVER_HOST__	__SERVER_PORT__
+i
+i               New Zealand
+i            -----------------
+i
+1New York	/x/w/sg/_49__124_New_32_York	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+1عثمان 129	/x/w/sg/_49__124__1593__1579__1605__1575__1606__32__49__50__57_	__SERVER_HOST__	__SERVER_PORT__
+1برشلونة	/x/w/sg/_49__124__1576__1585__1588__1604__1608__1606__1577_	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+1Zion Williamson	/x/w/sg/_49__124_Zion_32_Williamson	__SERVER_HOST__	__SERVER_PORT__
+1El-Rufai	/x/w/sg/_49__124_El_45_Rufai	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+1Heat vs Nuggets	/x/w/sg/_49__124_Heat_32_vs_32_Nuggets	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+1Mbappe	/x/w/sg/_49__124_Mbappe	__SERVER_HOST__	__SERVER_PORT__
+i
+i
+Bt:    Trends at 06/08/2023 08:02:40
