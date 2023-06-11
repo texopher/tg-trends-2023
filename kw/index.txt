@@ -10,6 +10,7 @@ i
 1June 7, 2023	_R_/kw/2023/06/07/index.txt	__SERVER_HOST__	__SERVER_PORT__
 1June 8, 2023	_R_/kw/2023/06/08/index.txt	__SERVER_HOST__	__SERVER_PORT__
 1June 9, 2023	_R_/kw/2023/06/09/index.txt	__SERVER_HOST__	__SERVER_PORT__
+1June 10, 2023	_R_/kw/2023/06/10/index.txt	__SERVER_HOST__	__SERVER_PORT__
 i
 i
 i=========================================
