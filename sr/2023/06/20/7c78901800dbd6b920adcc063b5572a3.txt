@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__43__37_E_52__37_BC_37__57_A_37_E_56__37_A_54__37__56_B_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjk_49_ajlz_57_H_95_AhVIlYkEHfn_50_BdUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__43__37_E_52__37_BC_37__57_A_37_E_56__37_A_54__37__56_B_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjk_49_ajlz_57_H_95_AhVIlYkEHfn_50_BdUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__43__37_E_52__37_BC_37__57_A_37_E_56__37_A_54__37__56_B_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjk_49_ajlz_57_H_95_AhVIlYkEHfn_50_BdUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__43__37_E_52__37_BC_37__57_A_37_E_56__37_A_54__37__56_B_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjk_49_ajlz_57_H_95_AhVIlYkEHfn_50_BdUQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3+%E4%BC%9A%E8%A6%8B&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjk1ajlz9H_AhVIlYkEHfn2BdUQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__43__37_E_52__37_BC_37__57_A_37_E_56__37_A_54__37__56_B_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjk_49_ajlz_57_H_95_AhVIlYkEHfn_50_BdUQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+i堀江貴文キャンドルアーティスト記者会見鳥羽周作yahooピアス
+i
+iキャンドル・ジュンさん異例の会見、自ら受付し記者はイン... news.yahoo.co.jp
+i
+iキャンドル・ジュン氏... www.sponichi.co.jp
+i
+i会見】キャンドル・ジュンさん 涙を流す場面も... newsdig.tbs.co.jp
+i
+iキャンドル・ジュン氏、緊急会見の“真意”明かす「多くの... news.yahoo.co.jp
+i
+iキャンドル・ジュンさん記者会見やりとり】「自慢できる家... www.chunichi.co.jp
+i
+i堀江貴文氏、キャンドル・ジュン氏の会見“ある部分”を称... sirabee.com
+i
+iキャンドル・ジュン氏が緊急会見... www.sponichi.co.jp
+i
+iキャンドル・ジュンさん会見「最も自慢できる幸せな家族だ... newsdig.tbs.co.jp
+i
+iキャンドル・ジュン氏の会見は素人っぽさが逆に好感持てた... news.yahoo.co.jp
+i
+i妻・広末涼子が不倫…キャンドル・ジュン氏が謝罪会見で過... hochi.news
+i
+iノーカット1】“W不倫騒動”広末涼子の夫キャンドル・ジ... news.tv-asahi.co.jp
+i
+iキャンドル・ジュン氏が都内で緊急会見へ... www.sponichi.co.jp
+i
+i緊急会見のキャンドル・ジュン氏、広末涼子との離婚は否定... encount.press
+i
+iノーカット2】“W不倫騒動”広末涼子の夫キャンドル・ジ... news.tv-asahi.co.jp
+i
+i広末涼子の夫キャンドル・ジュン氏が緊急会見... www.daily.co.jp
+i
+i広末不倫騒動】キャンドル・ジュン氏、異例の“記者と対談... www.news-postseven.com
+i
+i元プロ野球選手の妻、キャンドル・ジュン氏の会見に「魂が... hochi.news
+i
+i速報】広末涼子の夫、キャンドル・ジュン氏が緊急記者会見... smart-flash.jp
+i
+i完全版】キャンドル・ジュン氏 会見... www.youtube.com
+i
+iキャンドル・ジュン氏、会見で明かした不倫相手への「怒り... smart-flash.jp
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3+%E4%BC%9A%E8%A6%8B&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjk1ajlz9H_AhVIlYkEHfn2BdUQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:キャンドルジュン 会見 - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__43__37_E_52__37_BC_37__57_A_37_E_56__37_A_54__37__56_B_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjk_49_ajlz_57_H_95_AhVIlYkEHfn_50_BdUQ_95_AUIBigB	texopher.com	70

@@ -1,0 +1,34 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61__37_D_48__37_A_53__37_D_48__37_BE_37_D_49__37__56__48__37_D_48__37_B_50__37_D_48__37_B_48__37_D_49__37__56__50__37_D_49__37__57__54__37_D_49__37__56_F_43__37_D_49__37__57__54__37_D_49__37__56__49__37_D_48__37_BF_37_D_48__37_B_48__37_D_48__37_BD_37_D_49__37__57__54__37_D_49__37__56_F_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjyoLXoytH_95_AhXAtokEHVl_53_ATEQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61__37_D_48__37_A_53__37_D_48__37_BE_37_D_49__37__56__48__37_D_48__37_B_50__37_D_48__37_B_48__37_D_49__37__56__50__37_D_49__37__57__54__37_D_49__37__56_F_43__37_D_49__37__57__54__37_D_49__37__56__49__37_D_48__37_BF_37_D_48__37_B_48__37_D_48__37_BD_37_D_49__37__57__54__37_D_49__37__56_F_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjyoLXoytH_95_AhXAtokEHVl_53_ATEQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61__37_D_48__37_A_53__37_D_48__37_BE_37_D_49__37__56__48__37_D_48__37_B_50__37_D_48__37_B_48__37_D_49__37__56__50__37_D_49__37__57__54__37_D_49__37__56_F_43__37_D_49__37__57__54__37_D_49__37__56__49__37_D_48__37_BF_37_D_48__37_B_48__37_D_48__37_BD_37_D_49__37__57__54__37_D_49__37__56_F_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjyoLXoytH_95_AhXAtokEHVl_53_ATEQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61__37_D_48__37_A_53__37_D_48__37_BE_37_D_49__37__56__48__37_D_48__37_B_50__37_D_48__37_B_48__37_D_49__37__56__50__37_D_49__37__57__54__37_D_49__37__56_F_43__37_D_49__37__57__54__37_D_49__37__56__49__37_D_48__37_BF_37_D_48__37_B_48__37_D_48__37_BD_37_D_49__37__57__54__37_D_49__37__56_F_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjyoLXoytH_95_AhXAtokEHVl_53_ATEQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://maps.google.com/maps?hl=en&q=%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D1%96%D1%8F+%D1%96%D1%81%D0%BF%D0%B0%D0%BD%D1%96%D1%8F&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjyoLXoytH_AhXAtokEHVl5ATEQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61__37_D_48__37_A_53__37_D_48__37_BE_37_D_49__37__56__48__37_D_48__37_B_50__37_D_48__37_B_48__37_D_49__37__56__50__37_D_49__37__57__54__37_D_49__37__56_F_43__37_D_49__37__57__54__37_D_49__37__56__49__37_D_48__37_BF_37_D_48__37_B_48__37_D_48__37_BD_37_D_49__37__57__54__37_D_49__37__56_F_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjyoLXoytH_95_AhXAtokEHVl_53_ATEQ_95_AUIBigB	texopher.com	70
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://maps.google.com/maps?hl=en&q=%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D1%96%D1%8F+%D1%96%D1%81%D0%BF%D0%B0%D0%BD%D1%96%D1%8F&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjyoLXoytH_AhXAtokEHVl5ATEQ_AUIBigB
+i
+iLICENSE: ©2003 Google
+i
+i=========================================
+i
+i
+i$
+Bt:Google Maps	/x/w/g/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61__37_D_48__37_A_53__37_D_48__37_BE_37_D_49__37__56__48__37_D_48__37_B_50__37_D_48__37_B_48__37_D_49__37__56__50__37_D_49__37__57__54__37_D_49__37__56_F_43__37_D_49__37__57__54__37_D_49__37__56__49__37_D_48__37_BF_37_D_48__37_B_48__37_D_48__37_BD_37_D_49__37__57__54__37_D_49__37__56_F_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjyoLXoytH_95_AhXAtokEHVl_53_ATEQ_95_AUIBigB	texopher.com	70

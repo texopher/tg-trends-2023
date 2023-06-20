@@ -1,0 +1,212 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_French_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDOJtyguBABvx_48_bODgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwirhcjK_48_dH_95_AhVsl_52_kEHTqfAIgQ_54_RN_54_BAgLEAM	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_French_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDOJtyguBABvx_48_bODgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwirhcjK_48_dH_95_AhVsl_52_kEHTqfAIgQ_54_RN_54_BAgLEAM	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_French_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDOJtyguBABvx_48_bODgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwirhcjK_48_dH_95_AhVsl_52_kEHTqfAIgQ_54_RN_54_BAgLEAM	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_French_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDOJtyguBABvx_48_bODgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwirhcjK_48_dH_95_AhVsl_52_kEHTqfAIgQ_54_RN_54_BAgLEAM	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?hl=en&q=French&stick=H4sIAAAAAAAAAONgVuLSz9U3MDOJtyguBABvx0bODgAAAA&sa=X&ved=2ahUKEwirhcjK0dH_AhVsl4kEHTqfAIgQ6RN6BAgLEAM	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_French_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDOJtyguBABvx_48_bODgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwirhcjK_48_dH_95_AhVsl_52_kEHTqfAIgQ_54_RN_54_BAgLEAM	texopher.com	70
+i
+i×
+i
+iPlease click here if you are not redirected within a few seconds.
+i
+iAny time
+i
+iAll results
+i
+iFrench
+i
+iSpoken language
+i
+iFrench is a Romance language of the Indo-European family. It descended from
+ithe Vulgar Latin of the Roman Empire, as did all Romance languages. French
+ievolved from Gallo-Romance, the Latin spoken in Gaul, and more specifically
+iin
+iNorthern Gaul. Wikipedia
+i
+iLanguage family: Romance languages, Indo-European languages, Langues d'oïl,
+iand more
+i
+iSpeakers: Native: 80 million (2022); Total (L1 + L2): 270 million (2022)
+i
+iEarly forms: Old Latin: Vulgar Latin > Proto-Romance > Old Gallo-Romance >
+iOld French > Middle French
+i
+iWriting system: Latin (French alphabet); French Braille
+i
+iNative to: France, Switzerland, Belgium, Canada, and other locations in the
+iFrancophonie
+i
+iSigned forms: Signed French; (français signé)
+i
+iPeople also ask
+i
+iIs French hard to learn?
+i
+iHow can I speak French very well?
+i
+iWhy learn French over Spanish?
+i
+iWhat ethnic group is French?
+i
+iFrench language - Wikipedia
+i
+ien.wikipedia.org › wiki › French_language
+i
+iFrench is a Romance language of the Indo-European family. It descended from
+ithe Vulgar Latin of the Roman Empire, as did all Romance languages. French
+i...
+i
+iFrench-speaking · Category · French orthography · African French
+i
+iOfficial language in: 29 countries: Belgium; Benin; Burkina Faso; Burundi;
+iCameroon; Canada; Central African Republic; Chad; ... Pronunciation: fʁɑ̃sɛ
+iLanguage family: Indo-European > Italic > Latino-Faliscan > Romance >
+iItalo-Western > Western Romance > Gallo-Romance > Oïl ... Speakers: Native:
+i80
+imillion (2022); Total (L1 + L2): 270 million (2022)
+i
+iLearning and Teaching French - ThoughtCo
+i
+iwww.thoughtco.com › french-4133079
+i
+iTeachers and students can use these comprehensive French language guides to
+iimprove reading, writing, and comprehension skills for beginner,
+iintermediate,
+i...
+i
+iFrench Language - Structure, Writing & Alphabet - MustGo.com
+i
+iwww.mustgo.com › About World Languages
+i
+iFrench (français) belongs to the Romance branch of the Indo-European language
+ifamily. Like all Romance languages, it developed from Vulgar Latin spoken by
+i...
+i
+iBurkina Faso, Cambodia, Cameroon, Democratic Republic of the Congo, French
+iGuiana, Guinea: no estimates available French Polynesia: 184,000 1st language
+iand 2nd language speakers France: 66 million Andorra, Burundi, Central
+iAfrican
+iRepublic, Chad, Guadelupe, Mali, Martinique, Niger, Rwanda, Seychelles: under
+i10,000
+i
+iFrance - Wikipedia
+i
+ien.wikipedia.org › wiki › France
+i
+iFrance officially the French Republic is a country located primarily in
+iWestern Europe. It also includes overseas regions and territories in the
+iAmericas ...
+i
+iEtymology and pronunciation · History
+i
+iCapitaland largest city: Paris; 48°51′N 2°21′E﻿ / ﻿48.850°N 2.350°E Currency:
+iEuro (€) (EUR); CFP franc (XPF); Date format: dd/mm/yyyy (AD) Government:
+iUnitary semi-presidential republic
+i
+i10 good reasons to learn French - France Diplomatie
+i
+iwww.diplomatie.gouv.fr › Home › Coming to France › Studying in France
+i
+iFrench is the international language of cooking, fashion, theatre, the visual
+iarts, dance and architecture. A knowledge of French offers access to great
+iworks ...
+i
+iFrench Institute Alliance Française (FIAF) – New York's premier ...
+i
+ifiaf.org
+i
+iLearn French from the experts at FIAF, make new friends, and enjoy new
+icultural experiences! We offer the widest selection of fully immersive French
+icourses ...
+i
+iFrance in the United States / Embassy of France in Washington, D.C.
+i
+ifranceintheus.org
+i
+iLearn more about French American relationship, France's values, travel and
+ivisa information to visit, study or work in France, how to invest in France.
+i
+iFrench language | Origin, History, Grammar, & Speakers | Britannica
+i
+iwww.britannica.com › Geography & Travel › Languages
+i
+iFrench language, French français, probably the most internationally
+isignificant Romance language in the world. At the beginning of the 21st
+icentury, ...
+i
+iLearn French Online for Free: Phrases, Vocabulary, Grammar ...
+i
+iielanguages.com › french
+i
+iLearn French phrases, vocabulary, and grammar online for free with audio
+irecordings by native Buy French Language Tutorial as an e-book!
+i
+iNews in Slow French - French Podcast
+i
+iwww.newsinslowfrench.com
+i
+iNews in Slow French offers a unique language learning experience with
+iengaging content at a slower pace to help all learners. Covering a range of
+itopics and ...
+i
+iRelated searches
+i
+iEuropean languages
+i
+iFrance
+i
+iGermany
+i
+iRomance languages
+i
+iGermanic languages
+i
+iMore results
+i
+iFrench to English
+i
+iFrench language
+i
+iFrench translation
+i
+iFrench words
+i
+iFrench Google Translate
+i
+iFrench language learning
+i
+iFrench language course
+i
+iFrench Open
+i
+iNew York, NY
+i
+iSettingsPrivacyTermsDark theme: Off
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?hl=en&q=French&stick=H4sIAAAAAAAAAONgVuLSz9U3MDOJtyguBABvx0bODgAAAA&sa=X&ved=2ahUKEwirhcjK0dH_AhVsl4kEHTqfAIgQ6RN6BAgLEAM
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:French - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_French_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDOJtyguBABvx_48_bODgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwirhcjK_48_dH_95_AhVsl_52_kEHTqfAIgQ_54_RN_54_BAgLEAM	texopher.com	70

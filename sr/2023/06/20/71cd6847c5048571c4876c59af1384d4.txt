@@ -1,0 +1,151 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Deutscher_43_Wetterdienst_38_stick_61_H_52_sIAAAAAAAAAONgVuLUz_57_U_51_sLQwzTAFAE_51_kvGsNAAAA_38_sa_61_X_38_ved_61__50_ahUKEwiauPyF_49_NH_95_AhX_52_hYkEHQ_45_pC_56_cQ_54_RN_54_BAgIEAM	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Deutscher_43_Wetterdienst_38_stick_61_H_52_sIAAAAAAAAAONgVuLUz_57_U_51_sLQwzTAFAE_51_kvGsNAAAA_38_sa_61_X_38_ved_61__50_ahUKEwiauPyF_49_NH_95_AhX_52_hYkEHQ_45_pC_56_cQ_54_RN_54_BAgIEAM	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Deutscher_43_Wetterdienst_38_stick_61_H_52_sIAAAAAAAAAONgVuLUz_57_U_51_sLQwzTAFAE_51_kvGsNAAAA_38_sa_61_X_38_ved_61__50_ahUKEwiauPyF_49_NH_95_AhX_52_hYkEHQ_45_pC_56_cQ_54_RN_54_BAgIEAM	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Deutscher_43_Wetterdienst_38_stick_61_H_52_sIAAAAAAAAAONgVuLUz_57_U_51_sLQwzTAFAE_51_kvGsNAAAA_38_sa_61_X_38_ved_61__50_ahUKEwiauPyF_49_NH_95_AhX_52_hYkEHQ_45_pC_56_cQ_54_RN_54_BAgIEAM	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?hl=en&q=Deutscher+Wetterdienst&stick=H4sIAAAAAAAAAONgVuLUz9U3sLQwzTAFAE3kvGsNAAAA&sa=X&ved=2ahUKEwiauPyF1NH_AhX4hYkEHQ-pC8cQ6RN6BAgIEAM	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Deutscher_43_Wetterdienst_38_stick_61_H_52_sIAAAAAAAAAONgVuLUz_57_U_51_sLQwzTAFAE_51_kvGsNAAAA_38_sa_61_X_38_ved_61__50_ahUKEwiauPyF_49_NH_95_AhX_52_hYkEHQ_45_pC_56_cQ_54_RN_54_BAgIEAM	texopher.com	70
+i
+i×
+i
+iPlease click here if you are not redirected within a few seconds.
+i
+iAny time
+i
+iAll results
+i
+iDeutscher Wetterdienst
+i
+iwww.dwd.de
+i
+iWetter und Klima aus einer Hand: Wetterwarnungen, Wetter, Klima, Biowetter,
+iAgrarwetter, Flugwetter, Seewetter, Klimadaten, Klimakarten, Klimaservices.
+i
+iDeutscher Wetterdienst
+i
+iGovernment agency · dwd.de
+i
+iView all
+i
+iThe Deutscher Wetterdienst or DWD for short, is the German Meteorological
+iService, based in Offenbach am Main, Germany, which monitors weather and
+imeteorological conditions over Germany and provides weather services for the
+igeneral public and for... Wikipedia
+i
+iHeadquarters: Offenbach, Germany
+i
+iFounded: November 11, 1952
+i
+iDeutscher Wetterdienst - Startseite
+i
+iwww.wettergefahren.de
+i
+iDer Deutsche Wetterdienst ist eine Bundesoberbehörde im Geschäftsbereich des
+iBundesministeriums für Digitales und Verkehr. Deutscher Wetterdienst,
+iFrankfurter ...
+i
+iPeople also ask
+i
+iWo ist das Wetter gut in Deutschland?
+i
+iWie genau kann man das Wettervorhersagen?
+i
+iWie hoch ist der heutige Luftdruck?
+i
+iWo ist es sonnig in Europa?
+i
+iAmtliche Unwetterwarnungen und Wetterwarnungen
+i
+iwww.wettergefahren.de › warnungen › warnsituation
+i
+iDer Deutsche Wetterdienst ist eine Bundesoberbehörde im Geschäftsbereich des
+iBundesministeriums für Digitales und Verkehr.
+i
+iDeutscher Wetterdienst (DWD) Weather Warnings - Home Assistant
+i
+iwww.home-assistant.io › integrations › dwd_weather_warnings
+i
+iThe Deutscher Wetterdienst Weather Warnings integration uses the Deutscher
+iWetterdienst (DWD) as a source for current and advance weather warnings.
+i
+iWetterdienst.de: Deutschlandwetter
+i
+iwww.wetterdienst.de
+i
+iAktuelles Wetter und Wettervorhersage. Mit Niederschlagsradar,
+iUnwetterwarnungen, Pollenflugvorhersage, Satellitenbildern und vielem mehr.
+i
+iKarten (Vorhersage): Wetterarchiv Temperaturen: Biowetter
+i
+iDeutscher Wetterdienst
+i
+iwww.deutscher-wetterdienst.de
+i
+iDer Deutsche Wetterdienst ist eine Bundesoberbehörde im Geschäftsbereich des
+iBundesministeriums für Verkehr und digitale Infrastruktur. Deutscher
+iWetterdienst, ...
+i
+iDeutscher Wetterdienst | Offenbach am Main - Facebook
+i
+iwww.facebook.com › ... › Deutscher Wetterdienst
+i
+iDeutscher Wetterdienst, Offenbach am Main. Gefällt 194.474 Mal · 1.775
+iPersonen sprechen darüber · 1.506 waren hier. Dies ist die offizielle...
+i
+iDeutscher Wetterdienst (DWD) (@deutscherwetterdienst ... - Instagram
+i
+iwww.instagram.com › deutscherwetterdienst
+i
+iDeutschlands nationaler Wetterdienst. Ihr liebt Wetterbilder? Wir auch! Zeigt
+iuns eure Fotos über #ichliebewetter · Kunst im DWD's profile picture. Kunst
+iim
+iDWD.
+i
+iRelated searches
+i
+iWetterOnline
+i
+iKachelmannwetter
+i
+iWetter 14 Tage
+i
+iWetter Berlin 14 Tage DWD
+i
+iWetter Stuttgart
+i
+iWetter morgen
+i
+iWetter Europa
+i
+iChannel wetter
+i
+iNew York, NY
+i
+iSettingsPrivacyTermsDark theme: Off
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?hl=en&q=Deutscher+Wetterdienst&stick=H4sIAAAAAAAAAONgVuLUz9U3sLQwzTAFAE3kvGsNAAAA&sa=X&ved=2ahUKEwiauPyF1NH_AhX4hYkEHQ-pC8cQ6RN6BAgIEAM
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Deutscher Wetterdienst - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Deutscher_43_Wetterdienst_38_stick_61_H_52_sIAAAAAAAAAONgVuLUz_57_U_51_sLQwzTAFAE_51_kvGsNAAAA_38_sa_61_X_38_ved_61__50_ahUKEwiauPyF_49_NH_95_AhX_52_hYkEHQ_45_pC_56_cQ_54_RN_54_BAgIEAM	texopher.com	70
