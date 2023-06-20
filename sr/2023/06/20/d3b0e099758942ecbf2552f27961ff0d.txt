@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_56__37_A_55__37_D_57__37__56__52__37_D_57__37__56__53__37_D_57__37__56__52__37_D_57__37__56__51__43__37_D_56__37_AA_37_D_56__37_B_52__37_D_56__37_A_55__37_D_56__37_B_49__37_D_57__37__56__52__37_D_56__37_B_50__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjb_54_oHZy_57_H_95_AhU_53_kokEHQlhBesQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_56__37_A_55__37_D_57__37__56__52__37_D_57__37__56__53__37_D_57__37__56__52__37_D_57__37__56__51__43__37_D_56__37_AA_37_D_56__37_B_52__37_D_56__37_A_55__37_D_56__37_B_49__37_D_57__37__56__52__37_D_56__37_B_50__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjb_54_oHZy_57_H_95_AhU_53_kokEHQlhBesQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_56__37_A_55__37_D_57__37__56__52__37_D_57__37__56__53__37_D_57__37__56__52__37_D_57__37__56__51__43__37_D_56__37_AA_37_D_56__37_B_52__37_D_56__37_A_55__37_D_56__37_B_49__37_D_57__37__56__52__37_D_56__37_B_50__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjb_54_oHZy_57_H_95_AhU_53_kokEHQlhBesQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_56__37_A_55__37_D_57__37__56__52__37_D_57__37__56__53__37_D_57__37__56__52__37_D_57__37__56__51__43__37_D_56__37_AA_37_D_56__37_B_52__37_D_56__37_A_55__37_D_56__37_B_49__37_D_57__37__56__52__37_D_56__37_B_50__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjb_54_oHZy_57_H_95_AhU_53_kokEHQlhBesQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%D8%A7%D9%84%D9%85%D9%84%D9%83+%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjb6oHZy9H_AhU5kokEHQlhBesQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_56__37_A_55__37_D_57__37__56__52__37_D_57__37__56__53__37_D_57__37__56__52__37_D_57__37__56__51__43__37_D_56__37_AA_37_D_56__37_B_52__37_D_56__37_A_55__37_D_56__37_B_49__37_D_57__37__56__52__37_D_56__37_B_50__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjb_54_oHZy_57_H_95_AhU_53_kokEHQlhBesQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+icavalierteacupfull grownportraitbrownroyalblenheimspanielcrossbaby
+i
+iCharles III - Wikipedia en.wikipedia.org
+i
+iThe King | The Royal Family... www.royal.uk
+i
+iتتويج الملك تشارلز: دليل... www.bbc.com
+i
+iالملك تشارلز رئيسا لـ15... www.skynewsarabia.com
+i
+iالملك تشارلز الثالث قال 5... www.aljazeera.net
+i
+iحفل تتويج الملك تشارلز..... www.skynewsarabia.com
+i
+iالكشف عن البورتريهات... www.youm7.com
+i
+iفي أول خطاب... الملك تشارلز... www.dw.com
+i
+iالملك تشارلز الثالث:... www.bbc.com
+i
+iKing Charles III: How his... www.npr.org
+i
+iPhotos: Britain's King... www.cnn.com
+i
+iما هي الفروقات ما بين تتويج... aawsat.news
+i
+iKing Charles III's... www.architecturaldigest.com...
+i
+iالملك تشارلز الثالث يغادر... www.aa.com.tr
+i
+iتسلسل ورثة العرش بعد الملك... arabi21.com
+i
+iالملك تشارلز الثالث يلقي... www.aa.com.tr
+i
+iبعد الضجة.. تغيير صياغة قسم... arabic.cnn.com
+i
+iكم عمر الملك تشارلز الثالث... www.jid.org
+i
+iالمحطات الرئيسية في حياة... www.alittihad.ae
+i
+iالعلم | أبرز التحديات التي... alelm.net
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%D8%A7%D9%84%D9%85%D9%84%D9%83+%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjb6oHZy9H_AhU5kokEHQlhBesQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:الملك تشارلز - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_56__37_A_55__37_D_57__37__56__52__37_D_57__37__56__53__37_D_57__37__56__52__37_D_57__37__56__51__43__37_D_56__37_AA_37_D_56__37_B_52__37_D_56__37_A_55__37_D_56__37_B_49__37_D_57__37__56__52__37_D_56__37_B_50__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjb_54_oHZy_57_H_95_AhU_53_kokEHQlhBesQ_95_AUIBigB	texopher.com	70

@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Colo_43_Colo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_50__55_byczdH_95_AhWZmIkEHXUtC_57_AQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Colo_43_Colo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_50__55_byczdH_95_AhWZmIkEHXUtC_57_AQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Colo_43_Colo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_50__55_byczdH_95_AhWZmIkEHXUtC_57_AQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Colo_43_Colo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_50__55_byczdH_95_AhWZmIkEHXUtC_57_AQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Colo+Colo&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi27byczdH_AhWZmIkEHXUtC9AQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Colo_43_Colo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_50__55_byczdH_95_AhWZmIkEHXUtC_57_AQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+ibadgestadiumtatuajejerseyfootballkitteamshirtmakanancrvena zvezda
+i
+iColo-Colo - Wikipedia en.wikipedia.org
+i
+iColo Colo Soccer - Colo... www.espn.com
+i
+iEVERYTHING YOU NEED TO KNOW... www.cultkits.com
+i
+iBehind the badge: the hero... thesefootballtimes.co
+i
+iEVERYTHING YOU NEED TO KNOW... www.cultkits.com
+i
+iYouth Soccer Academy in FL... colocolosocceracademyusa.co...
+i
+iColo-Colo on Twitter: "🎂🏆... twitter.com
+i
+iClub Social y Deportivo... women.volleybox.net
+i
+iColo Colo 2023 Home & Away... www.footyheadlines.com
+i
+iColo Colo Soccer - Colo... www.espn.com
+i
+iCOLO-COLO www.futbox.com
+i
+iSTL file Cookie cutter LOGO... cults3d.com
+i
+iColo Colo Launch 2021... www.soccerbible.com
+i
+iColoColo | Spotify open.spotify.com
+i
+iColo Colo 2023 Home & Away... www.footyheadlines.com
+i
+iCOLO-COLO www.futbox.com
+i
+iColo-Colo colocolo.cl
+i
+iCésar Fuentes - Wikipedia en.wikipedia.org
+i
+iHacia una Política... mi.csdcolocolo.cl
+i
+iColo-Colo Femenino... twitter.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Colo+Colo&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi27byczdH_AhWZmIkEHXUtC9AQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Colo Colo - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Colo_43_Colo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_50__55_byczdH_95_AhWZmIkEHXUtC_57_AQ_95_AUIBigB	texopher.com	70
