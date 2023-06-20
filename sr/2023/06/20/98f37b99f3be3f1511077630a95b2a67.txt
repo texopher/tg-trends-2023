@@ -1,0 +1,1845 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70
+i
+hRead web directly	URL:https://www.imdb.com/chart/top/?ref_=nv_mv_250	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70
+i
+iRelease CalendarTop 250 MoviesMost Popular MoviesBrowse Movies by GenreTop
+iBox OfficeShowtimes & TicketsMovie NewsIndia Movie Spotlight
+i
+iWhat's on TV & StreamingTop 250 TV ShowsMost Popular TV ShowsBrowse TV Shows
+iby GenreTV News
+i
+iWhat to WatchLatest TrailersIMDb OriginalsIMDb PicksIMDb Podcasts
+i
+iOscarsABFFPride MonthOutfest OutfrontsSTARmeter AwardsAwards CentralFestival
+iCentralAll Events
+i
+iBorn TodayMost Popular CelebsMost Popular CelebsCelebrity News
+i
+iHelp CenterContributor ZonePolls
+i
+iAll Titles TV Episodes Celebs Companies Keywords Advanced Search
+i
+iIMDb Top 250 as rated by regular IMDb voters.
+i
+iSort by: Ranking IMDb Rating Release Date Number of Ratings Your Rating
+i
+iShowing 250 Titles
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+i1 2 3 4 5 6 7 8 9 10
+i
+iNOT YET RELEASED
+i
+iSeen
+i
+iThe Top Rated Movie list only includes feature films.
+i
+iCalculating
+i
+iHide titles I've seen
+i
+iTop Rated Movies by Genre Action Adventure Animation Biography Comedy Crime
+iDrama Family Fantasy Film-Noir History Horror Music Musical Mystery Romance
+iSci-Fi Sport Thriller War Western
+i
+iSign in for more accessSign in for more access
+i
+iGet the IMDb App Help Site Index IMDbPro Box Office Mojo IMDb Developer
+i
+iIMDb, an Amazon company
+i
+i© 1990-2023 by IMDb.com, Inc.
+i
+i
+i
+i=========================================
+i                 MENU
+i  -------------------------------------
+i
+1[?] Release Calendar	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_calendar_47__63_ref_95__61_nv_95_mv_95_cal	texopher.com	70
+1[?] Top 250 Movies	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70
+1[?] Most Popular Movies	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_chart_47_moviemeter_47__63_ref_95__61_nv_95_mv_95_mpm	texopher.com	70
+1[?] Browse Movies by Genre	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_feature_47_genre_47__63_ref_95__61_nv_95_ch_95_gr	texopher.com	70
+1[?] Showtimes & Tickets	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_showtimes_47__63_ref_95__61_nv_95_mv_95_sh	texopher.com	70
+1[?] Movie News	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_news_47_movie_47__63_ref_95__61_nv_95_nw_95_mv	texopher.com	70
+1[?] What's on TV & Streaming	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_whats_45_on_45_tv_47__63_ref_95__61_nv_95_tv_95_ontv	texopher.com	70
+1[?] Top 250 TV Shows	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_chart_47_toptv_47__63_ref_95__61_nv_95_tvv_95__50__53__48_	texopher.com	70
+1[?] Most Popular TV Shows	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_chart_47_tvmeter_47__63_ref_95__61_nv_95_tvv_95_mptv	texopher.com	70
+1[?] Browse TV Shows by Genre	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_feature_47_genre_47_	texopher.com	70
+1[?] TV News	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_news_47_tv_47__63_ref_95__61_nv_95_nw_95_tv	texopher.com	70
+i
+i
+i  -------------------------------------
+i
+1[?] The Shawshank Redemption	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__49__49__54__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49_	texopher.com	70
+1[?] The Godfather	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__56__54__52__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50_	texopher.com	70
+1[?] The Dark Knight	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__54__56__53__54__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51_	texopher.com	70
+1[?] The Godfather Part II	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__49__53__54__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52_	texopher.com	70
+1[?] 12 Angry Men	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__48__48__56__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53_	texopher.com	70
+1[?] Schindler's List	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__56__48__53__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54_	texopher.com	70
+1[?] The Lord of the Rings: The Return of the King	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__54__55__50__54__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55_	texopher.com	70
+1[?] Pulp Fiction	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__48__57__49__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56_	texopher.com	70
+1[?] The Lord of the Rings: The Fellowship of the Ring	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__48__55__51__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57_	texopher.com	70
+1[?] The Good, the Bad and the Ugly	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__48__49__57__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48_	texopher.com	70
+1[?] Spider-Man: Across the Spider-Verse	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_57__51__54__50__55__50__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49_	texopher.com	70
+1[?] Forrest Gump	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__57__56__51__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50_	texopher.com	70
+1[?] Fight Club	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__51__55__53__50__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51_	texopher.com	70
+1[?] The Lord of the Rings: The Two Towers	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__54__55__50__54__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52_	texopher.com	70
+1[?] Inception	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__51__55__53__54__54__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53_	texopher.com	70
+1[?] Star Wars: Episode V - The Empire Strikes Back	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__48__54__56__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54_	texopher.com	70
+1[?] The Matrix	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__51__51__48__57__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55_	texopher.com	70
+1[?] Goodfellas	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__57__54__56__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56_	texopher.com	70
+1[?] One Flew Over the Cuckoo's Nest	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__51__52__56__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57_	texopher.com	70
+1[?] Se7en	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__52__51__54__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48_	texopher.com	70
+1[?] It's a Wonderful Life	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__56__54__53__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49_	texopher.com	70
+1[?] Seven Samurai	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__55__52__55__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50_	texopher.com	70
+1[?] The Silence of the Lambs	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__50__57__50__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51_	texopher.com	70
+1[?] Saving Private Ryan	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__48__56__49__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52_	texopher.com	70
+1[?] City of God	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__49__55__50__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__53_	texopher.com	70
+1[?] Interstellar	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__56__49__54__54__57__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__54_	texopher.com	70
+1[?] Life Is Beautiful	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__56__55__57__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__55_	texopher.com	70
+1[?] The Green Mile	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__48__54__56__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__56_	texopher.com	70
+1[?] Star Wars: Episode IV - A New Hope	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__54__55__53__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__57_	texopher.com	70
+1[?] Terminator 2: Judgment Day	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__51__48__54__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__48_	texopher.com	70
+1[?] Back to the Future	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__56__55__54__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__49_	texopher.com	70
+1[?] Spirited Away	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__52__53__52__50__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__50_	texopher.com	70
+1[?] The Pianist	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__53__51__52__55__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__51_	texopher.com	70
+1[?] Psycho	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__52__50__49__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__52_	texopher.com	70
+1[?] Parasite	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_54__55__53__49__54__54__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__53_	texopher.com	70
+1[?] Léon: The Professional	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__48__52__49__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__54_	texopher.com	70
+1[?] The Lion King	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__48__51__53__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__55_	texopher.com	70
+1[?] Gladiator	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__55__50__52__57__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__56_	texopher.com	70
+1[?] American History X	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__48__53__56__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__51__57_	texopher.com	70
+1[?] The Departed	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__48__55__56__56__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__48_	texopher.com	70
+1[?] Whiplash	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__53__56__50__56__48__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__49_	texopher.com	70
+1[?] The Prestige	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__56__50__53__55__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__50_	texopher.com	70
+1[?] The Usual Suspects	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__52__56__49__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__51_	texopher.com	70
+1[?] Casablanca	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__52__53__56__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__52_	texopher.com	70
+1[?] Grave of the Fireflies	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__53__51__50__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__53_	texopher.com	70
+1[?] Harakiri	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__54__48__53__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__54_	texopher.com	70
+1[?] The Intouchables	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__54__55__53__52__51__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__55_	texopher.com	70
+1[?] Modern Times	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__50__55__57__55__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__56_	texopher.com	70
+1[?] Once Upon a Time in the West	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__52__49__49__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__52__57_	texopher.com	70
+1[?] Cinema Paradiso	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__53__55__54__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__48_	texopher.com	70
+1[?] Rear Window	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__55__51__57__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__49_	texopher.com	70
+1[?] Alien	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__56__55__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__50_	texopher.com	70
+1[?] City Lights	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__50__49__55__52__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__51_	texopher.com	70
+1[?] Apocalypse Now	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__56__55__56__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__52_	texopher.com	70
+1[?] Memento	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__48__57__49__52__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__53_	texopher.com	70
+1[?] Django Unchained	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__56__53__51__55__50__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__54_	texopher.com	70
+1[?] Indiana Jones and the Raiders of the Lost Ark	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__50__57__55__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__55_	texopher.com	70
+1[?] WALL·E	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__57__49__48__57__55__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__56_	texopher.com	70
+1[?] The Lives of Others	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__48__53__48__57__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__53__57_	texopher.com	70
+1[?] Sunset Blvd.	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__51__48__49__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__48_	texopher.com	70
+1[?] Paths of Glory	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__48__56__50__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__49_	texopher.com	70
+1[?] Avengers: Infinity War	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_52__49__53__52__55__53__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__50_	texopher.com	70
+1[?] The Shining	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__49__53__48__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__51_	texopher.com	70
+1[?] The Great Dictator	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__50__53__53__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__52_	texopher.com	70
+1[?] Witness for the Prosecution	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__49__50__48__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38__95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__53_	texopher.com	70
+1[?] Spider-Man: Into the Spider-Verse	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_52__54__51__51__54__57__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__54_	texopher.com	70
+1[?] Aliens	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__48__54__48__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__55_	texopher.com	70
+1[?] American Beauty	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__54__57__53__52__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__56_	texopher.com	70
+1[?] The Dark Knight Rises	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__51__52__53__56__51__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__54__57_	texopher.com	70
+1[?] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__55__48__49__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__48_	texopher.com	70
+1[?] Inglourious Basterds	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__54__49__55__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__49_	texopher.com	70
+1[?] Oldboy	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__54__52__53__54__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__50_	texopher.com	70
+1[?] Coco	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__51__56__48__51__48__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__51_	texopher.com	70
+1[?] Amadeus	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__54__56__55__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__52_	texopher.com	70
+1[?] Toy Story	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__52__55__48__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__53_	texopher.com	70
+1[?] Braveheart	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__50__53__55__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__54_	texopher.com	70
+1[?] Das Boot	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__50__48__57__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__55_	texopher.com	70
+1[?] Joker	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_55__50__56__54__52__53__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__56_	texopher.com	70
+1[?] Avengers: Endgame	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_52__49__53__52__55__57__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__55__57_	texopher.com	70
+1[?] Princess Mononoke	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__57__54__57__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__48_	texopher.com	70
+1[?] Good Will Hunting	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__57__50__49__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__49_	texopher.com	70
+1[?] Once Upon a Time in America	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__55__56__52__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__50_	texopher.com	70
+1[?] Your Name.	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_53__51__49__49__53__49__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__51_	texopher.com	70
+1[?] 3 Idiots	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__49__56__55__48__52__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__52_	texopher.com	70
+1[?] Singin' in the Rain	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__53__49__53__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__53_	texopher.com	70
+1[?] High and Low	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__55__53__54__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__54_	texopher.com	70
+1[?] Requiem for a Dream	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__56__48__48__57__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__55_	texopher.com	70
+1[?] Capernaum	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_56__50__54__55__54__48__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__56_	texopher.com	70
+1[?] Toy Story 3	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__51__53__55__54__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__56__57_	texopher.com	70
+1[?] Star Wars: Episode VI - Return of the Jedi	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__54__49__57__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__48_	texopher.com	70
+1[?] Come and See	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__49__50__53__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__49_	texopher.com	70
+1[?] Eternal Sunshine of the Spotless Mind	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__51__56__48__49__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__50_	texopher.com	70
+1[?] 2001: A Space Odyssey	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__50__54__50__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__51_	texopher.com	70
+1[?] The Hunt	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__49__48__54__52__55__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__52_	texopher.com	70
+1[?] Reservoir Dogs	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__53__50__51__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__53_	texopher.com	70
+1[?] Lawrence of Arabia	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__54__49__55__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__54_	texopher.com	70
+1[?] Citizen Kane	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__51__52__54__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__55_	texopher.com	70
+1[?] M	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__50__50__49__48__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__56_	texopher.com	70
+1[?] Ikiru	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__52__55__52__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__57__57_	texopher.com	70
+1[?] North by Northwest	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__51__49__50__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__48_	texopher.com	70
+1[?] The Apartment	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__51__54__48__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__49_	texopher.com	70
+1[?] Vertigo	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__50__51__53__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__50_	texopher.com	70
+1[?] Amélie	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__49__49__57__49__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__51_	texopher.com	70
+1[?] Double Indemnity	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__54__55__55__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__52_	texopher.com	70
+1[?] A Clockwork Orange	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__54__57__50__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__53_	texopher.com	70
+1[?] Full Metal Jacket	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__51__48__53__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__54_	texopher.com	70
+1[?] Hamilton	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_56__53__48__51__54__49__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__55_	texopher.com	70
+1[?] Scarface	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__54__50__53__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__56_	texopher.com	70
+1[?] Incendies	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__50__53__53__57__53__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__48__57_	texopher.com	70
+1[?] Heat	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__51__50__55__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__48_	texopher.com	70
+1[?] Up	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__48__52__57__52__49__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__49_	texopher.com	70
+1[?] To Kill a Mockingbird	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__54__53__57__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__50_	texopher.com	70
+1[?] The Sting	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__48__55__51__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__51_	texopher.com	70
+1[?] A Separation	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__56__51__50__51__56__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__52_	texopher.com	70
+1[?] Metropolis	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__49__55__49__51__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__53_	texopher.com	70
+1[?] L.A. Confidential	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__57__52__56__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__54_	texopher.com	70
+1[?] Die Hard	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__53__48__49__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__55_	texopher.com	70
+1[?] Indiana Jones and the Last Crusade	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__55__53__55__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__56_	texopher.com	70
+1[?] Snatch	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__48__56__48__57__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__49__57_	texopher.com	70
+1[?] Bicycle Thieves	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__48__53__50__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__48_	texopher.com	70
+1[?] Taxi Driver	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__53__51__49__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__49_	texopher.com	70
+1[?] Like Stars on Earth	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__57__56__54__50__54__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__50_	texopher.com	70
+1[?] 1917	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_56__53__55__57__54__55__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__51_	texopher.com	70
+1[?] Dangal	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_53__48__55__52__51__53__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__52_	texopher.com	70
+1[?] Downfall	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__54__51__49__54__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__53_	texopher.com	70
+1[?] Top Gun: Maverick	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__55__52__53__57__54__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__54_	texopher.com	70
+1[?] For a Few Dollars More	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__57__53__55__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__55_	texopher.com	70
+1[?] Batman Begins	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__55__50__55__56__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__56_	texopher.com	70
+1[?] The Kid	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__49__50__51__52__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__50__57_	texopher.com	70
+1[?] Some Like It Hot	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__51__50__57__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__48_	texopher.com	70
+1[?] The Father	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__48__50__55__50__51__56__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__49_	texopher.com	70
+1[?] The Wolf of Wall Street	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__57__57__51__56__52__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__50_	texopher.com	70
+1[?] All About Eve	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__50__49__57__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__51_	texopher.com	70
+1[?] Green Book	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_54__57__54__54__54__57__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__52_	texopher.com	70
+1[?] Judgment at Nuremberg	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__53__48__51__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__53_	texopher.com	70
+1[?] Ran	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__57__56__56__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__54_	texopher.com	70
+1[?] The Truman Show	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__48__51__56__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__55_	texopher.com	70
+1[?] Casino	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__50__54__52__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__56_	texopher.com	70
+1[?] There Will Be Blood	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__54__57__52__57__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__51__57_	texopher.com	70
+1[?] Pan's Labyrinth	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__53__55__52__51__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__48_	texopher.com	70
+1[?] Unforgiven	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__53__54__57__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__49_	texopher.com	70
+1[?] Shutter Island	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__49__51__48__56__56__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__50_	texopher.com	70
+1[?] The Sixth Sense	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__54__55__52__48__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__51_	texopher.com	70
+1[?] Jurassic Park	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__55__50__57__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__52_	texopher.com	70
+1[?] A Beautiful Mind	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__54__56__57__55__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__53_	texopher.com	70
+1[?] Yojimbo	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__53__54__51__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__54_	texopher.com	70
+1[?] The Treasure of the Sierra Madre	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__48__56__57__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__55_	texopher.com	70
+1[?] Monty Python and the Holy Grail	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__49__56__53__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__56_	texopher.com	70
+1[?] No Country for Old Men	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__55__55__51__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__52__57_	texopher.com	70
+1[?] Kill Bill: Vol. 1	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__54__54__54__57__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__48_	texopher.com	70
+1[?] The Great Escape	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__55__49__49__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__49_	texopher.com	70
+1[?] Rashomon	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__50__56__55__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__50_	texopher.com	70
+1[?] The Thing	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__52__55__56__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__51_	texopher.com	70
+1[?] Finding Nemo	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__54__54__53__52__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__52_	texopher.com	70
+1[?] Spider-Man: No Way Home	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__48__56__55__50__54__48__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__53_	texopher.com	70
+1[?] The Elephant Man	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__48__54__55__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__54_	texopher.com	70
+1[?] Chinatown	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__49__51__49__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__55_	texopher.com	70
+1[?] Raging Bull	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__49__51__57__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__56_	texopher.com	70
+1[?] V for Vendetta	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__51__52__52__48__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__53__57_	texopher.com	70
+1[?] Gone with the Wind	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__49__51__56__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__48_	texopher.com	70
+1[?] Dial M for Murder	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__54__57__49__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__49_	texopher.com	70
+1[?] Inside Out	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__48__57__54__54__55__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__50_	texopher.com	70
+1[?] Howl's Moving Castle	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__52__55__49__52__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__51_	texopher.com	70
+1[?] Lock, Stock and Two Smoking Barrels	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__48__55__51__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__52_	texopher.com	70
+1[?] The Secret in Their Eyes	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__51__48__53__56__48__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__53_	texopher.com	70
+1[?] Three Billboards Outside Ebbing, Missouri	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_53__48__50__55__55__55__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__54_	texopher.com	70
+1[?] Prisoners	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__51__57__50__50__49__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__55_	texopher.com	70
+1[?] The Bridge on the River Kwai	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__48__50__49__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__56_	texopher.com	70
+1[?] Trainspotting	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__55__57__53__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__54__57_	texopher.com	70
+1[?] Guardians of the Galaxy Vol. 3	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_54__55__57__49__51__53__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__48_	texopher.com	70
+1[?] Fargo	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__54__50__56__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__49_	texopher.com	70
+1[?] Warrior	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__50__57__49__53__56__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__50_	texopher.com	70
+1[?] Gran Torino	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__50__48__53__52__56__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__51_	texopher.com	70
+1[?] Catch Me If You Can	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__54__52__52__54__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__52_	texopher.com	70
+1[?] My Neighbor Totoro	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__54__50__56__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__53_	texopher.com	70
+1[?] Million Dollar Baby	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__48__53__49__53__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__54_	texopher.com	70
+1[?] Children of Heaven	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__56__56__52__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__55_	texopher.com	70
+1[?] The Gold Rush	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__49__53__56__54__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__56_	texopher.com	70
+1[?] Klaus	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_52__55__50__57__52__51__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__55__57_	texopher.com	70
+1[?] Blade Runner	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__51__54__53__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__48_	texopher.com	70
+1[?] Harry Potter and the Deathly Hallows: Part 2	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__50__48__49__54__48__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__49_	texopher.com	70
+1[?] 12 Years a Slave	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__48__50__52__53__52__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__50_	texopher.com	70
+1[?] Before Sunrise	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__50__52__55__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__51_	texopher.com	70
+1[?] The Grand Budapest Hotel	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__50__55__56__51__56__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__52_	texopher.com	70
+1[?] Ben-Hur	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__50__54__49__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__53_	texopher.com	70
+1[?] Gone Girl	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__50__54__55__57__57__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__54_	texopher.com	70
+1[?] On the Waterfront	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__55__50__57__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__55_	texopher.com	70
+1[?] Barry Lyndon	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__50__54__56__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__56_	texopher.com	70
+1[?] The General	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__49__55__57__50__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__56__57_	texopher.com	70
+1[?] Wild Strawberries	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__48__57__56__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__48_	texopher.com	70
+1[?] In the Name of the Father	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__55__50__48__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__49_	texopher.com	70
+1[?] The Deer Hunter	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__55__52__49__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__50_	texopher.com	70
+1[?] Hacksaw Ridge	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_50__49__49__57__53__51__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__51_	texopher.com	70
+1[?] The Third Man	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__49__57__53__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__52_	texopher.com	70
+1[?] The Wages of Fear	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__54__50__54__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__53_	texopher.com	70
+1[?] Memories of Murder	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__53__51__57__54__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__54_	texopher.com	70
+1[?] Sherlock Jr.	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__49__53__51__50__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__55_	texopher.com	70
+1[?] Wild Tales	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_51__48__49__49__56__57__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__56_	texopher.com	70
+1[?] Mr. Smith Goes to Washington	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__49__54__55__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__49__57__57_	texopher.com	70
+1[?] Mad Max: Fury Road	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__51__57__50__49__57__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__48_	texopher.com	70
+1[?] Mary and Max	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__57__55__56__55__54__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__49_	texopher.com	70
+1[?] Dead Poets Society	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__55__49__54__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__50_	texopher.com	70
+1[?] How to Train Your Dragon	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__56__57__50__55__54__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__51_	texopher.com	70
+1[?] Monsters, Inc.	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__57__56__55__56__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__52_	texopher.com	70
+1[?] The Seventh Seal	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__48__57__55__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__53_	texopher.com	70
+1[?] Jaws	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__51__49__57__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__54_	texopher.com	70
+1[?] Room	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_51__49__55__48__56__51__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__55_	texopher.com	70
+1[?] The Big Lebowski	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__56__55__49__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__56_	texopher.com	70
+1[?] Tokyo Story	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__54__52__51__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__48__57_	texopher.com	70
+1[?] Ford v Ferrari	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__57__53__48__49__56__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__48_	texopher.com	70
+1[?] The Passion of Joan of Arc	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__49__57__50__53__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__49_	texopher.com	70
+1[?] Hotel Rwanda	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__57__53__49__54__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__50_	texopher.com	70
+1[?] Ratatouille	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__56__50__57__51__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__51_	texopher.com	70
+1[?] Rocky	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__53__49__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__52_	texopher.com	70
+1[?] Platoon	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__49__55__54__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__53_	texopher.com	70
+1[?] Spotlight	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__56__57__53__53__56__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__54_	texopher.com	70
+1[?] Logan	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_51__51__49__53__51__52__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__55_	texopher.com	70
+1[?] The Terminator	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__56__56__50__52__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__56_	texopher.com	70
+1[?] Jai Bhim	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__53__48__57__55__50__49__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__49__57_	texopher.com	70
+1[?] Rush	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__57__55__57__51__50__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__48_	texopher.com	70
+1[?] Before Sunset	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__56__49__54__56__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__49_	texopher.com	70
+1[?] Stand by Me	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__50__48__48__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__50_	texopher.com	70
+1[?] Network	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__52__57__53__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__51_	texopher.com	70
+1[?] Into the Wild	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__55__53__56__55__53__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__52_	texopher.com	70
+1[?] The Wizard of Oz	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__50__49__51__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__53_	texopher.com	70
+1[?] The Best Years of Our Lives	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__54__56__54__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__54_	texopher.com	70
+1[?] The Exorcist	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__48__48__52__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__55_	texopher.com	70
+1[?] La haine	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__49__51__50__52__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__56_	texopher.com	70
+1[?] The Incredibles	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__49__55__55__48__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__50__57_	texopher.com	70
+1[?] To Be or Not to Be	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__53__52__52__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__48_	texopher.com	70
+1[?] Pirates of the Caribbean: The Curse of the Black Pearl	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__51__50__53__57__56__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__49_	texopher.com	70
+1[?] Groundhog Day	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__55__48__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__50_	texopher.com	70
+1[?] My Father and My Son	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__52__55__54__55__51__53__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__51_	texopher.com	70
+1[?] The Battle of Algiers	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__56__57__52__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__52_	texopher.com	70
+1[?] The Grapes of Wrath	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__50__53__53__49__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__53_	texopher.com	70
+1[?] Hachi: A Dog's Tale	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__48__50__56__53__51__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__54_	texopher.com	70
+1[?] Pather Panchali	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__52__56__52__55__51__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__55_	texopher.com	70
+1[?] The Handmaiden	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_52__48__49__54__57__51__52__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__56_	texopher.com	70
+1[?] Amores Perros	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__50__52__53__55__49__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__51__57_	texopher.com	70
+1[?] Rebecca	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__51__50__57__55__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__48_	texopher.com	70
+1[?] Cool Hand Luke	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__49__53__49__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__49_	texopher.com	70
+1[?] The Sound of Music	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__57__55__52__50__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__50_	texopher.com	70
+1[?] It Happened One Night	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__50__53__51__49__54__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__51_	texopher.com	70
+1[?] The 400 Blows	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__53__51__49__57__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__52_	texopher.com	70
+1[?] Persona	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__54__48__56__50__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__53_	texopher.com	70
+1[?] The Help	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_49__52__53__52__48__50__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__54_	texopher.com	70
+1[?] The Iron Giant	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__50__57__49__54__55__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__55_	texopher.com	70
+1[?] Life of Brian	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__55__57__52__55__48__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__56_	texopher.com	70
+1[?] Aladdin	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__49__48__51__54__51__57__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__52__57_	texopher.com	70
+1[?] Dances with Wolves	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_title_47_tt_48__48__57__57__51__52__56__47__63_pf_95_rd_95_m_61_A_50_FGELUUNOQJNL_38_pf_95_rd_95_p_61__49_a_50__54__52__49__55__50__45_ae_49__49__45__52__50_e_52__45__56_ef_55__45__55_fed_49__57__55__51_bb_56_f_38_pf_95_rd_95_r_61__56_BMZSSGRD_50__54_X_55_DPX_56_FJD_38_pf_95_rd_95_s_61_center_45__49__38_pf_95_rd_95_t_61__49__53__53__48__54__38_pf_95_rd_95_i_61_top_38_ref_95__61_chttp_95_tt_95__50__53__48_	texopher.com	70
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://www.imdb.com/chart/top/?ref_=nv_mv_250
+i
+iLICENSE: © 1990-2023 by IMDb.com, Inc.
+i
+i=========================================
+i
+i
+i$
+Bt:Top 250 Movies - IMDb	/x/w/g/https_58__47__47_www_46_imdb_46_com_47_chart_47_top_47__63_ref_95__61_nv_95_mv_95__50__53__48_	texopher.com	70

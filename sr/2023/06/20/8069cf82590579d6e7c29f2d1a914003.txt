@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__49__37_D_48__37__57_F_37_D_48__37__57_B_37_D_48__37__57__48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwj_56__48__53_bDytH_95_AhWFrYkEHfO_53_DecQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__49__37_D_48__37__57_F_37_D_48__37__57_B_37_D_48__37__57__48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwj_56__48__53_bDytH_95_AhWFrYkEHfO_53_DecQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__49__37_D_48__37__57_F_37_D_48__37__57_B_37_D_48__37__57__48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwj_56__48__53_bDytH_95_AhWFrYkEHfO_53_DecQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__49__37_D_48__37__57_F_37_D_48__37__57_B_37_D_48__37__57__48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwj_56__48__53_bDytH_95_AhWFrYkEHfO_53_DecQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%D0%91%D0%9F%D0%9B%D0%90&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj805bDytH_AhWFrYkEHfO5DecQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__49__37_D_48__37__57_F_37_D_48__37__57_B_37_D_48__37__57__48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwj_56__48__53_bDytH_95_AhWFrYkEHfO_53_DecQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iбеспилотник ориончерном мореатака дроновбпла orionударные
+iбеспилотникироссийские беспилотникиполетыбеспилотной авиациидрон камикадзе
+i
+iБеспилотный летательный... ru.wikipedia.org
+i
+iБеспилотный летательный... ru.wikipedia.org
+i
+iВ России разработали новую... ria.ru
+i
+iNYT: упавший в Черном море... www.mk.ru
+i
+iКуб-БЛА — Википедия ru.wikipedia.org
+i
+iТехнологическая... russian.rt.com
+i
+iГибридный БПЛА «Цимлянин»... aviation21.ru
+i
+iВестник НАТО - Автономные... www.nato.int
+i
+iСберечь жизни... russian.rt.com
+i
+iВСУ сбили китайский БПЛА... korrespondent.net
+i
+iИсточник рассказал о... ria.ru
+i
+iВ МИД Украины назвали... smotrim.ru
+i
+iПредставлен БПЛА TTX-15: он... focus.ua
+i
+iЗаконодательное... www.m24.ru
+i
+iСпециалисты БПЛА отработали... www.aex.ru
+i
+iНАТО направило к... bloknot-krasnodar.ru
+i
+iКак противодействовать... www.secuteck.ru
+i
+iАтака БПЛА на Москву www.interfax.ru
+i
+iУкраина сформировала три... www.vesti.ru
+i
+iБПЛА VTOL — купить у... www.karneev.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%D0%91%D0%9F%D0%9B%D0%90&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj805bDytH_AhWFrYkEHfO5DecQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:БПЛА - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__49__37_D_48__37__57_F_37_D_48__37__57_B_37_D_48__37__57__48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwj_56__48__53_bDytH_95_AhWFrYkEHfO_53_DecQ_95_AUIBigB	texopher.com	70

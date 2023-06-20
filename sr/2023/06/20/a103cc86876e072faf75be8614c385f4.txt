@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_CE_37__57__57__37_CF_37__56__51__37_CF_37__56__48__37_CE_37_B_49__37_CE_37_BD_37_CE_37_B_57__37_CE_37_B_49__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjV_55_Yawy_57_H_95_AhXapIkEHTN_45_D_51_wQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_CE_37__57__57__37_CF_37__56__51__37_CF_37__56__48__37_CE_37_B_49__37_CE_37_BD_37_CE_37_B_57__37_CE_37_B_49__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjV_55_Yawy_57_H_95_AhXapIkEHTN_45_D_51_wQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_CE_37__57__57__37_CF_37__56__51__37_CF_37__56__48__37_CE_37_B_49__37_CE_37_BD_37_CE_37_B_57__37_CE_37_B_49__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjV_55_Yawy_57_H_95_AhXapIkEHTN_45_D_51_wQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_CE_37__57__57__37_CF_37__56__51__37_CF_37__56__48__37_CE_37_B_49__37_CE_37_BD_37_CE_37_B_57__37_CE_37_B_49__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjV_55_Yawy_57_H_95_AhXapIkEHTN_45_D_51_wQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%CE%99%CF%83%CF%80%CE%B1%CE%BD%CE%B9%CE%B1&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjV7Yawy9H_AhXapIkEHTN-D3wQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_CE_37__57__57__37_CF_37__56__51__37_CF_37__56__48__37_CE_37_B_49__37_CE_37_BD_37_CE_37_B_57__37_CE_37_B_49__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjV_55_Yawy_57_H_95_AhXapIkEHTN_45_D_51_wQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iμάλαγαroad triptravelτουρισμούκαλοκαιρινοι προορισμοιβαρκελώνηversus
+itravelαξιοθέατατουρισμόστουρισμό
+i
+iΤο πρόγραμμα au pair στην... anixi.eu
+i
+i8 κορυφαίοι προορισμοί στην... www.grefis.gr
+i
+iΤαξίδι στην Ισπανία www.medtakeofftravel.gr
+i
+iΙσπανία: Μέτρα για τους... www.skai.gr
+i
+iΙσπανία: Μάλαγα, η πόλη του... www.maxmag.gr
+i
+i7 πόλεις για να ετοιμάσεις... itravelling.gr
+i
+iΟι 4 πιο ενδιαφέρον... www.travelstyle.gr
+i
+iΙσπανία www.medtakeofftravel.gr
+i
+iΙσπανία: Θέσεις εργασίας... www.proson.gr
+i
+iΤαξιδέψτε στην πρωτεύουσα... www.mednutrition.gr
+i
+iNo Time to Dilly-Dalí, τα... www.tiqets.com
+i
+iΙσπανία : Οι πιο... www.in.gr
+i
+iΙσπανία: Η δικαιοσύνη... www.capital.gr
+i
+iΟχτώ ξεχωριστοί προορισμοί... www.clickatlife.gr
+i
+iΤαξίδι Κλασική Ισπανία |... www.versustravel.eu
+i
+iΙσπανία — Προφίλ κράτους... european-union.europa.eu
+i
+iΑκολουθήστε μας σε ένα... www.travelstyle.gr
+i
+iΙσπανία: Τρίτο πακέτο... www.ot.gr
+i
+iΙσπανία: Πατώντας «φρένο»... www.in.gr
+i
+iΠού αξίζει να πάτε στην... gr.skyscanner.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%CE%99%CF%83%CF%80%CE%B1%CE%BD%CE%B9%CE%B1&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjV7Yawy9H_AhXapIkEHTN-D3wQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Ισπανια - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_CE_37__57__57__37_CF_37__56__51__37_CF_37__56__48__37_CE_37_B_49__37_CE_37_BD_37_CE_37_B_57__37_CE_37_B_49__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjV_55_Yawy_57_H_95_AhXapIkEHTN_45_D_51_wQ_95_AUIBigB	texopher.com	70
