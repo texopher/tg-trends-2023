@@ -1,0 +1,791 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+1Jared Cannonier	/x/w/sg/_49__124_Jared_32_Cannonier	__SERVER_HOST__	__SERVER_PORT__
+1Portugal	/x/w/sg/_49__124_Portugal	__SERVER_HOST__	__SERVER_PORT__
+1Rickie Fowler	/x/w/sg/_49__124_Rickie_32_Fowler	__SERVER_HOST__	__SERVER_PORT__
+1Brazil vs Guinea	/x/w/sg/_49__124_Brazil_32_vs_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Bob Huggins	/x/w/sg/_49__124_Bob_32_Huggins	__SERVER_HOST__	__SERVER_PORT__
+1What is Juneteenth day	/x/w/sg/_49__124_What_32_is_32_Juneteenth_32_day	__SERVER_HOST__	__SERVER_PORT__
+1Dodgers Pride Night	/x/w/sg/_49__124_Dodgers_32_Pride_32_Night	__SERVER_HOST__	__SERVER_PORT__
+1Elemental	/x/w/sg/_49__124_Elemental	__SERVER_HOST__	__SERVER_PORT__
+1Extraction 2	/x/w/sg/_49__124_Extraction_32__50_	__SERVER_HOST__	__SERVER_PORT__
+1PERRYTON, Texas -- Tornado	/x/w/sg/_49__124_PERRYTON_44__32_Texas_32__45__45__32_Tornado	__SERVER_HOST__	__SERVER_PORT__
+1Elemental movie	/x/w/sg/_49__124_Elemental_32_movie	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Canada
+i              -------------
+i
+1Jared Cannonier	/x/w/sg/_49__124_Jared_32_Cannonier	__SERVER_HOST__	__SERVER_PORT__
+1UFC Fight Night	/x/w/sg/_49__124_UFC_32_Fight_32_Night	__SERVER_HOST__	__SERVER_PORT__
+1Rickie Fowler	/x/w/sg/_49__124_Rickie_32_Fowler	__SERVER_HOST__	__SERVER_PORT__
+1F1 qualifying	/x/w/sg/_49__124_F_49__32_qualifying	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia and Herzegovina	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia_32_and_32_Herzegovina	__SERVER_HOST__	__SERVER_PORT__
+1The Cure	/x/w/sg/_49__124_The_32_Cure	__SERVER_HOST__	__SERVER_PORT__
+1Dolly Parton	/x/w/sg/_49__124_Dolly_32_Parton	__SERVER_HOST__	__SERVER_PORT__
+1Michael Jordan	/x/w/sg/_49__124_Michael_32_Jordan	__SERVER_HOST__	__SERVER_PORT__
+1Daniel Ellsberg	/x/w/sg/_49__124_Daniel_32_Ellsberg	__SERVER_HOST__	__SERVER_PORT__
+1TD Bank	/x/w/sg/_49__124_TD_32_Bank	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Mexico
+i              -------------
+i
+1Canciones para papá	/x/w/sg/_49__124_Canciones_32_para_32_pap_225_	__SERVER_HOST__	__SERVER_PORT__
+1China	/x/w/sg/_49__124_China	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs	/x/w/sg/_49__124_Portugal_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1America vs Toluca	/x/w/sg/_49__124_America_32_vs_32_Toluca	__SERVER_HOST__	__SERVER_PORT__
+1Brasil Guinea	/x/w/sg/_49__124_Brasil_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Jueza Angélica Sánchez Hernández	/x/w/sg/_49__124_Jueza_32_Ang_233_lica_32_S_225_nchez_32_Hern_225_ndez	__SERVER_HOST__	__SERVER_PORT__
+1Seleccion Mexicana Futbol	/x/w/sg/_49__124_Seleccion_32_Mexicana_32_Futbol	__SERVER_HOST__	__SERVER_PORT__
+1Mexico vs usa	/x/w/sg/_49__124_Mexico_32_vs_32_usa	__SERVER_HOST__	__SERVER_PORT__
+1Polonia Alemania	/x/w/sg/_49__124_Polonia_32_Alemania	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+1One Piece	/x/w/sg/_49__124_One_32_Piece	__SERVER_HOST__	__SERVER_PORT__
+1Represion en Jujuy	/x/w/sg/_49__124_Represion_32_en_32_Jujuy	__SERVER_HOST__	__SERVER_PORT__
+1Linda Hamilton	/x/w/sg/_49__124_Linda_32_Hamilton	__SERVER_HOST__	__SERVER_PORT__
+1Racing	/x/w/sg/_49__124_Racing	__SERVER_HOST__	__SERVER_PORT__
+1Union	/x/w/sg/_49__124_Union	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Al Pacino	/x/w/sg/_49__124_Al_32_Pacino	__SERVER_HOST__	__SERVER_PORT__
+1Corea del Sur Perú	/x/w/sg/_49__124_Corea_32_del_32_Sur_32_Per_250_	__SERVER_HOST__	__SERVER_PORT__
+1Dia del Ingeniero	/x/w/sg/_49__124_Dia_32_del_32_Ingeniero	__SERVER_HOST__	__SERVER_PORT__
+1Copa america 2024	/x/w/sg/_49__124_Copa_32_america_32__50__48__50__52_	__SERVER_HOST__	__SERVER_PORT__
+1Venezuela vs Honduras	/x/w/sg/_49__124_Venezuela_32_vs_32_Honduras	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Brazil
+i              -------------
+i
+1Figueirense	/x/w/sg/_49__124_Figueirense	__SERVER_HOST__	__SERVER_PORT__
+1Remo	/x/w/sg/_49__124_Remo	__SERVER_HOST__	__SERVER_PORT__
+1Ancelotti	/x/w/sg/_49__124_Ancelotti	__SERVER_HOST__	__SERVER_PORT__
+1Lotofácil 2839	/x/w/sg/_49__124_Lotof_225_cil_32__50__56__51__57_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Terremoto hoje	/x/w/sg/_49__124_Terremoto_32_hoje	__SERVER_HOST__	__SERVER_PORT__
+1Chris Hemsworth	/x/w/sg/_49__124_Chris_32_Hemsworth	__SERVER_HOST__	__SERVER_PORT__
+1Gibraltar	/x/w/sg/_49__124_Gibraltar	__SERVER_HOST__	__SERVER_PORT__
+1Porto Alegre	/x/w/sg/_49__124_Porto_32_Alegre	__SERVER_HOST__	__SERVER_PORT__
+1Sagrado Coração de Jesus	/x/w/sg/_49__124_Sagrado_32_Cora_231__227_o_32_de_32_Jesus	__SERVER_HOST__	__SERVER_PORT__
+1Ciclone RS	/x/w/sg/_49__124_Ciclone_32_RS	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Chile
+i              -------------
+i
+1One Piece	/x/w/sg/_49__124_One_32_Piece	__SERVER_HOST__	__SERVER_PORT__
+1Brasil Guinea	/x/w/sg/_49__124_Brasil_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1River Plate Defensa y Justicia	/x/w/sg/_49__124_River_32_Plate_32_Defensa_32_y_32_Justicia	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs	/x/w/sg/_49__124_Portugal_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Chile vs	/x/w/sg/_49__124_Chile_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1Chile Bolivia	/x/w/sg/_49__124_Chile_32_Bolivia	__SERVER_HOST__	__SERVER_PORT__
+1Ben Brereton	/x/w/sg/_49__124_Ben_32_Brereton	__SERVER_HOST__	__SERVER_PORT__
+1Corea del Sur Perú	/x/w/sg/_49__124_Corea_32_del_32_Sur_32_Per_250_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Colombia
+i              -------------
+i
+1Diesel	/x/w/sg/_49__124_Diesel	__SERVER_HOST__	__SERVER_PORT__
+1Millonarios	/x/w/sg/_49__124_Millonarios	__SERVER_HOST__	__SERVER_PORT__
+1Atlético Nacional Pasto	/x/w/sg/_49__124_Atl_233_tico_32_Nacional_32_Pasto	__SERVER_HOST__	__SERVER_PORT__
+1America de Cali	/x/w/sg/_49__124_America_32_de_32_Cali	__SERVER_HOST__	__SERVER_PORT__
+1Nacional	/x/w/sg/_49__124_Nacional	__SERVER_HOST__	__SERVER_PORT__
+1Brasil Guinea	/x/w/sg/_49__124_Brasil_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Millonarios hoy	/x/w/sg/_49__124_Millonarios_32_hoy	__SERVER_HOST__	__SERVER_PORT__
+1Millonarios fc	/x/w/sg/_49__124_Millonarios_32_fc	__SERVER_HOST__	__SERVER_PORT__
+1Colombia	/x/w/sg/_49__124_Colombia	__SERVER_HOST__	__SERVER_PORT__
+1Eliminatorias Eurocopa	/x/w/sg/_49__124_Eliminatorias_32_Eurocopa	__SERVER_HOST__	__SERVER_PORT__
+1Caracol tv	/x/w/sg/_49__124_Caracol_32_tv	__SERVER_HOST__	__SERVER_PORT__
+i
+i                   Peru
+i              -------------
+i
+1Atletico Nacional	/x/w/sg/_49__124_Atletico_32_Nacional	__SERVER_HOST__	__SERVER_PORT__
+1Racing Vélez	/x/w/sg/_49__124_Racing_32_V_233_lez	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Brasil Guinea	/x/w/sg/_49__124_Brasil_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Eurocopa	/x/w/sg/_49__124_Eurocopa	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia	__SERVER_HOST__	__SERVER_PORT__
+1Mari Carmen y sus muñecos	/x/w/sg/_49__124_Mari_32_Carmen_32_y_32_sus_32_mu_241_ecos	__SERVER_HOST__	__SERVER_PORT__
+1España vs	/x/w/sg/_49__124_Espa_241_a_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1Mision de rescate 2	/x/w/sg/_49__124_Mision_32_de_32_rescate_32__50_	__SERVER_HOST__	__SERVER_PORT__
+1Chile vs	/x/w/sg/_49__124_Chile_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1Son Heung-min	/x/w/sg/_49__124_Son_32_Heung_45_min	__SERVER_HOST__	__SERVER_PORT__
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+1Буданов	/x/w/sg/_49__124__1041__1091__1076__1072__1085__1086__1074_	__SERVER_HOST__	__SERVER_PORT__
+1День отца 2023	/x/w/sg/_49__124__1044__1077__1085__1100__32__1086__1090__1094__1072__32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+118 июня праздник	/x/w/sg/_49__124__49__56__32__1080__1102__1085__1103__32__1087__1088__1072__1079__1076__1085__1080__1082_	__SERVER_HOST__	__SERVER_PORT__
+1Землетрясение во Франции	/x/w/sg/_49__124__1047__1077__1084__1083__1077__1090__1088__1103__1089__1077__1085__1080__1077__32__1074__1086__32__1060__1088__1072__1085__1094__1080__1080_	__SERVER_HOST__	__SERVER_PORT__
+1Португалия – Босния и Герцеговина	/x/w/sg/_49__124__1055__1086__1088__1090__1091__1075__1072__1083__1080__1103__32__8211__32__1041__1086__1089__1085__1080__1103__32__1080__32__1043__1077__1088__1094__1077__1075__1086__1074__1080__1085__1072_	__SERVER_HOST__	__SERVER_PORT__
+117 июня праздник	/x/w/sg/_49__124__49__55__32__1080__1102__1085__1103__32__1087__1088__1072__1079__1076__1085__1080__1082_	__SERVER_HOST__	__SERVER_PORT__
+1Яблоновский мост	/x/w/sg/_49__124__1071__1073__1083__1086__1085__1086__1074__1089__1082__1080__1081__32__1084__1086__1089__1090_	__SERVER_HOST__	__SERVER_PORT__
+1Флаг Российской империи	/x/w/sg/_49__124__1060__1083__1072__1075__32__1056__1086__1089__1089__1080__1081__1089__1082__1086__1081__32__1080__1084__1087__1077__1088__1080__1080_	__SERVER_HOST__	__SERVER_PORT__
+1Немков Ромеро	/x/w/sg/_49__124__1053__1077__1084__1082__1086__1074__32__1056__1086__1084__1077__1088__1086_	__SERVER_HOST__	__SERVER_PORT__
+1Мальта – Англия	/x/w/sg/_49__124__1052__1072__1083__1100__1090__1072__32__8211__32__1040__1085__1075__1083__1080__1103_	__SERVER_HOST__	__SERVER_PORT__
+1Польша – Германия	/x/w/sg/_49__124__1055__1086__1083__1100__1096__1072__32__8211__32__1043__1077__1088__1084__1072__1085__1080__1103_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+1לשכת עורכי הדין	/x/w/sg/_49__124__1500__1513__1499__1514__32__1506__1493__1512__1499__1497__32__1492__1491__1497__1503_	__SERVER_HOST__	__SERVER_PORT__
+1עמיחי אליהו	/x/w/sg/_49__124__1506__1502__1497__1495__1497__32__1488__1500__1497__1492__1493_	__SERVER_HOST__	__SERVER_PORT__
+1פורטוגל	/x/w/sg/_49__124__1508__1493__1512__1496__1493__1490__1500_	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day 2023	/x/w/sg/_49__124_Father_39_s_32_Day_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1קארין אלהרר	/x/w/sg/_49__124__1511__1488__1512__1497__1503__32__1488__1500__1492__1512__1512_	__SERVER_HOST__	__SERVER_PORT__
+1ברצלונה	/x/w/sg/_49__124__1489__1512__1510__1500__1493__1504__1492_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1אבו טבלה	/x/w/sg/_49__124__1488__1489__1493__32__1496__1489__1500__1492_	__SERVER_HOST__	__SERVER_PORT__
+1רוני דלומי	/x/w/sg/_49__124__1512__1493__1504__1497__32__1491__1500__1493__1502__1497_	__SERVER_HOST__	__SERVER_PORT__
+1נבחרת ישראל	/x/w/sg/_49__124__1504__1489__1495__1512__1514__32__1497__1513__1512__1488__1500_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Saudi Arabia
+i              -------------
+i
+1الملك تشارلز	/x/w/sg/_49__124__1575__1604__1605__1604__1603__32__1578__1588__1575__1585__1604__1586_	__SERVER_HOST__	__SERVER_PORT__
+1حلمي بكر	/x/w/sg/_49__124__1581__1604__1605__1610__32__1576__1603__1585_	__SERVER_HOST__	__SERVER_PORT__
+1حروف الجر	/x/w/sg/_49__124__1581__1585__1608__1601__32__1575__1604__1580__1585_	__SERVER_HOST__	__SERVER_PORT__
+1ارمينيا	/x/w/sg/_49__124__1575__1585__1605__1610__1606__1610__1575_	__SERVER_HOST__	__SERVER_PORT__
+1المغرب منتخب	/x/w/sg/_49__124__1575__1604__1605__1594__1585__1576__32__1605__1606__1578__1582__1576_	__SERVER_HOST__	__SERVER_PORT__
+1البرتغال	/x/w/sg/_49__124__1575__1604__1576__1585__1578__1594__1575__1604_	__SERVER_HOST__	__SERVER_PORT__
+1حكيم زياش	/x/w/sg/_49__124__1581__1603__1610__1605__32__1586__1610__1575__1588_	__SERVER_HOST__	__SERVER_PORT__
+1جنوب أفريقيا ضد المغرب	/x/w/sg/_49__124__1580__1606__1608__1576__32__1571__1601__1585__1610__1602__1610__1575__32__1590__1583__32__1575__1604__1605__1594__1585__1576_	__SERVER_HOST__	__SERVER_PORT__
+1بولندا	/x/w/sg/_49__124__1576__1608__1604__1606__1583__1575_	__SERVER_HOST__	__SERVER_PORT__
+1مرتضى منصور	/x/w/sg/_49__124__1605__1585__1578__1590__1609__32__1605__1606__1589__1608__1585_	__SERVER_HOST__	__SERVER_PORT__
+1عشر ذي الحجة	/x/w/sg/_49__124__1593__1588__1585__32__1584__1610__32__1575__1604__1581__1580__1577_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Turkey
+i              -------------
+i
+1Babalar günü hediyesi	/x/w/sg/_49__124_Babalar_32_g_252_n_252__32_hediyesi	__SERVER_HOST__	__SERVER_PORT__
+1Babalar Günü Mesajı	/x/w/sg/_49__124_Babalar_32_G_252_n_252__32_Mesaj_305_	__SERVER_HOST__	__SERVER_PORT__
+1Asgari ücret ne kadar 2023	/x/w/sg/_49__124_Asgari_32__252_cret_32_ne_32_kadar_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Baba	/x/w/sg/_49__124_Baba	__SERVER_HOST__	__SERVER_PORT__
+1Babalar Günü	/x/w/sg/_49__124_Babalar_32_G_252_n_252_	__SERVER_HOST__	__SERVER_PORT__
+1Belçika	/x/w/sg/_49__124_Bel_231_ika	__SERVER_HOST__	__SERVER_PORT__
+1İstanbul hava durumu	/x/w/sg/_49__124__304_stanbul_32_hava_32_durumu	__SERVER_HOST__	__SERVER_PORT__
+1Orsolini	/x/w/sg/_49__124_Orsolini	__SERVER_HOST__	__SERVER_PORT__
+1TYT puan hesaplama	/x/w/sg/_49__124_TYT_32_puan_32_hesaplama	__SERVER_HOST__	__SERVER_PORT__
+1Barış Alper Yılmaz	/x/w/sg/_49__124_Bar_305__351__32_Alper_32_Y_305_lmaz	__SERVER_HOST__	__SERVER_PORT__
+1Meteoroloji İstanbul	/x/w/sg/_49__124_Meteoroloji_32__304_stanbul	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+1麥當勞	/x/w/sg/_49__124__40613__30070__21214_	__SERVER_HOST__	__SERVER_PORT__
+1父親節快樂	/x/w/sg/_49__124__29238__35242__31680__24555__27138_	__SERVER_HOST__	__SERVER_PORT__
+1蔡潔	/x/w/sg/_49__124__34081__28500_	__SERVER_HOST__	__SERVER_PORT__
+1天文台	/x/w/sg/_49__124__22825__25991__21488_	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1西九龍中心	/x/w/sg/_49__124__35199__20061__40845__20013__24515_	__SERVER_HOST__	__SERVER_PORT__
+1比亞迪	/x/w/sg/_49__124__27604__20126__36842_	__SERVER_HOST__	__SERVER_PORT__
+1中國女排	/x/w/sg/_49__124__20013__22283__22899__25490_	__SERVER_HOST__	__SERVER_PORT__
+1容祖兒	/x/w/sg/_49__124__23481__31062__20818_	__SERVER_HOST__	__SERVER_PORT__
+1Bill Gates	/x/w/sg/_49__124_Bill_32_Gates	__SERVER_HOST__	__SERVER_PORT__
+1MIRO	/x/w/sg/_49__124_MIRO	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Japan
+i              -------------
+i
+1ワンピース 実写	/x/w/sg/_49__124__12527__12531__12500__12540__12473__32__23455__20889_	__SERVER_HOST__	__SERVER_PORT__
+1マーメイドステークス	/x/w/sg/_49__124__12510__12540__12513__12452__12489__12473__12486__12540__12463__12473_	__SERVER_HOST__	__SERVER_PORT__
+1乃木坂46	/x/w/sg/_49__124__20035__26408__22338__52__54_	__SERVER_HOST__	__SERVER_PORT__
+1ユニコーンステークス	/x/w/sg/_49__124__12518__12491__12467__12540__12531__12473__12486__12540__12463__12473_	__SERVER_HOST__	__SERVER_PORT__
+1スパイダーバース	/x/w/sg/_49__124__12473__12497__12452__12480__12540__12496__12540__12473_	__SERVER_HOST__	__SERVER_PORT__
+1全日本大学駅伝予選会	/x/w/sg/_49__124__20840__26085__26412__22823__23398__39365__20253__20104__36984__20250_	__SERVER_HOST__	__SERVER_PORT__
+1グッチ	/x/w/sg/_49__124__12464__12483__12481_	__SERVER_HOST__	__SERVER_PORT__
+1高野光二郎	/x/w/sg/_49__124__39640__37326__20809__20108__37070_	__SERVER_HOST__	__SERVER_PORT__
+1俳優 永山絢斗	/x/w/sg/_49__124__20467__20778__32__27704__23665__32098__26007_	__SERVER_HOST__	__SERVER_PORT__
+1日本 対 エルサルバドル	/x/w/sg/_49__124__26085__26412__32__23550__32__12456__12523__12469__12523__12496__12489__12523_	__SERVER_HOST__	__SERVER_PORT__
+1全米オープンゴルフ	/x/w/sg/_49__124__20840__31859__12458__12540__12503__12531__12468__12523__12501_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               South Korea
+i              -------------
+i
+1손준호	/x/w/sg/_49__124__49552__51456__54840_	__SERVER_HOST__	__SERVER_PORT__
+1홍준표	/x/w/sg/_49__124__54861__51456__54364_	__SERVER_HOST__	__SERVER_PORT__
+1민우혁	/x/w/sg/_49__124__48124__50864__54785_	__SERVER_HOST__	__SERVER_PORT__
+1축구	/x/w/sg/_49__124__52629__44396_	__SERVER_HOST__	__SERVER_PORT__
+1브루노마스	/x/w/sg/_49__124__48652__47336__45432__47560__49828_	__SERVER_HOST__	__SERVER_PORT__
+1퀴어축제	/x/w/sg/_49__124__53300__50612__52629__51228_	__SERVER_HOST__	__SERVER_PORT__
+1주석중 교수	/x/w/sg/_49__124__51452__49437__51473__32__44368__49688_	__SERVER_HOST__	__SERVER_PORT__
+1주석중	/x/w/sg/_49__124__51452__49437__51473_	__SERVER_HOST__	__SERVER_PORT__
+1마비노기	/x/w/sg/_49__124__47560__48708__45432__44592_	__SERVER_HOST__	__SERVER_PORT__
+1트럼프	/x/w/sg/_49__124__53944__47100__54532_	__SERVER_HOST__	__SERVER_PORT__
+1대한민국 축구	/x/w/sg/_49__124__45824__54620__48124__44397__32__52629__44396_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Taiwan
+i              -------------
+i
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1萬沙浪	/x/w/sg/_49__124__33836__27801__28010_	__SERVER_HOST__	__SERVER_PORT__
+1統神	/x/w/sg/_49__124__32113__31070_	__SERVER_HOST__	__SERVER_PORT__
+1父親節	/x/w/sg/_49__124__29238__35242__31680_	__SERVER_HOST__	__SERVER_PORT__
+1蕭敬騰	/x/w/sg/_49__124__34157__25964__39472_	__SERVER_HOST__	__SERVER_PORT__
+1Google相簿	/x/w/sg/_49__124_Google_30456__31807_	__SERVER_HOST__	__SERVER_PORT__
+1韓國瑜	/x/w/sg/_49__124__38867__22283__29788_	__SERVER_HOST__	__SERVER_PORT__
+1楊丞琳	/x/w/sg/_49__124__26954__19998__29747_	__SERVER_HOST__	__SERVER_PORT__
+1陳曉東	/x/w/sg/_49__124__38515__26313__26481_	__SERVER_HOST__	__SERVER_PORT__
+1賽普勒斯	/x/w/sg/_49__124__36093__26222__21202__26031_	__SERVER_HOST__	__SERVER_PORT__
+1宏達電	/x/w/sg/_49__124__23439__36948__38651_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+1Father's Day Quotes in Hindi	/x/w/sg/_49__124_Father_39_s_32_Day_32_Quotes_32_in_32_Hindi	__SERVER_HOST__	__SERVER_PORT__
+1Nitin Gadkari	/x/w/sg/_49__124_Nitin_32_Gadkari	__SERVER_HOST__	__SERVER_PORT__
+1Brazil vs Guinea	/x/w/sg/_49__124_Brazil_32_vs_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Portugal	/x/w/sg/_49__124_Portugal	__SERVER_HOST__	__SERVER_PORT__
+1China Xi Jinping	/x/w/sg/_49__124_China_32_Xi_32_Jinping	__SERVER_HOST__	__SERVER_PORT__
+1Father Day	/x/w/sg/_49__124_Father_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Bigg boss ott 2 contestants	/x/w/sg/_49__124_Bigg_32_boss_32_ott_32__50__32_contestants	__SERVER_HOST__	__SERVER_PORT__
+1Malta vs England	/x/w/sg/_49__124_Malta_32_vs_32_England	__SERVER_HOST__	__SERVER_PORT__
+1Talati result 2023	/x/w/sg/_49__124_Talati_32_result_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Adipurush Box Office Collection	/x/w/sg/_49__124_Adipurush_32_Box_32_Office_32_Collection	__SERVER_HOST__	__SERVER_PORT__
+1Spain vs Italy	/x/w/sg/_49__124_Spain_32_vs_32_Italy	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+1Jadwal Final Indonesia Open 2023	/x/w/sg/_49__124_Jadwal_32_Final_32_Indonesia_32_Open_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Belgia vs Austria	/x/w/sg/_49__124_Belgia_32_vs_32_Austria	__SERVER_HOST__	__SERVER_PORT__
+1300: Rise of an Empire	/x/w/sg/_49__124__51__48__48__58__32_Rise_32_of_32_an_32_Empire	__SERVER_HOST__	__SERVER_PORT__
+1Bruno Mars	/x/w/sg/_49__124_Bruno_32_Mars	__SERVER_HOST__	__SERVER_PORT__
+1Malta vs Inggris	/x/w/sg/_49__124_Malta_32_vs_32_Inggris	__SERVER_HOST__	__SERVER_PORT__
+1Kualifikasi Euro	/x/w/sg/_49__124_Kualifikasi_32_Euro	__SERVER_HOST__	__SERVER_PORT__
+1Persis Solo vs Jeonbuk	/x/w/sg/_49__124_Persis_32_Solo_32_vs_32_Jeonbuk	__SERVER_HOST__	__SERVER_PORT__
+1Lionel Messi Argentina	/x/w/sg/_49__124_Lionel_32_Messi_32_Argentina	__SERVER_HOST__	__SERVER_PORT__
+1Timnas vs Argentina	/x/w/sg/_49__124_Timnas_32_vs_32_Argentina	__SERVER_HOST__	__SERVER_PORT__
+1Kualifikasi Euro 2024	/x/w/sg/_49__124_Kualifikasi_32_Euro_32__50__48__50__52_	__SERVER_HOST__	__SERVER_PORT__
+1Rp	/x/w/sg/_49__124_Rp	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Malaysia
+i              -------------
+i
+1Norway vs Scotland	/x/w/sg/_49__124_Norway_32_vs_32_Scotland	__SERVER_HOST__	__SERVER_PORT__
+1Brazil vs Guinea	/x/w/sg/_49__124_Brazil_32_vs_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1King the Land	/x/w/sg/_49__124_King_32_the_32_Land	__SERVER_HOST__	__SERVER_PORT__
+1South Africa vs Morocco	/x/w/sg/_49__124_South_32_Africa_32_vs_32_Morocco	__SERVER_HOST__	__SERVER_PORT__
+1Gibraltar vs France	/x/w/sg/_49__124_Gibraltar_32_vs_32_France	__SERVER_HOST__	__SERVER_PORT__
+1Malta vs England	/x/w/sg/_49__124_Malta_32_vs_32_England	__SERVER_HOST__	__SERVER_PORT__
+1Poland vs Germany	/x/w/sg/_49__124_Poland_32_vs_32_Germany	__SERVER_HOST__	__SERVER_PORT__
+1Extraction 2	/x/w/sg/_49__124_Extraction_32__50_	__SERVER_HOST__	__SERVER_PORT__
+1USA vs Mexico	/x/w/sg/_49__124_USA_32_vs_32_Mexico	__SERVER_HOST__	__SERVER_PORT__
+1Adipurush film	/x/w/sg/_49__124_Adipurush_32_film	__SERVER_HOST__	__SERVER_PORT__
+1Spirit	/x/w/sg/_49__124_Spirit	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Philippines
+i              -------------
+i
+1Happy Father's Day	/x/w/sg/_49__124_Happy_32_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day message to husband	/x/w/sg/_49__124_Father_39_s_32_Day_32_message_32_to_32_husband	__SERVER_HOST__	__SERVER_PORT__
+1King the Land	/x/w/sg/_49__124_King_32_the_32_Land	__SERVER_HOST__	__SERVER_PORT__
+1Dr. Romantic season 3	/x/w/sg/_49__124_Dr_46__32_Romantic_32_season_32__51_	__SERVER_HOST__	__SERVER_PORT__
+1MSC	/x/w/sg/_49__124_MSC	__SERVER_HOST__	__SERVER_PORT__
+1Bruno Mars	/x/w/sg/_49__124_Bruno_32_Mars	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day	/x/w/sg/_49__124_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Patrick Guzman	/x/w/sg/_49__124_Patrick_32_Guzman	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mader	/x/w/sg/_49__124_Gino_32_Mader	__SERVER_HOST__	__SERVER_PORT__
+1June 19 holiday	/x/w/sg/_49__124_June_32__49__57__32_holiday	__SERVER_HOST__	__SERVER_PORT__
+1When is Father's Day 2023	/x/w/sg/_49__124_When_32_is_32_Father_39_s_32_Day_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Singapore
+i              -------------
+i
+1Father day	/x/w/sg/_49__124_Father_32_day	__SERVER_HOST__	__SERVER_PORT__
+1Father Day 2023	/x/w/sg/_49__124_Father_32_Day_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1King the Land	/x/w/sg/_49__124_King_32_the_32_Land	__SERVER_HOST__	__SERVER_PORT__
+1Father Day	/x/w/sg/_49__124_Father_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia and Herzegovina	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia_32_and_32_Herzegovina	__SERVER_HOST__	__SERVER_PORT__
+1Norway vs Scotland	/x/w/sg/_49__124_Norway_32_vs_32_Scotland	__SERVER_HOST__	__SERVER_PORT__
+1Formula 1	/x/w/sg/_49__124_Formula_32__49_	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1England vs Malta	/x/w/sg/_49__124_England_32_vs_32_Malta	__SERVER_HOST__	__SERVER_PORT__
+1Ashes	/x/w/sg/_49__124_Ashes	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Thailand
+i              -------------
+i
+1See You in My 19th Life	/x/w/sg/_49__124_See_32_You_32_in_32_My_32__49__57_th_32_Life	__SERVER_HOST__	__SERVER_PORT__
+1ประยุทธ์	/x/w/sg/_49__124__3611__3619__3632__3618__3640__3607__3608__3660_	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1อังกฤษ	/x/w/sg/_49__124__3629__3633__3591__3585__3620__3625_	__SERVER_HOST__	__SERVER_PORT__
+1King the Land	/x/w/sg/_49__124_King_32_the_32_Land	__SERVER_HOST__	__SERVER_PORT__
+1The Roundup: No Way Out	/x/w/sg/_49__124_The_32_Roundup_58__32_No_32_Way_32_Out	__SERVER_HOST__	__SERVER_PORT__
+1ฝรั่งเศส	/x/w/sg/_49__124__3613__3619__3633__3656__3591__3648__3624__3626_	__SERVER_HOST__	__SERVER_PORT__
+1Lottery	/x/w/sg/_49__124_Lottery	__SERVER_HOST__	__SERVER_PORT__
+1หวย	/x/w/sg/_49__124__3627__3623__3618_	__SERVER_HOST__	__SERVER_PORT__
+1เลขเด็ด	/x/w/sg/_49__124__3648__3621__3586__3648__3604__3655__3604_	__SERVER_HOST__	__SERVER_PORT__
+1สลากกินแบ่งรัฐบาล	/x/w/sg/_49__124__3626__3621__3634__3585__3585__3636__3609__3649__3610__3656__3591__3619__3633__3600__3610__3634__3621_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Vietnam
+i              -------------
+i
+1Brazil vs	/x/w/sg/_49__124_Brazil_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1Vòng loại EURO	/x/w/sg/_49__124_V_242_ng_32_lo_7841_i_32_EURO	__SERVER_HOST__	__SERVER_PORT__
+1V BTS	/x/w/sg/_49__124_V_32_BTS	__SERVER_HOST__	__SERVER_PORT__
+1Bắn cá đổi thưởng	/x/w/sg/_49__124_B_7855_n_32_c_225__32__273__7893_i_32_th_432__7903_ng	__SERVER_HOST__	__SERVER_PORT__
+1Viện Hàn lâm Khoa học xã hội Việt Nam	/x/w/sg/_49__124_Vi_7879_n_32_H_224_n_32_l_226_m_32_Khoa_32_h_7885_c_32_x_227__32_h_7897_i_32_Vi_7879_t_32_Nam	__SERVER_HOST__	__SERVER_PORT__
+1Mbappe	/x/w/sg/_49__124_Mbappe	__SERVER_HOST__	__SERVER_PORT__
+1Extraction 2	/x/w/sg/_49__124_Extraction_32__50_	__SERVER_HOST__	__SERVER_PORT__
+1Điểm thi tuyển sinh lớp 10 năm 2023	/x/w/sg/_49__124__272_i_7875_m_32_thi_32_tuy_7875_n_32_sinh_32_l_7899_p_32__49__48__32_n_259_m_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1BTS	/x/w/sg/_49__124_BTS	__SERVER_HOST__	__SERVER_PORT__
+1Trang Nemo	/x/w/sg/_49__124_Trang_32_Nemo	__SERVER_HOST__	__SERVER_PORT__
+1Redmi 12	/x/w/sg/_49__124_Redmi_32__49__50_	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+1Paddleboard	/x/w/sg/_49__124_Paddleboard	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day	/x/w/sg/_49__124_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Jens Stoltenberg	/x/w/sg/_49__124_Jens_32_Stoltenberg	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1The Big Blue	/x/w/sg/_49__124_The_32_Big_32_Blue	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Prime	/x/w/sg/_49__124_Prime	__SERVER_HOST__	__SERVER_PORT__
+1Rasmus højlund	/x/w/sg/_49__124_Rasmus_32_h_248_jlund	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Al Pacino	/x/w/sg/_49__124_Al_32_Pacino	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mäder	/x/w/sg/_49__124_Gino_32_M_228_der	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Finland
+i              -------------
+i
+1Harrison Ford	/x/w/sg/_49__124_Harrison_32_Ford	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Adam Lambert	/x/w/sg/_49__124_Adam_32_Lambert	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Slovenia	/x/w/sg/_49__124_Slovenia	__SERVER_HOST__	__SERVER_PORT__
+1Olympiastadion	/x/w/sg/_49__124_Olympiastadion	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mäder	/x/w/sg/_49__124_Gino_32_M_228_der	__SERVER_HOST__	__SERVER_PORT__
+1Joker Out	/x/w/sg/_49__124_Joker_32_Out	__SERVER_HOST__	__SERVER_PORT__
+1U.S. Open	/x/w/sg/_49__124_U_46_S_46__32_Open	__SERVER_HOST__	__SERVER_PORT__
+1Berlusconi	/x/w/sg/_49__124_Berlusconi	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ireland
+i              -------------
+i
+1Father's Day	/x/w/sg/_49__124_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Happy Father's Day	/x/w/sg/_49__124_Happy_32_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Radio Kerry	/x/w/sg/_49__124_Radio_32_Kerry	__SERVER_HOST__	__SERVER_PORT__
+1MrBeast	/x/w/sg/_49__124_MrBeast	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Nicolas Jackson	/x/w/sg/_49__124_Nicolas_32_Jackson	__SERVER_HOST__	__SERVER_PORT__
+1When Harry Met Sally	/x/w/sg/_49__124_When_32_Harry_32_Met_32_Sally	__SERVER_HOST__	__SERVER_PORT__
+1Matthew McConaughey	/x/w/sg/_49__124_Matthew_32_McConaughey	__SERVER_HOST__	__SERVER_PORT__
+1Choc Ice	/x/w/sg/_49__124_Choc_32_Ice	__SERVER_HOST__	__SERVER_PORT__
+1Jack Grealish	/x/w/sg/_49__124_Jack_32_Grealish	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Sweden
+i              -------------
+i
+1The Weeknd Stockholm	/x/w/sg/_49__124_The_32_Weeknd_32_Stockholm	__SERVER_HOST__	__SERVER_PORT__
+1The Weeknd	/x/w/sg/_49__124_The_32_Weeknd	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Tori Spelling	/x/w/sg/_49__124_Tori_32_Spelling	__SERVER_HOST__	__SERVER_PORT__
+1Outlander	/x/w/sg/_49__124_Outlander	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Vätternrundan	/x/w/sg/_49__124_V_228_tternrundan	__SERVER_HOST__	__SERVER_PORT__
+1Satan från Borlänge	/x/w/sg/_49__124_Satan_32_fr_229_n_32_Borl_228_nge	__SERVER_HOST__	__SERVER_PORT__
+1Metallica	/x/w/sg/_49__124_Metallica	__SERVER_HOST__	__SERVER_PORT__
+1Sverige Nya Zeeland	/x/w/sg/_49__124_Sverige_32_Nya_32_Zeeland	__SERVER_HOST__	__SERVER_PORT__
+i
+i              United Kingdom
+i              -------------
+i
+1Father's Day	/x/w/sg/_49__124_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Happy Father's Day	/x/w/sg/_49__124_Happy_32_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1David Warburton	/x/w/sg/_49__124_David_32_Warburton	__SERVER_HOST__	__SERVER_PORT__
+1Hounslow	/x/w/sg/_49__124_Hounslow	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Norway vs Scotland	/x/w/sg/_49__124_Norway_32_vs_32_Scotland	__SERVER_HOST__	__SERVER_PORT__
+1Trooping the Colour	/x/w/sg/_49__124_Trooping_32_the_32_Colour	__SERVER_HOST__	__SERVER_PORT__
+1King Charles	/x/w/sg/_49__124_King_32_Charles	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Mason Greenwood	/x/w/sg/_49__124_Mason_32_Greenwood	__SERVER_HOST__	__SERVER_PORT__
+1England vs Australia	/x/w/sg/_49__124_England_32_vs_32_Australia	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+1Kroatien Spanien	/x/w/sg/_49__124_Kroatien_32_Spanien	__SERVER_HOST__	__SERVER_PORT__
+1Mario Barth	/x/w/sg/_49__124_Mario_32_Barth	__SERVER_HOST__	__SERVER_PORT__
+1EM-Quali Spiele	/x/w/sg/_49__124_EM_45_Quali_32_Spiele	__SERVER_HOST__	__SERVER_PORT__
+1Essen	/x/w/sg/_49__124_Essen	__SERVER_HOST__	__SERVER_PORT__
+1Trooping the Colour	/x/w/sg/_49__124_Trooping_32_the_32_Colour	__SERVER_HOST__	__SERVER_PORT__
+1Portugal gegen Bosnien-Herzegowina	/x/w/sg/_49__124_Portugal_32_gegen_32_Bosnien_45_Herzegowina	__SERVER_HOST__	__SERVER_PORT__
+1F1 Qualifying	/x/w/sg/_49__124_F_49__32_Qualifying	__SERVER_HOST__	__SERVER_PORT__
+1Donauinselfest	/x/w/sg/_49__124_Donauinselfest	__SERVER_HOST__	__SERVER_PORT__
+1EM-Qualifikation	/x/w/sg/_49__124_EM_45_Qualifikation	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Pride	/x/w/sg/_49__124_Pride	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Belgium
+i              -------------
+i
+1Pommelien Thijs	/x/w/sg/_49__124_Pommelien_32_Thijs	__SERVER_HOST__	__SERVER_PORT__
+1Werchter Boutique	/x/w/sg/_49__124_Werchter_32_Boutique	__SERVER_HOST__	__SERVER_PORT__
+1Belgie Oostenrijk	/x/w/sg/_49__124_Belgie_32_Oostenrijk	__SERVER_HOST__	__SERVER_PORT__
+1Afrique du Sud – Maroc	/x/w/sg/_49__124_Afrique_32_du_32_Sud_32__8211__32_Maroc	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Formule 1	/x/w/sg/_49__124_Formule_32__49_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Colette	/x/w/sg/_49__124_Colette	__SERVER_HOST__	__SERVER_PORT__
+1Bruce Springsteen	/x/w/sg/_49__124_Bruce_32_Springsteen	__SERVER_HOST__	__SERVER_PORT__
+1Pinkpop 2023	/x/w/sg/_49__124_Pinkpop_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Brienz	/x/w/sg/_49__124_Brienz	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  France
+i              -------------
+i
+1Claude Lelouch	/x/w/sg/_49__124_Claude_32_Lelouch	__SERVER_HOST__	__SERVER_PORT__
+1Isabelle Ithurburu	/x/w/sg/_49__124_Isabelle_32_Ithurburu	__SERVER_HOST__	__SERVER_PORT__
+1Coupe du monde rugby	/x/w/sg/_49__124_Coupe_32_du_32_monde_32_rugby	__SERVER_HOST__	__SERVER_PORT__
+1Feu d'artifice	/x/w/sg/_49__124_Feu_32_d_39_artifice	__SERVER_HOST__	__SERVER_PORT__
+1Loto 17 juin 2023	/x/w/sg/_49__124_Loto_32__49__55__32_juin_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Nimes	/x/w/sg/_49__124_Nimes	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Afrique du Sud – Maroc	/x/w/sg/_49__124_Afrique_32_du_32_Sud_32__8211__32_Maroc	__SERVER_HOST__	__SERVER_PORT__
+1Johann Zarco Marc Marquez	/x/w/sg/_49__124_Johann_32_Zarco_32_Marc_32_Marquez	__SERVER_HOST__	__SERVER_PORT__
+1Formule 1	/x/w/sg/_49__124_Formule_32__49_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Germany
+i              -------------
+i
+1Charles III Trooping the Colour	/x/w/sg/_49__124_Charles_32_III_32_Trooping_32_the_32_Colour	__SERVER_HOST__	__SERVER_PORT__
+1Formel 1	/x/w/sg/_49__124_Formel_32__49_	__SERVER_HOST__	__SERVER_PORT__
+1Trooping the Colour	/x/w/sg/_49__124_Trooping_32_the_32_Colour	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Nico Santos	/x/w/sg/_49__124_Nico_32_Santos	__SERVER_HOST__	__SERVER_PORT__
+1Basketball Ulm	/x/w/sg/_49__124_Basketball_32_Ulm	__SERVER_HOST__	__SERVER_PORT__
+1Germany's Next Topmodel	/x/w/sg/_49__124_Germany_39_s_32_Next_32_Topmodel	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mäder	/x/w/sg/_49__124_Gino_32_M_228_der	__SERVER_HOST__	__SERVER_PORT__
+1Eurojackpot	/x/w/sg/_49__124_Eurojackpot	__SERVER_HOST__	__SERVER_PORT__
+1Brienz	/x/w/sg/_49__124_Brienz	__SERVER_HOST__	__SERVER_PORT__
+1Joselu	/x/w/sg/_49__124_Joselu	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Netherlands
+i              -------------
+i
+1Beyonce concert	/x/w/sg/_49__124_Beyonce_32_concert	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1The Script	/x/w/sg/_49__124_The_32_Script	__SERVER_HOST__	__SERVER_PORT__
+1Burna Boy	/x/w/sg/_49__124_Burna_32_Boy	__SERVER_HOST__	__SERVER_PORT__
+1Dag van de Bouw	/x/w/sg/_49__124_Dag_32_van_32_de_32_Bouw	__SERVER_HOST__	__SERVER_PORT__
+1Formule 1	/x/w/sg/_49__124_Formule_32__49_	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Jochem Myjer	/x/w/sg/_49__124_Jochem_32_Myjer	__SERVER_HOST__	__SERVER_PORT__
+1Pinkpop	/x/w/sg/_49__124_Pinkpop	__SERVER_HOST__	__SERVER_PORT__
+1Yvonne Coldeweijer	/x/w/sg/_49__124_Yvonne_32_Coldeweijer	__SERVER_HOST__	__SERVER_PORT__
+1Beyonce	/x/w/sg/_49__124_Beyonce	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Switzerland
+i              -------------
+i
+1Fete des peres	/x/w/sg/_49__124_Fete_32_des_32_peres	__SERVER_HOST__	__SERVER_PORT__
+1Chrigel Maurer	/x/w/sg/_49__124_Chrigel_32_Maurer	__SERVER_HOST__	__SERVER_PORT__
+1Nuit Incolore	/x/w/sg/_49__124_Nuit_32_Incolore	__SERVER_HOST__	__SERVER_PORT__
+1Joe Biden	/x/w/sg/_49__124_Joe_32_Biden	__SERVER_HOST__	__SERVER_PORT__
+1Rammstein Bern	/x/w/sg/_49__124_Rammstein_32_Bern	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Portugal	/x/w/sg/_49__124_Portugal	__SERVER_HOST__	__SERVER_PORT__
+1Formel-1	/x/w/sg/_49__124_Formel_45__49_	__SERVER_HOST__	__SERVER_PORT__
+1Formel 1	/x/w/sg/_49__124_Formel_32__49_	__SERVER_HOST__	__SERVER_PORT__
+1Wladimir Putin	/x/w/sg/_49__124_Wladimir_32_Putin	__SERVER_HOST__	__SERVER_PORT__
+1Indochine	/x/w/sg/_49__124_Indochine	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Karel Gott	/x/w/sg/_49__124_Karel_32_Gott	__SERVER_HOST__	__SERVER_PORT__
+1Jar	/x/w/sg/_49__124_Jar	__SERVER_HOST__	__SERVER_PORT__
+1Joe Biden	/x/w/sg/_49__124_Joe_32_Biden	__SERVER_HOST__	__SERVER_PORT__
+1Gino mader	/x/w/sg/_49__124_Gino_32_mader	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mader	/x/w/sg/_49__124_Gino_32_Mader	__SERVER_HOST__	__SERVER_PORT__
+1Příběh kmotra	/x/w/sg/_49__124_P_345__237_b_283_h_32_kmotra	__SERVER_HOST__	__SERVER_PORT__
+1Marek Ztracený	/x/w/sg/_49__124_Marek_32_Ztracen_253_	__SERVER_HOST__	__SERVER_PORT__
+1Al Pacino	/x/w/sg/_49__124_Al_32_Pacino	__SERVER_HOST__	__SERVER_PORT__
+1Aneta Langerová	/x/w/sg/_49__124_Aneta_32_Langerov_225_	__SERVER_HOST__	__SERVER_PORT__
+1Neuschwanstein	/x/w/sg/_49__124_Neuschwanstein	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Hungary
+i              -------------
+i
+1Ismerős Arcok	/x/w/sg/_49__124_Ismer_337_s_32_Arcok	__SERVER_HOST__	__SERVER_PORT__
+1Csomor Csilla	/x/w/sg/_49__124_Csomor_32_Csilla	__SERVER_HOST__	__SERVER_PORT__
+1M4	/x/w/sg/_49__124_M_52_	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Csősz Boglárka	/x/w/sg/_49__124_Cs_337_sz_32_Bogl_225_rka	__SERVER_HOST__	__SERVER_PORT__
+1Státusztörvény	/x/w/sg/_49__124_St_225_tuszt_246_rv_233_ny	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mader	/x/w/sg/_49__124_Gino_32_Mader	__SERVER_HOST__	__SERVER_PORT__
+1Tóth Andi	/x/w/sg/_49__124_T_243_th_32_Andi	__SERVER_HOST__	__SERVER_PORT__
+1Rudi Garcia	/x/w/sg/_49__124_Rudi_32_Garcia	__SERVER_HOST__	__SERVER_PORT__
+1Gumball 3000	/x/w/sg/_49__124_Gumball_32__51__48__48__48_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Poland
+i              -------------
+i
+1Linda Hamilton	/x/w/sg/_49__124_Linda_32_Hamilton	__SERVER_HOST__	__SERVER_PORT__
+1Edyta Górniak	/x/w/sg/_49__124_Edyta_32_G_243_rniak	__SERVER_HOST__	__SERVER_PORT__
+1Mateusz Morawiecki	/x/w/sg/_49__124_Mateusz_32_Morawiecki	__SERVER_HOST__	__SERVER_PORT__
+1Desperados	/x/w/sg/_49__124_Desperados	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+1Sława Przybylska	/x/w/sg/_49__124_S_322_awa_32_Przybylska	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1Robert Lewandowski	/x/w/sg/_49__124_Robert_32_Lewandowski	__SERVER_HOST__	__SERVER_PORT__
+1Sport	/x/w/sg/_49__124_Sport	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mader	/x/w/sg/_49__124_Gino_32_Mader	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Romania
+i              -------------
+i
+1Italia	/x/w/sg/_49__124_Italia	__SERVER_HOST__	__SERVER_PORT__
+1Biden	/x/w/sg/_49__124_Biden	__SERVER_HOST__	__SERVER_PORT__
+1Formula 1 Canada	/x/w/sg/_49__124_Formula_32__49__32_Canada	__SERVER_HOST__	__SERVER_PORT__
+1Romania Kosovo	/x/w/sg/_49__124_Romania_32_Kosovo	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Gina	/x/w/sg/_49__124_Gina	__SERVER_HOST__	__SERVER_PORT__
+1Flashscore.ro	/x/w/sg/_49__124_Flashscore_46_ro	__SERVER_HOST__	__SERVER_PORT__
+1Belarus Israel	/x/w/sg/_49__124_Belarus_32_Israel	__SERVER_HOST__	__SERVER_PORT__
+1UNTOLD Dubai	/x/w/sg/_49__124_UNTOLD_32_Dubai	__SERVER_HOST__	__SERVER_PORT__
+1Gino Mader	/x/w/sg/_49__124_Gino_32_Mader	__SERVER_HOST__	__SERVER_PORT__
+1Chris Hemsworth	/x/w/sg/_49__124_Chris_32_Hemsworth	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ukraine
+i              -------------
+i
+118 июня праздник	/x/w/sg/_49__124__49__56__32__1080__1102__1085__1103__32__1087__1088__1072__1079__1076__1085__1080__1082_	__SERVER_HOST__	__SERVER_PORT__
+1Бразилия – Гвинея	/x/w/sg/_49__124__1041__1088__1072__1079__1080__1083__1080__1103__32__8211__32__1043__1074__1080__1085__1077__1103_	__SERVER_HOST__	__SERVER_PORT__
+1С Днем медицинского работника	/x/w/sg/_49__124__1057__32__1044__1085__1077__1084__32__1084__1077__1076__1080__1094__1080__1085__1089__1082__1086__1075__1086__32__1088__1072__1073__1086__1090__1085__1080__1082__1072_	__SERVER_HOST__	__SERVER_PORT__
+1Футбол	/x/w/sg/_49__124__1060__1091__1090__1073__1086__1083_	__SERVER_HOST__	__SERVER_PORT__
+1Буданов	/x/w/sg/_49__124__1041__1091__1076__1072__1085__1086__1074_	__SERVER_HOST__	__SERVER_PORT__
+1Tekever AR3	/x/w/sg/_49__124_Tekever_32_AR_51_	__SERVER_HOST__	__SERVER_PORT__
+117 червня свято	/x/w/sg/_49__124__49__55__32__1095__1077__1088__1074__1085__1103__32__1089__1074__1103__1090__1086_	__SERVER_HOST__	__SERVER_PORT__
+1Україна	/x/w/sg/_49__124__1059__1082__1088__1072__1111__1085__1072_	__SERVER_HOST__	__SERVER_PORT__
+1Украина	/x/w/sg/_49__124__1059__1082__1088__1072__1080__1085__1072_	__SERVER_HOST__	__SERVER_PORT__
+1Збірна України	/x/w/sg/_49__124__1047__1073__1110__1088__1085__1072__32__1059__1082__1088__1072__1111__1085__1080_	__SERVER_HOST__	__SERVER_PORT__
+1Мальта – Англия	/x/w/sg/_49__124__1052__1072__1083__1100__1090__1072__32__8211__32__1040__1085__1075__1083__1080__1103_	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+1Ζαμπιδησ	/x/w/sg/_49__124__918__945__956__960__953__948__951__963_	__SERVER_HOST__	__SERVER_PORT__
+1Λουιζα πυριοχου	/x/w/sg/_49__124__923__959__965__953__950__945__32__960__965__961__953__959__967__959__965_	__SERVER_HOST__	__SERVER_PORT__
+1Νοτησ σφακιανακησ	/x/w/sg/_49__124__925__959__964__951__963__32__963__966__945__954__953__945__957__945__954__951__963_	__SERVER_HOST__	__SERVER_PORT__
+1Νικηφοροσ	/x/w/sg/_49__124__925__953__954__951__966__959__961__959__963_	__SERVER_HOST__	__SERVER_PORT__
+1Μην αρχιζεισ την μουρμουρα	/x/w/sg/_49__124__924__951__957__32__945__961__967__953__950__949__953__963__32__964__951__957__32__956__959__965__961__956__959__965__961__945_	__SERVER_HOST__	__SERVER_PORT__
+1Αγγλικα πανελληνιεσ 2023	/x/w/sg/_49__124__913__947__947__955__953__954__945__32__960__945__957__949__955__955__951__957__953__949__963__32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Γαλλια	/x/w/sg/_49__124__915__945__955__955__953__945_	__SERVER_HOST__	__SERVER_PORT__
+1ΚΟΙΝΩΝΙΚΟΣ ΤΟΥΡΙΣΜΟΣ 2023 ΑΠΟΤΕΛΕΣΜΑΤΑ	/x/w/sg/_49__124__922__927__921__925__937__925__921__922__927__931__32__932__927__933__929__921__931__924__927__931__32__50__48__50__51__32__913__928__927__932__917__923__917__931__924__913__932__913_	__SERVER_HOST__	__SERVER_PORT__
+1Ανδρέας Μικρούτσικος	/x/w/sg/_49__124__913__957__948__961__941__945__962__32__924__953__954__961__959__973__964__963__953__954__959__962_	__SERVER_HOST__	__SERVER_PORT__
+1Σωτη τριανταφυλλου	/x/w/sg/_49__124__931__969__964__951__32__964__961__953__945__957__964__945__966__965__955__955__959__965_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Italy
+i              -------------
+i
+1Marvin Vettori	/x/w/sg/_49__124_Marvin_32_Vettori	__SERVER_HOST__	__SERVER_PORT__
+1Alena Seredova matrimonio	/x/w/sg/_49__124_Alena_32_Seredova_32_matrimonio	__SERVER_HOST__	__SERVER_PORT__
+1Davide Rebellin	/x/w/sg/_49__124_Davide_32_Rebellin	__SERVER_HOST__	__SERVER_PORT__
+1Isola dei Famosi	/x/w/sg/_49__124_Isola_32_dei_32_Famosi	__SERVER_HOST__	__SERVER_PORT__
+1Raffaella Carrà	/x/w/sg/_49__124_Raffaella_32_Carr_224_	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Castagne	/x/w/sg/_49__124_Castagne	__SERVER_HOST__	__SERVER_PORT__
+1Flavia Franzoni	/x/w/sg/_49__124_Flavia_32_Franzoni	__SERVER_HOST__	__SERVER_PORT__
+1Kulusevski	/x/w/sg/_49__124_Kulusevski	__SERVER_HOST__	__SERVER_PORT__
+1Funerali Flavia Franzoni	/x/w/sg/_49__124_Funerali_32_Flavia_32_Franzoni	__SERVER_HOST__	__SERVER_PORT__
+1Pavard	/x/w/sg/_49__124_Pavard	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Portugal
+i              -------------
+i
+1Linda Hamilton	/x/w/sg/_49__124_Linda_32_Hamilton	__SERVER_HOST__	__SERVER_PORT__
+1Ronaldo	/x/w/sg/_49__124_Ronaldo	__SERVER_HOST__	__SERVER_PORT__
+1Speed	/x/w/sg/_49__124_Speed	__SERVER_HOST__	__SERVER_PORT__
+1Otavio	/x/w/sg/_49__124_Otavio	__SERVER_HOST__	__SERVER_PORT__
+1Brasil Guiné	/x/w/sg/_49__124_Brasil_32_Guin_233_	__SERVER_HOST__	__SERVER_PORT__
+1Futsal	/x/w/sg/_49__124_Futsal	__SERVER_HOST__	__SERVER_PORT__
+1Seleção portuguesa	/x/w/sg/_49__124_Sele_231__227_o_32_portuguesa	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Ja Morant	/x/w/sg/_49__124_Ja_32_Morant	__SERVER_HOST__	__SERVER_PORT__
+1Chris Hemsworth	/x/w/sg/_49__124_Chris_32_Hemsworth	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Spain
+i              -------------
+i
+1Dia del Padre	/x/w/sg/_49__124_Dia_32_del_32_Padre	__SERVER_HOST__	__SERVER_PORT__
+1Segunda División	/x/w/sg/_49__124_Segunda_32_Divisi_243_n	__SERVER_HOST__	__SERVER_PORT__
+1Vitor Roque	/x/w/sg/_49__124_Vitor_32_Roque	__SERVER_HOST__	__SERVER_PORT__
+1Downton Abbey	/x/w/sg/_49__124_Downton_32_Abbey	__SERVER_HOST__	__SERVER_PORT__
+1Segunda division	/x/w/sg/_49__124_Segunda_32_division	__SERVER_HOST__	__SERVER_PORT__
+1Liga SmartBank	/x/w/sg/_49__124_Liga_32_SmartBank	__SERVER_HOST__	__SERVER_PORT__
+1Real Madrid Castilla	/x/w/sg/_49__124_Real_32_Madrid_32_Castilla	__SERVER_HOST__	__SERVER_PORT__
+1Levante alaves	/x/w/sg/_49__124_Levante_32_alaves	__SERVER_HOST__	__SERVER_PORT__
+1Feid	/x/w/sg/_49__124_Feid	__SERVER_HOST__	__SERVER_PORT__
+1Marc marquez	/x/w/sg/_49__124_Marc_32_marquez	__SERVER_HOST__	__SERVER_PORT__
+1Selena Quintanilla	/x/w/sg/_49__124_Selena_32_Quintanilla	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+1Dancing With the Stars 2023	/x/w/sg/_49__124_Dancing_32_With_32_the_32_Stars_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Portugal	/x/w/sg/_49__124_Portugal	__SERVER_HOST__	__SERVER_PORT__
+1Carlton vs Gold Coast	/x/w/sg/_49__124_Carlton_32_vs_32_Gold_32_Coast	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia and Herzegovina	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia_32_and_32_Herzegovina	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day	/x/w/sg/_49__124_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day 2023	/x/w/sg/_49__124_Father_39_s_32_Day_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Russia-Ukraine war	/x/w/sg/_49__124_Russia_45_Ukraine_32_war	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Matt Doran	/x/w/sg/_49__124_Matt_32_Doran	__SERVER_HOST__	__SERVER_PORT__
+1Malta vs England	/x/w/sg/_49__124_Malta_32_vs_32_England	__SERVER_HOST__	__SERVER_PORT__
+1Kick	/x/w/sg/_49__124_Kick	__SERVER_HOST__	__SERVER_PORT__
+i
+i               New Zealand
+i            -----------------
+i
+1Father's Day UK	/x/w/sg/_49__124_Father_39_s_32_Day_32_UK	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day India	/x/w/sg/_49__124_Father_39_s_32_Day_32_India	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day india	/x/w/sg/_49__124_Father_39_s_32_Day_32_india	__SERVER_HOST__	__SERVER_PORT__
+1All Blacks	/x/w/sg/_49__124_All_32_Blacks	__SERVER_HOST__	__SERVER_PORT__
+1Trooping the Colour 2023	/x/w/sg/_49__124_Trooping_32_the_32_Colour_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+1Euro qualifiers	/x/w/sg/_49__124_Euro_32_qualifiers	__SERVER_HOST__	__SERVER_PORT__
+1Supercars	/x/w/sg/_49__124_Supercars	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1All Whites	/x/w/sg/_49__124_All_32_Whites	__SERVER_HOST__	__SERVER_PORT__
+1F1	/x/w/sg/_49__124_F_49_	__SERVER_HOST__	__SERVER_PORT__
+1England Football	/x/w/sg/_49__124_England_32_Football	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+1مصر منتخب	/x/w/sg/_49__124__1605__1589__1585__32__1605__1606__1578__1582__1576_	__SERVER_HOST__	__SERVER_PORT__
+1اسرائيل	/x/w/sg/_49__124__1575__1587__1585__1575__1574__1610__1604_	__SERVER_HOST__	__SERVER_PORT__
+1عيد الاضحي ٢٠٢٣	/x/w/sg/_49__124__1593__1610__1583__32__1575__1604__1575__1590__1581__1610__32__1634__1632__1634__1635_	__SERVER_HOST__	__SERVER_PORT__
+1الاهلي والدفاع الجوي	/x/w/sg/_49__124__1575__1604__1575__1607__1604__1610__32__1608__1575__1604__1583__1601__1575__1593__32__1575__1604__1580__1608__1610_	__SERVER_HOST__	__SERVER_PORT__
+1النرويج	/x/w/sg/_49__124__1575__1604__1606__1585__1608__1610__1580_	__SERVER_HOST__	__SERVER_PORT__
+1البرتغال	/x/w/sg/_49__124__1575__1604__1576__1585__1578__1594__1575__1604_	__SERVER_HOST__	__SERVER_PORT__
+1الياس الجلاصي	/x/w/sg/_49__124__1575__1604__1610__1575__1587__32__1575__1604__1580__1604__1575__1589__1610_	__SERVER_HOST__	__SERVER_PORT__
+1جنوب أفريقيا ضد المغرب	/x/w/sg/_49__124__1580__1606__1608__1576__32__1571__1601__1585__1610__1602__1610__1575__32__1590__1583__32__1575__1604__1605__1594__1585__1576_	__SERVER_HOST__	__SERVER_PORT__
+1فينيسيوس	/x/w/sg/_49__124__1601__1610__1606__1610__1587__1610__1608__1587_	__SERVER_HOST__	__SERVER_PORT__
+1محمد منير	/x/w/sg/_49__124__1605__1581__1605__1583__32__1605__1606__1610__1585_	__SERVER_HOST__	__SERVER_PORT__
+1لبنان	/x/w/sg/_49__124__1604__1576__1606__1575__1606_	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+1Father	/x/w/sg/_49__124_Father	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day message	/x/w/sg/_49__124_Father_39_s_32_Day_32_message	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia and Herzegovina	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia_32_and_32_Herzegovina	__SERVER_HOST__	__SERVER_PORT__
+1King the Land	/x/w/sg/_49__124_King_32_the_32_Land	__SERVER_HOST__	__SERVER_PORT__
+1When is Father's Day	/x/w/sg/_49__124_When_32_is_32_Father_39_s_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Brazil vs Guinea	/x/w/sg/_49__124_Brazil_32_vs_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Nicolas Jackson	/x/w/sg/_49__124_Nicolas_32_Jackson	__SERVER_HOST__	__SERVER_PORT__
+1South Africa vs Morocco	/x/w/sg/_49__124_South_32_Africa_32_vs_32_Morocco	__SERVER_HOST__	__SERVER_PORT__
+1Nigeria vs Sierra Leone	/x/w/sg/_49__124_Nigeria_32_vs_32_Sierra_32_Leone	__SERVER_HOST__	__SERVER_PORT__
+1France vs	/x/w/sg/_49__124_France_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1England vs	/x/w/sg/_49__124_England_32_vs	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+1South African President Cyril Ramaphosa	/x/w/sg/_49__124_South_32_African_32_President_32_Cyril_32_Ramaphosa	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia and Herzegovina	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia_32_and_32_Herzegovina	__SERVER_HOST__	__SERVER_PORT__
+1Uganda school attack	/x/w/sg/_49__124_Uganda_32_school_32_attack	__SERVER_HOST__	__SERVER_PORT__
+1Rwanda vs Mozambique	/x/w/sg/_49__124_Rwanda_32_vs_32_Mozambique	__SERVER_HOST__	__SERVER_PORT__
+1Brazil vs Guinea	/x/w/sg/_49__124_Brazil_32_vs_32_Guinea	__SERVER_HOST__	__SERVER_PORT__
+1Nicolas Jackson	/x/w/sg/_49__124_Nicolas_32_Jackson	__SERVER_HOST__	__SERVER_PORT__
+1France fc	/x/w/sg/_49__124_France_32_fc	__SERVER_HOST__	__SERVER_PORT__
+1Ja Morant	/x/w/sg/_49__124_Ja_32_Morant	__SERVER_HOST__	__SERVER_PORT__
+1Malta vs England	/x/w/sg/_49__124_Malta_32_vs_32_England	__SERVER_HOST__	__SERVER_PORT__
+1KUCCPS	/x/w/sg/_49__124_KUCCPS	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day 2023	/x/w/sg/_49__124_Father_39_s_32_Day_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+1Cristiano Ronaldo	/x/w/sg/_49__124_Cristiano_32_Ronaldo	__SERVER_HOST__	__SERVER_PORT__
+1Al Wahda FC	/x/w/sg/_49__124_Al_32_Wahda_32_FC	__SERVER_HOST__	__SERVER_PORT__
+1Portugal vs Bosnia and Herzegovina	/x/w/sg/_49__124_Portugal_32_vs_32_Bosnia_32_and_32_Herzegovina	__SERVER_HOST__	__SERVER_PORT__
+1Father's Day messages	/x/w/sg/_49__124_Father_39_s_32_Day_32_messages	__SERVER_HOST__	__SERVER_PORT__
+1Cheetahs vs Bulls	/x/w/sg/_49__124_Cheetahs_32_vs_32_Bulls	__SERVER_HOST__	__SERVER_PORT__
+1Kourtney Kardashian	/x/w/sg/_49__124_Kourtney_32_Kardashian	__SERVER_HOST__	__SERVER_PORT__
+1Denmark vs Northern Ireland	/x/w/sg/_49__124_Denmark_32_vs_32_Northern_32_Ireland	__SERVER_HOST__	__SERVER_PORT__
+1Wales vs Armenia	/x/w/sg/_49__124_Wales_32_vs_32_Armenia	__SERVER_HOST__	__SERVER_PORT__
+1Youth Day	/x/w/sg/_49__124_Youth_32_Day	__SERVER_HOST__	__SERVER_PORT__
+1Extraction 2	/x/w/sg/_49__124_Extraction_32__50_	__SERVER_HOST__	__SERVER_PORT__
+1Youth Day 2023	/x/w/sg/_49__124_Youth_32_Day_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i
+Bt:    Trends at 06/18/2023 13:05:24
