@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Intelligenza_43_artificiale_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiioZi_45_y_57_H_95_AhV_51_kokEHcRzCogQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Intelligenza_43_artificiale_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiioZi_45_y_57_H_95_AhV_51_kokEHcRzCogQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Intelligenza_43_artificiale_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiioZi_45_y_57_H_95_AhV_51_kokEHcRzCogQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Intelligenza_43_artificiale_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiioZi_45_y_57_H_95_AhV_51_kokEHcRzCogQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Intelligenza+artificiale&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiioZi-y9H_AhV3kokEHcRzCogQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Intelligenza_43_artificiale_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiioZi_45_y_57_H_95_AhV_51_kokEHcRzCogQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iartificial intelligencechatmachine learningroboticaintelligenza umanasull
+iintelligenzareti neuralilavorodell intelligenzaestinzione
+i
+iMa quanto è "intelligente"... www.avvenire.it
+i
+iIntelligenza artificiale: è... www.wired.it
+i
+iOra l'Intelligenza... www.agi.it
+i
+iIntelligenza artificiale,... www.agendadigitale.eu
+i
+iIl Pnrr spinge anche... www.aboutpharma.com
+i
+iStudio Previti | L'impatto... www.previti.it
+i
+iIntelligenza artificiale:... www.maxmile.it
+i
+iRobotica e intelligenza... www.tecnicaospedaliera.it
+i
+iL' Intelligenza Artificiale... www.l4v.it
+i
+iIntelligenza artificiale:... agmsolutions.net
+i
+iL'intelligenza artificiale... www.ilsole24ore.com
+i
+iIntelligenza Artificiale:... www.fastweb.it
+i
+iUsare l'intelligenza... www.innovationpost.it
+i
+iL'intelligenza artificiale... www.officeautomation.soiel....
+i
+iLavoro: la severità... www.focus.it
+i
+iIntelligenza Artificiale e... www.leadershipmanagementmag...
+i
+iPerché serve un controllo... www.avvenire.it
+i
+iIl ruolo dell'Intelligenza... quifinanza.it
+i
+iE' possibile innamorarsi di... www.ipsico.it
+i
+iNuovo Giornale Nazionale -... www.nuovogiornalenazionale....
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Intelligenza+artificiale&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiioZi-y9H_AhV3kokEHcRzCogQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Intelligenza artificiale - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Intelligenza_43_artificiale_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiioZi_45_y_57_H_95_AhV_51_kokEHcRzCogQ_95_AUIBigB	texopher.com	70

@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Europa_45_Park_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjukcrwz_57_H_95_AhWug_52_kEHe_48_rAyEQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Europa_45_Park_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjukcrwz_57_H_95_AhWug_52_kEHe_48_rAyEQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Europa_45_Park_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjukcrwz_57_H_95_AhWug_52_kEHe_48_rAyEQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Europa_45_Park_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjukcrwz_57_H_95_AhWug_52_kEHe_48_rAyEQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Europa-Park&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjukcrwz9H_AhWug4kEHe0rAyEQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Europa_45_Park_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjukcrwz_57_H_95_AhWug_52_kEHe_48_rAyEQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+irusthotellogokarteroller coasterparkplanarthurbell rockwasserparkfire
+i
+iFire rages at Germany's... www.mirror.co.uk
+i
+iRust: Großbrand im... www.bild.de
+i
+iEuropa-Park: Fire Breaks... deadline.com
+i
+iEuropa-Park - Visit Alsace www.visit.alsace
+i
+iEuropa-Park - Wikipedia en.wikipedia.org
+i
+iEuropa Park: what's new in... www.sortiraparis.com
+i
+iVisit Europa-Park,... www.europapark.de
+i
+iFrance | Europa-Park... www.europapark.de
+i
+iEuropa-Park will reopen on... hospitality-on.com
+i
+iBook tickets and offers for... www.europapark.de
+i
+iGermany's Europa-Park is... news.sky.com
+i
+iHotels near Europa-Park... www.kayak.com
+i
+iWinter at the Europa-Park... www.tourism-bw.com
+i
+iEuropa-Park, Rust - Book... www.getyourguide.com
+i
+iEuropa Park Day One Vlog... www.youtube.com
+i
+iEuropa Park - Strasbourg www.visitstrasbourg.fr
+i
+iEuropa-Park - Wikimedia... commons.wikimedia.org
+i
+iHow to plan your trip to... www.aoonthetraveller.com
+i
+iVisit: EUROPA PARK - The... www.youtube.com
+i
+iHuge fire sees Germany's... www.independent.co.uk
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Europa-Park&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjukcrwz9H_AhWug4kEHe0rAyEQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Europa-Park - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Europa_45_Park_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjukcrwz_57_H_95_AhWug_52_kEHe_48_rAyEQ_95_AUIBigB	texopher.com	70

@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Voetbal_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjA_95_uTs_48_NH_95_AhULmYkEHfd_56_AOoQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Voetbal_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjA_95_uTs_48_NH_95_AhULmYkEHfd_56_AOoQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Voetbal_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjA_95_uTs_48_NH_95_AhULmYkEHfd_56_AOoQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Voetbal_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjA_95_uTs_48_NH_95_AhULmYkEHfd_56_AOoQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Voetbal&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA_uTs0NH_AhULmYkEHfd8AOoQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Voetbal_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjA_95_uTs_48_NH_95_AhULmYkEHfd_56_AOoQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+inikeachtergrondsporttekeningenballknvberedivisiefeyenoordveldspelers
+i
+iAssociation football -... en.wikipedia.org
+i
+iSuper League zal voetbal... www.tijd.be
+i
+iSoft Football | Thimble... www.thimbletoys.com
+i
+iNike Pitch Team Voetbal |... www.deprijshamer.nl
+i
+iVoetbal zwart/wit www.cakepicture.nl
+i
+iadidas WK 2022 Al Rihla... www.voetbalshop.nl
+i
+iadidas WK 2022 Al Rihla... www.voetbalshop.nl
+i
+iCorona-maatregelen voor... adodenhaag.nl
+i
+iAjax Voetbal Rood- Wit... www.bol.com
+i
+iCIOS Medewerker sport en... vistacollege.nl
+i
+iVoetbal met veel kracht... www.fotobehang.nl
+i
+iNike ballen &... m.aktiesport.nl
+i
+iTalpa verliest tv-rechten... nos.nl
+i
+iZiggo Sport | Voetbal www.ziggosport.nl
+i
+iPremier League Academy... www.nike.com
+i
+iOns voetbal is van iedereen... onsvoetbalisvaniedereen.nl
+i
+iVoetbalXprt - 10 nuttige... voetbalxprt.com
+i
+iDe 11 meest legendarische... www.redbull.com
+i
+iLIVE buitenlands voetbal |... www.ad.nl
+i
+iSAS biedt KNVB inzicht in... www.computable.nl
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Voetbal&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjA_uTs0NH_AhULmYkEHfd8AOoQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Voetbal - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Voetbal_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjA_95_uTs_48_NH_95_AhULmYkEHfd_56_AOoQ_95_AUIBigB	texopher.com	70
