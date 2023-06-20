@@ -1,0 +1,1064 @@
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_en_46_wikipedia_46_org_47_wiki_47_Elon_95_Musk	texopher.com	70
+i
+i===== Contents =====
+i
+iElon Reeve Musk (/ˈiːlɒn/ EE-lon; born June 28, 1971) is a business magnate
+iand investor. He is the founder, CEO and chief engineer of SpaceX; angel
+iinvestor, CEO and product architect of Tesla, Inc.; owner, CTO and chairman
+iof
+iTwitter; founder of the Boring Company and X Corp.; co-founder of Neuralink
+iand OpenAI; and president of the philanthropic Musk Foundation. Musk is the
+iwealthiest person in the world according to the Bloomberg Billionaires Index
+iand Forbes's Real Time Billionaires list as of June 2023, primarily from his
+iownership stakes in Tesla and SpaceX, with an estimated net worth of around
+i$225 billion according to Bloomberg and $235 billion according to
+iForbes.[4][5][6]
+i
+iMusk was born in Pretoria, South Africa, and briefly attended the University
+iof Pretoria before moving to Canada at age 18, acquiring citizenship through
+ihis Canadian-born mother. Two years later, he matriculated at Queen's
+iUniversity and transferred to the University of Pennsylvania, where he
+ireceived bachelor's degrees in economics and physics. He moved to California
+iin 1995 to attend Stanford University. After two days, he dropped out and,
+iwith his brother Kimbal, co-founded the online city guide software company
+iZip2. In 1999, Zip2 was acquired by Compaq for $307 million and Musk
+ico-founded X.com, a direct bank. X.com merged with Confinity in 2000 to form
+iPayPal, which eBay acquired for $1.5 billion in 2002.
+i
+iWith $175.8 million, Musk founded SpaceX in 2002, a spaceflight services
+icompany. In 2004, he was an early investor in the electric vehicle
+imanufacturer Tesla Motors, Inc. (now Tesla, Inc.). He became its chairman and
+iproduct architect, assuming the position of CEO in 2008. In 2006, he helped
+icreate SolarCity, a solar energy company that was later acquired by Tesla and
+ibecame Tesla Energy. In 2015, he co-founded OpenAI, a nonprofit artificial
+iintelligence research company. The following year, he co-founded Neuralink—a
+ineurotechnology company developing brain–computer interfaces—and the Boring
+iCompany, a tunnel construction company. Musk has also proposed a hyperloop
+ihigh-speed vactrain transportation system. In 2022, his acquisition of
+iTwitter
+ifor $44 billion was completed.
+i
+iMusk has expressed views that have made him a polarizing figure. He has been
+icriticized for making unscientific and misleading statements, including that
+iof spreading COVID-19 misinformation. In 2018, the U.S. Securities and
+iExchange Commission (SEC) sued Musk for falsely tweeting that he had secured
+ifunding for a private takeover of Tesla. Musk stepped down as chairman of
+iTesla and paid a $20 million fine as part of a settlement agreement with the
+iSEC.
+i
+i===== Early life =====
+i
+iElon Reeve Musk was born on June 28, 1971, in Pretoria, one of South Africa's
+icapital cities.[7][8] Musk has British and Pennsylvania Dutch
+iancestry.[9][10]
+iHis mother is Maye Musk (née Haldeman), a model and dietitian born in
+iSaskatchewan, Canada, and raised in South Africa.[11][12][13] His father,
+iErrol Musk, is a South African electromechanical engineer, pilot, sailor,
+iconsultant, and property developer, who partly owned a Zambian emerald mine
+inear Lake Tanganyika.[14][15][16][17] Musk has a younger brother, Kimbal, and
+ia younger sister, Tosca.[13][18]
+i
+iMusk's family was wealthy during his youth.[17] His father was elected to the
+iPretoria City Council as a representative of the anti-apartheid Progressive
+iParty and has said that his children shared their father's dislike of
+iapartheid.[7] His maternal grandfather, Joshua Haldeman, was an American-born
+iCanadian who took his family on record-breaking journeys to Africa and
+iAustralia in a single-engine Bellanca airplane.[19][20][21] After his parents
+idivorced in 1980, Musk chose to mostly live with his father.[9] Musk
+iregretted
+ihis decision and has become estranged from his father.[22] He has a paternal
+ihalf-sister and a half-brother.[19][23]
+i
+iMaye Musk has said of her son that he "was shy and awkward at school" and
+i"didn't have many friends".[24] At age ten, he developed an interest in
+icomputing and video games, teaching himself how to program from the VIC-20
+iuser manual.[25] At age twelve, he sold his BASIC-based game Blastar to PC
+iand
+iOffice Technology magazine for approximately $500.[26][27]
+i
+iMusk attended Waterkloof House Preparatory School, Bryanston High School, and
+iPretoria Boys High School, from which he graduated.[28] Musk applied for a
+iCanadian passport through his Canadian-born mother,[29][30] knowing that it
+iwould be easier to immigrate to the United States this way.[31] While waiting
+ifor his application to be processed, he attended the University of Pretoria
+ifor five months.[32]
+i
+iMusk arrived in Canada in June 1989 and lived with a second cousin in
+iSaskatchewan for a year,[33] working odd jobs at a farm and lumber mill.[34]
+iIn 1990, he entered Queen's University in Kingston, Ontario.[35][36] Two
+iyears
+ilater, he transferred to the University of Pennsylvania (UPenn), where he
+icompleted studies for a Bachelor of Arts degree in physics and a Bachelor of
+iScience degree in economics from the Wharton School.[37][38][39][40] Although
+iMusk claims he earned the degrees in 1995, UPenn maintains it awarded them in
+i1997.[41] He reportedly hosted large, ticketed house parties to help pay for
+ituition, and wrote a business plan for an electronic book-scanning service
+isimilar to Google Books.[42]
+i
+iIn 1994, Musk held two internships in Silicon Valley: one at the energy
+istorage startup Pinnacle Research Institute, which investigated electrolytic
+iultracapacitors for energy storage, and another at the Palo Alto–based
+istartup
+iRocket Science Games.[43][44] In 1995, he was accepted to a PhD program in
+imaterials science at Stanford University.[45][46] However, Musk decided to
+ijoin the Internet boom, instead dropping out two days after being accepted
+iand
+iapplied for a job at Netscape, to which he reportedly never received a
+iresponse.[47][29]
+i
+i===== Business career =====
+i
+iIn 1995, Musk, his brother Kimbal, and Greg Kouri founded Zip2.[48][49] Errol
+iMusk provided them with $28,000 in funding.[50] The company developed an
+iInternet city guide with maps, directions, and yellow pages, and marketed it
+ito newspapers.[51] They worked at a small rented office in Palo Alto,[52]
+iMusk
+icoding the website every night.[52] Eventually, Zip2 obtained contracts with
+iThe New York Times and the Chicago Tribune.[42] The brothers persuaded the
+iboard of directors to abandon a merger with CitySearch;[53] however, Musk's
+iattempts to become CEO were thwarted.[54] Compaq acquired Zip2 for $307
+imillion in cash in February 1999,[55][56] and Musk received $22 million for
+ihis 7-percent share.[57]
+i
+iLater in 1999, Musk co-founded X.com, an online financial services and e-mail
+ipayment company.[58] X.com was one of the first federally insured online
+ibanks, and over 200,000 customers joined in its initial months of
+ioperation.[59] Even though Musk founded the company, investors regarded him
+ias
+iinexperienced and replaced him with Intuit CEO Bill Harris by the end of the
+iyear.[60]
+i
+iIn 2000, X.com merged with online bank Confinity to avoid
+icompetition,[52][60][61] as Confinity's money-transfer service PayPal was
+imore
+ipopular than X.com's service.[62] Musk then returned as CEO of the merged
+icompany. His preference for Microsoft over Unix-based software caused a rift
+iamong the company's employees, and led Peter Thiel, Confinity's founder, to
+iresign.[63] With the company suffering from compounding technological issues
+iand the lack of a cohesive business model, the board ousted Musk and replaced
+ihim with Thiel in September 2000.[64][b] Under Thiel, the company focused on
+ithe money-transfer service and was renamed PayPal in 2001.[66][67]
+i
+iIn 2002, PayPal was acquired by eBay for $1.5 billion in stock, of which
+iMusk—the largest shareholder with 11.72% of shares—received $175.8
+imillion.[68][69] In 2017, more than 15 years later, Musk purchased the X.com
+idomain from PayPal for its "sentimental value".[70][71] In 2022, Musk
+idiscussed a goal of creating "X, the everything app".[72]
+i
+iIn early 2001, Musk became involved with the nonprofit Mars Society and
+idiscussed funding plans to place a growth-chamber for plants on Mars.[73] In
+iOctober of the same year, he traveled to Moscow with Jim Cantrell and Adeo
+iRessi to buy refurbished intercontinental ballistic missiles (ICBMs) that
+icould send the greenhouse payloads into space. He met with the companies NPO
+iLavochkin and Kosmotras; however, Musk was seen as a novice[74] and the group
+ireturned to the United States empty-handed. In February 2002, the group
+ireturned to Russia with Mike Griffin (president of In-Q-Tel) to look for
+ithree
+iICBMs. They had another meeting with Kosmotras and were offered one rocket
+ifor
+i$8 million, which Musk rejected. He instead decided to start a company that
+icould build affordable rockets.[74] With $100 million of his own money,[75]
+iMusk founded SpaceX in May 2002 and became the company's CEO and Chief
+iEngineer.[76][77]
+i
+iSpaceX attempted its first launch of the Falcon 1 rocket in 2006.[78] Though
+ithe rocket failed to reach Earth orbit, it was awarded a Commercial Orbital
+iTransportation Services program contract from NASA Administrator (and former
+iSpaceX consultant[79]) Mike Griffin later that year.[80][81] After two more
+ifailed attempts that nearly caused Musk and his companies to go bankrupt,[78]
+iSpaceX succeeded in launching the Falcon 1 into orbit in 2008.[82] Later that
+iyear, SpaceX received a $1.6 billion Commercial Resupply Services contract
+ifrom NASA for 12 flights of its Falcon 9 rocket and Dragon spacecraft to the
+iInternational Space Station, replacing the Space Shuttle after its 2011
+iretirement.[83] In 2012, the Dragon vehicle docked with the ISS, a first for
+ia
+icommercial spacecraft.[84]
+i
+iWorking towards its goal of reusable rockets, in 2015 SpaceX successfully
+ilanded the first stage of a Falcon 9 on an inland platform.[85] Later
+ilandings
+iwere achieved on autonomous spaceport drone ships, an ocean-based recovery
+iplatform.[86] In 2018, SpaceX launched the Falcon Heavy; the inaugural
+imission
+icarried Musk's personal Tesla Roadster as a dummy payload.[87][88] Since
+i2019,[89] SpaceX has been developing Starship, a fully-reusable,
+isuper-heavy-lift launch vehicle intended to replace the Falcon 9 and the
+iFalcon Heavy.[90] In 2020, SpaceX launched its first crewed flight, the
+iDemo-2, becoming the first private company to place astronauts into orbit and
+idock a crewed spacecraft with the ISS.[91]
+i
+iIn 2015, SpaceX began development of the Starlink constellation of
+ilow-Earth-orbit satellites to provide satellite Internet access,[92] with the
+ifirst two prototype satellites launched in February 2018. A second set of
+itest
+isatellites, and the first large deployment of a piece of the constellation,
+ioccurred in May 2019, when the first 60 operational satellites were
+ilaunched.[93] The total cost of the decade-long project to design, build, and
+ideploy the constellation is estimated by SpaceX to be about $10
+ibillion.[94][c] Some critics, including the International Astronomical Union,
+ihave alleged that Starlink blocks the view of the sky and poses a collision
+ithreat to spacecraft.[97][98][99]
+i
+iDuring the Russian invasion of Ukraine, Musk sent Starlink terminals to
+iUkraine to provide Internet access and communication.[100] However, Musk
+irefused to block Russian state media on Starlink, declaring himself "a free
+ispeech absolutist".[101][102] In October 2022, Musk stated that about 20,000
+isatellite terminals had been donated to Ukraine, together with free data
+itransfer subscriptions, which cost SpaceX $80 million. After asking the
+iUnited
+iStates Department of Defense to pay for further units and future
+isubscriptions
+ion behalf of Ukraine,[103] Musk publicly stated that SpaceX would continue to
+iprovide Starlink to Ukraine for free, at a yearly cost to itself of $400
+imillion.[104][105][106]
+i
+iTesla, Inc.—originally Tesla Motors—was incorporated in 2003 by Martin
+iEberhard and Marc Tarpenning, who financed the company until the Series A
+iround of funding. Both men played active roles in the company's early
+idevelopment prior to Musk's involvement.[107] Musk led the Series A round of
+iinvestment in February 2004; he invested $6.5 million, became the majority
+ishareholder, and joined Tesla's board of directors as chairman.[108] Musk
+itook
+ian active role within the company and oversaw Roadster product design but was
+inot deeply involved in day-to-day business operations.[109]
+i
+iFollowing a series of escalating conflicts in 2007, and the financial crisis
+iof 2007–2008, Eberhard was ousted from the firm.[110][page needed][111] Musk
+iassumed leadership of the company as CEO and product architect in 2008.[112]
+iA
+i2009 lawsuit settlement with Eberhard designated Musk as a Tesla co-founder,
+ialong with Tarpenning and two others.[113][114] As of 2019, Musk was the
+ilongest-tenured CEO of any automotive manufacturer globally.[115] In 2021,
+iMusk nominally changed his title to "Technoking" while retaining his position
+ias CEO.[116]
+i
+iTesla first built an electric sports car, the Roadster, in 2008. With sales
+iof about 2,500 vehicles, it was the first serial production all-electric car
+ito use lithium-ion battery cells.[117] Tesla began delivery of its four-door
+iModel S sedan in 2012.[118] A cross-over, the Model X was launched in
+i2015.[119] A mass-market sedan, the Model 3, was released in 2017.[120] The
+iModel 3 is the all-time bestselling plug-in electric car worldwide, and in
+iJune 2021 it became the first electric car to sell 1 million units
+iglobally.[121][122] A fifth vehicle, the Model Y crossover, was launched in
+i2020.[123] The Cybertruck, an all-electric pickup truck, was unveiled in
+i2019.[124] Under Musk, Tesla has also constructed multiple lithium-ion
+ibattery
+iand electric vehicle factories, named Gigafactories.[125]
+i
+iSince its initial public offering in 2010,[126] Tesla stock has risen
+isignificantly; it became the most valuable carmaker in summer 2020,[127][128]
+iand it entered the S&P 500 later that year.[129][130] In October 2021, it
+ireached a market capitalization of $1 trillion, the sixth company in U.S.
+ihistory to do so.[131] In November 2021, Musk proposed, on Twitter, to sell
+i10% of his Tesla stock, since "much is made lately of unrealized gains being
+ia
+imeans of tax avoidance".[132] After more than 3.5 million Twitter accounts
+isupported the sale, Musk sold $6.9 billion of Tesla stock within a week,[132]
+iand a total of $16.4 billion by year end, reaching the 10% target.[133] In
+iFebruary 2022, The Wall Street Journal reported that both Elon and Kimbal
+iMusk
+iwere under investigation by the SEC for possible insider trading related to
+ithe sale.[134] In 2022, Musk unveiled a robot developed by Tesla,
+iOptimus.[135]
+i
+iIn 2018, Musk was sued by the SEC for a tweet claiming that funding had been
+isecured for potentially taking Tesla private.[136][d] The lawsuit
+icharacterized the tweet as false, misleading, and damaging to investors, and
+isought to bar Musk from serving as CEO of publicly traded
+icompanies.[136][140][141] Two days later, Musk settled with the SEC, without
+iadmitting or denying the SEC's allegations. As a result, Musk and Tesla were
+ifined $20 million each, and Musk was forced to step down for three years as
+iTesla chairman but was able to remain as CEO.[142] Musk has stated in
+iinterviews that he does not regret posting the tweet that triggered the SEC
+iinvestigation.[143][144] In April 2022, the shareholder who sued Musk over
+ithe
+itweet, along with several Tesla shareholders, said that a federal judge had
+iruled that the tweet was false, although the ruling in question has not been
+iunsealed.[145] In February 2023, the jury found Musk and Tesla not
+iliable.[146]
+i
+iIn 2019, Musk stated in a tweet that Tesla would build half a million cars
+ithat year.[147] The SEC reacted to Musk's tweet by filing in court, asking
+ithe
+icourt to hold him in contempt for violating the terms of a settlement
+iagreement with such a tweet; the accusation was disputed by Musk. This was
+ieventually settled by a joint agreement between Musk and the SEC clarifying
+ithe previous agreement details.[148] The agreement included a list of topics
+ithat Musk would need preclearance before tweeting about.[149] In 2020, a
+ijudge
+iprevented a lawsuit from proceeding that claimed a tweet by Musk regarding
+iTesla stock price ("too high imo") violated the agreement.[150][151]
+iFOIA-released records showed that the SEC itself concluded Musk has
+isubsequently violated the agreement twice by tweeting regarding "Tesla's
+isolar
+iroof production volumes and its stock price".[152]
+i
+iMusk provided the initial concept and financial capital for SolarCity, which
+ihis cousins Lyndon and Peter Rive founded in 2006.[153] By 2013, SolarCity
+iwas
+ithe second largest provider of solar power systems in the United States.[154]
+iIn 2014, Musk promoted the idea of SolarCity building an advanced production
+ifacility in Buffalo, New York, triple the size of the largest solar plant in
+ithe United States.[155] Construction of the factory started in 2014 and was
+icompleted in 2017. It operated as a joint venture with Panasonic until early
+i2020.[156][157]
+i
+iTesla acquired SolarCity for over $2 billion in 2016 and merged it with its
+ibattery unit to create Tesla Energy. The deal's announcement resulted in a
+imore than 10% drop in Tesla's stock price. At the time, SolarCity was facing
+iliquidity issues.[158] Multiple shareholder groups filed a lawsuit against
+iMusk and Tesla's directors, claiming that the purchase of SolarCity was done
+isolely to benefit Musk and came at the expense of Tesla and its
+ishareholders.[159][160] Tesla directors settled the lawsuit in January 2020,
+ileaving Musk the sole remaining defendant.[161][162] Two years later, the
+icourt ruled in Musk's favor.[163]
+i
+iIn 2016, Musk co-founded Neuralink, a neurotechnology startup company, with
+ian investment of $100 million.[164][165] Neuralink aims to integrate the
+ihuman
+ibrain with artificial intelligence (AI) by creating devices that are embedded
+iin the brain to facilitate its merging with machines. Such technology could
+ienhance memory or allow the devices to communicate with software.[165][166]
+iThe company also hopes to develop devices with which to treat neurological
+iconditions such as Alzheimer's disease, dementia, and spinal cord
+iinjuries.[167]
+i
+iIn 2019, Musk announced work on a device akin to a sewing machine that could
+iembed threads into a human brain.[164] Musk is listed as the sole author of
+ian
+iOctober 2019 paper that details some of Neuralink's research,[168] although
+iMusk's being listed as such rankled the Neuralink team's researchers.[169] At
+ia 2020 live demonstration, Musk described one of their early devices as "a
+iFitbit in your skull" that could soon cure paralysis, deafness, blindness,
+iand
+iother disabilities. Many neuroscientists and publications criticized these
+iclaims,[170][171][172] with MIT Technology Review describing them as "highly
+ispeculative" and "neuroscience theater".[170] During the demonstration, Musk
+irevealed a pig with a Neuralink implant that tracked neural activity related
+ito smell.[167] In 2022, Neuralink announced that clinical trials would begin
+iby the end of the year.[173]
+i
+iNeuralink has conducted further animal testing on macaque monkeys at the
+iUniversity of California, Davis' Primate Research Center. In 2021, the
+icompany
+ireleased a video in which a Macaque played the video game Pong via a
+iNeuralink
+iimplant. The company's animal trials—which have caused the deaths of some
+imonkeys—have led to claims of animal cruelty. The Physicians Committee for
+iResponsible Medicine has alleged that Neuralink's animal trials have violated
+ithe Animal Welfare Act.[174] Employees have complained that pressure from
+iMusk
+ito accelerate development has led to botched experiments and unnecessary
+ianimal deaths. In 2022, a federal probe was launched into possible animal
+iwelfare violations by Neuralink.[175]
+i
+iIn 2017, Musk founded the Boring Company to construct tunnels and revealed
+iplans for specialized, underground, high-occupancy vehicles that could travel
+iup to 150 miles per hour (240 km/h) and thus circumvent above-ground traffic
+iin major cities.[176][177] Early in 2017, the company began discussions with
+iregulatory bodies and initiated construction of a 30-foot (9.1 m) wide,
+i50-foot (15 m) long, and 15-foot (4.6 m) deep "test trench" on the premises
+iof
+iSpaceX's offices, as that required no permits.[178] The Los Angeles tunnel,
+iless than two miles (3.2 km) in length, debuted to journalists in 2018. It
+iused Tesla Model X's and was reported to be a rough ride while traveling at
+isuboptimal speeds.[179]
+i
+iTwo tunnel projects announced in 2018, in Chicago and West Los Angeles, have
+ibeen canceled.[180][181] However, a tunnel beneath the Las Vegas Convention
+iCenter was completed in early 2021.[182] Local officials have approved
+ifurther
+iexpansions of the tunnel system.[183] In 2021, tunnel construction was
+iapproved for Fort Lauderdale, Florida.[184]
+i
+iI made an offer https://sec.gov/Archives/edgar...
+i
+iApril 14, 2022[185]
+i
+iMusk expressed interest in buying Twitter as early as 2017,[186] and had
+ipreviously questioned the platform's commitment to freedom of
+ispeech.[187][188] In January 2022, Musk started purchasing Twitter shares,
+ireaching a 9.2% stake by April,[189] making him the largest
+ishareholder.[190][e] When this was publicly disclosed, Twitter shares
+iexperienced the largest intraday price surge since the company's 2013
+iIPO.[192] On April 4, Musk agreed to a deal that would appoint him to
+iTwitter's board of directors and prohibit him from acquiring more than 14.9%
+iof the company.[193][194] However, on April 13, Musk made a $43 billion offer
+ito buy Twitter, launching a takeover bid to buy 100% of Twitter's stock at
+i$54.20 per share.[190][195] In response, Twitter's board adopted a "poison
+ipill" shareholder rights plan to make it more expensive for any single
+iinvestor to own more than 15% of the company without board approval.[196]
+iNevertheless, by the end of the month Musk had successfully concluded his bid
+ifor approximately $44 billion.[197] This included about $12.5 billion in
+iloans
+iagainst his Tesla stock and $21 billion in equity financing.[198][199]
+i
+iTesla's stock market value sank by over $100 billion the next day in reaction
+ito the deal, causing Musk to lose around $30 billion of his net
+iworth.[200][201] He subsequently tweeted criticism of Twitter executive
+iVijaya
+iGadde's policies to his 86 million followers, which led to some of them
+iengaging in sexist and racist harassment against her.[202] Exactly a month
+iafter announcing the takeover, Musk stated that the deal was "on hold"
+ifollowing a report that 5% of Twitter's daily active users were spam
+iaccounts,[203] causing Twitter shares to drop more than 10 percent.[204]
+iAlthough he initially affirmed his commitment to the acquisition,[205] he
+isent
+inotification of his termination of the deal in July; Twitter's Board of
+iDirectors responded that they were committed to holding him to the
+itransaction.[206] On July 12, 2022, Twitter formally sued Musk in the
+iChancery
+iCourt of Delaware for breaching a legally binding agreement to purchase
+iTwitter.[207] In October 2022, Musk reversed again, offering to purchase
+iTwitter at $54.20 per share.[208] The acquisition was officially completed on
+iOctober 27.[209]
+i
+iImmediately after the acquisition, Musk fired top Twitter executives like CEO
+iParag Agrawal,[209][210] whom he replaced.[211] He instituted a $7.99 monthly
+isubscription for a "blue check",[212][213][214] and laid off a significant
+iportion of the company's staff.[215][216] Musk lessened content
+imoderation,[217] and in December, Musk released internal documents relating
+ito
+iTwitter's moderation of Hunter Biden's laptop in the leadup to the 2020
+ipresidential election.[218] The Southern Poverty Law Center noted that
+iTwitter
+ihas verified numerous extremists.[219] A study of millions of tweets
+ifollowing
+ithe acquisition indicated that hate speech on the platform has become "more
+ivisible" under Musk's leadership.[220]
+i
+iWithin the first weeks of ownership, Musk made a series of short-lived
+idecisions and changes that he quickly reversed, including introducing a paid
+iblue checkmark,[221] creating an "official" label[222] and forbidding linking
+ito one's profiles on other social media platforms.[223] Under Musk's
+imanagement, Twitter experienced several large scale outages.[224][225]
+i
+iIn April 2022, The Washington Post reported that Musk privately claimed
+isupposed censorship on the platform, including the banning of accounts such
+ias
+iThe Babylon Bee, had prompted him to begin the acquisition. Following the
+iacquisition, he made reinstatement of accounts like the Bee an immediate
+ipriority.[226] The New York Post revealed that Musk's ex-wife Talulah Riley
+ihad encouraged Musk to purchase Twitter, specifically citing the Bee's
+iban.[227]
+i
+iOn December 18, Musk posted a poll to his Twitter account asking users to
+idecide whether he should step down as the head of Twitter, with 57.5% out of
+ithe more than 17.5 million votes supporting that decision.[228] Musk then
+iannounced that he would resign as CEO "as soon as I find someone foolish
+ienough to take the job".[229]
+i
+iOn May 12, 2023, Musk announced that he would be stepping down from the CEO
+iposition and instead moving to "exec chair & CTO, overseeing product,
+isoftware
+i& sysops." He also announced the introduction of a new CEO, former
+iNBCUniversal executive Linda Yaccarino.[230][231]
+i
+iMusk is often described as a micromanager and has called himself a
+i"nano-manager".[232] The New York Times has characterized his approach as
+iabsolutist.[233] Musk does not make formal business plans;[233] instead, he
+isays he prefers to approach engineering problems[non sequitur] with an
+i"iterative design methodology" and "tolerance for failures".[234] He has
+iforced employees to adopt the company's own jargon and launched ambitious,
+irisky, and costly projects against his advisors' recommendations, such as
+iremoving front-facing radar from Tesla Autopilot. His insistence on vertical
+iintegration causes his companies to move most production in-house. While this
+iresulted in saved costs for SpaceX's rocket,[235] vertical integration has
+icaused many usability problems for Tesla's software.[232]
+i
+iMusk's handling of employees—whom he communicates with directly through mass
+iemails—has been characterized as "carrot and stick", rewarding those "who
+ioffer constructive criticism" while also being known to impulsively threaten,
+iswear at, and fire his employees.[236][237][238] Musk said he expects his
+iemployees to work for long hours, sometimes for 80 hours per week.[239] He
+ihas
+ihis new employees sign strict non-disclosure agreements and often fires in
+isprees,[240][241] such as during the Model 3 "production hell" in 2018.[241]
+iIn 2022, Musk revealed plans to fire 10 percent of Tesla's workforce, due to
+ihis concerns about the economy.[242] That same month, he suspended remote
+iwork
+iat SpaceX and Tesla and threatened to fire employees who do not work 40 hours
+iper week in the office.[243]
+i
+iMusk's leadership has been praised by some, who credit it with the success of
+iTesla and his other endeavors,[232] and criticized by others, who see him as
+icallous and his managerial decisions as "show[ing] a lack of human
+iunderstanding."[238][244] The 2021 book Power Play contains anecdotes of Musk
+iberating employees.[245] The Wall Street Journal reported that, after Musk
+iinsisted on branding his vehicles as "self-driving", he faced criticism from
+ihis engineers for putting customer "lives at risk", with some employees
+iresigning in consequence.[246]
+i
+i===== Other activities =====
+i
+iMusk is president of the Musk Foundation,[247] whose stated purpose is to
+iprovide solar-power energy systems in disaster areas; support research,
+idevelopment, and advocacy (for interests including human space exploration,
+ipediatrics, renewable energy and "safe artificial intelligence"); and support
+iscience and engineering educational efforts.[248] From 2002 to 2018, the
+ifoundation gave $25 million directly to non-profit organizations, nearly half
+iof which went to Musk's OpenAI,[249] which was a non-profit at the time.[250]
+i
+iSince 2002, the foundation has made over 350 donations. Around half of them
+iwere made to scientific research or education nonprofits. Notable
+ibeneficiaries include the Wikimedia Foundation, his alma mater the University
+iof Pennsylvania, and his brother Kimbal's Big Green.[251] In 2012, Musk took
+ithe Giving Pledge, thereby committing to give the majority of his wealth to
+icharitable causes either during his lifetime or in his will.[252] He has
+iendowed prizes at the X Prize Foundation, including $100 million to reward
+iimproved carbon capture technology.[253]
+i
+iVox said "the Musk Foundation is almost entertaining in its simplicity and
+iyet is strikingly opaque", noting that its website was only 33 words in
+iplain-text.[249] The foundation has been criticized for the relatively small
+iamount of wealth donated.[254] In 2020, Forbes gave Musk a philanthropy score
+iof 1, because he had given away less than 1% of his net worth.[251] In
+iNovember 2021, Musk donated $5.7 billion of Tesla's shares to charity,
+iaccording to regulatory filings;[255] however, Bloomberg News noted that all
+iof it went to his own foundation, bringing Musk Foundation's assets up to
+i$9.4
+ibillion at the end of 2021. The foundation disbursed $160 million to
+inon-profits that year.[256]
+i
+iIn 2013, Musk announced plans for a version of a vactrain—a vacuum tube
+itrain—and assigned a dozen engineers from SpaceX and Tesla to establish the
+iconceptual foundations and create initial designs.[257] Later that year, Musk
+iunveiled the concept, which he dubbed the hyperloop.[258] The alpha design
+ifor
+ithe system was published in a whitepaper posted to the Tesla and SpaceX
+iblogs.[259] The document scoped out the technology and outlined a notional
+iroute where such a transport system could be built between the Greater Los
+iAngeles Area and the San Francisco Bay Area, at an estimated cost of $6
+ibillion.[260] The proposal, if technologically feasible at the costs cited,
+iwould make Hyperloop travel cheaper than any other mode of transport for such
+ilong distances.[261]
+i
+iIn 2015, Musk announced a design competition for students and others to build
+iHyperloop pods, to operate on a SpaceX-sponsored mile-long track, for a
+i2015–2017 Hyperloop pod competition. The track was used in January 2017, and
+iMusk also announced that the company started a tunnel project, with Hawthorne
+iMunicipal Airport as its destination.[262] In July 2017, Musk claimed that he
+ihad received "verbal government approval" to build a hyperloop from New York
+iCity to Washington, D.C., with stops in both Philadelphia and Baltimore.[263]
+iMention of the projected DC-to-Baltimore leg was removed from the Boring
+iCompany website in 2021.[264] The tunnel project to Hawthorne was
+idiscontinued
+iin 2022 and is cited to be converted into parking spots for SpaceX
+iworkers.[265]
+i
+iBiographer Ashlee Vance has noted that Musk hoped Hyperloop would "make the
+ipublic and legislators rethink the high-speed train" proposal current in
+iCalifornia at the time and consider more "creative" ideas.[266]
+i
+iIn 2015, Musk co-founded OpenAI, a not-for-profit artificial intelligence
+i(AI) research company aiming to develop artificial general intelligence
+iintended to be safe and beneficial to humanity.[267] A particular focus of
+ithe
+icompany is to democratize artificial superintelligence systems, against
+igovernments and corporations.[22] Musk pledged $1 billion of funding to
+iOpenAI.[268] In 2023, Musk tweeted that he had ended up giving a total of
+i$100
+imillion to OpenAI. TechCrunch later reported that, according to its own
+iinvestigation of public records, "only $15 million" of OpenAI's funding could
+ibe definitively traced to Musk. Musk subsequently stated that he had donated
+iabout $50 million.[269]
+i
+iIn 2018, Musk left the OpenAI board to avoid possible future conflicts with
+ihis role as CEO of Tesla as the latter company increasingly became involved
+iin
+iAI through Tesla Autopilot.[270] Since then, OpenAI has made significant
+iadvances in machine learning, producing neural networks such as GPT-3
+i(producing human-like text),[271] and DALL-E (generating digital images from
+inatural language descriptions).[272]
+i
+iIn July 2018, Musk arranged for his employees to build a mini-submarine to
+iassist the rescue of children trapped in a flooded cavern in Thailand.[273]
+iRichard Stanton, leader of the international rescue diving team, urged Musk
+ito
+ifacilitate the construction of the vehicle as a back-up, in case flooding
+iworsened.[274] Engineers at SpaceX and the Boring Company built the
+imini-submarine from a Falcon 9 liquid oxygen transfer tube in eight hours and
+ipersonally delivered it to Thailand.[275][276] By this time, however, eight
+iof
+ithe 12 children, had already been rescued, the rescuers employing full face
+imasks, oxygen, and anesthesia; consequently, Thai authorities declined to use
+ithe submarine.[273] In March 2019, Musk was later one of the 187 people who
+ireceived various honors conferred by the King of Thailand for involvement in
+ithe rescue effort.[277]
+i
+iSoon after the rescue, Vernon Unsworth, a British recreational caver who had
+ibeen exploring the cave for the previous six years and played a key advisory
+irole in the operation, criticized the submarine on CNN as amounting to
+inothing
+imore than a public relations effort with no chance of success, maintaining
+ithat Musk "had no conception of what the cave passage was like" and "can
+istick
+ihis submarine where it hurts". Musk asserted on Twitter that the device would
+ihave worked and referred to Unsworth as a "pedo guy".[278] He deleted the
+itweets,[278] and apologized,[279] and he deleted his responses to critical
+itweets from Cher Scarlett, a software engineer, which had caused his
+ifollowers
+ito harass her.[280] In an email to BuzzFeed News, Musk later called Unsworth
+ia
+i"child rapist" and said that he had married a child.[281][282]
+i
+iIn September, Unsworth filed a defamation suit in the District Court for the
+iCentral District of California.[283][284] In his defense, Musk argued that
+i"'pedo guy' was a common insult used in South Africa when I was growing up
+i...
+isynonymous with 'creepy old man' and is used to insult a person's appearance
+iand demeanor".[28] The defamation case began in December 2019, with Unsworth
+iseeking $190 million in damages.[285] During the trial Musk apologized to
+iUnsworth again for the tweet. On December 6, the jury found in favor of Musk
+iand ruled he was not liable.[286][287]
+i
+iIn 2018, Musk appeared on The Joe Rogan Experience podcast and discussed
+ivarious topics for over two hours. During the interview, Musk sampled a puff
+ifrom a cigar consisting, the host claimed, of tobacco laced with cannabis.
+iTesla stock dropped after the incident, which coincided with the confirmation
+iof the departure of Tesla's vice president of worldwide finance earlier that
+iday.[288] Fortune wondered if the cannabis use could have ramifications for
+iSpaceX contracts with the United States Air Force, though an Air Force
+ispokesperson told The Verge that there was no investigation and that the Air
+iForce was still determining the facts.[289] In 2022, Musk claimed that he and
+iother Space-X employees were subjected to random drug tests for about a year
+ifollowing the incident.[290] In a 60 Minutes interview, Musk said of the
+iincident: "I do not smoke pot. As anybody who watched that podcast could
+itell,
+iI have no idea how to smoke pot."[291]
+i
+iIn 2019, Musk, through Emo G Records, released a rap track, "RIP Harambe", on
+iSoundCloud. The track, which refers to the killing of Harambe the gorilla and
+ithe subsequent Internet sensationalism surrounding the event, was performed
+iby
+iYung Jake, written by Yung Jake and Caroline Polachek, and produced by
+iBloodPop.[292][293] The following year, Musk released an EDM track, "Don't
+iDoubt Ur Vibe", featuring his own lyrics and vocals.[294] While Guardian
+icritic Alexi Petridis described it as "indistinguishable... from umpteen
+icompetent but unthrilling bits of bedroom electronica posted elsewhere on
+iSoundcloud",[295] TechCrunch said it was "not a bad representation of the
+igenre".[294]
+i
+iIn 2003, Musk said his favorite plane he owned was an L-39 Albatros.[296] He
+iuses a private jet owned by Falcon Landing LLC, a SpaceX-linked company, and
+iacquired a second jet in August 2020.[297][298] His heavy use of the jet—it
+iflew over 150,000 miles in 2018—and the consequent fossil fuel usage has
+ireceived criticism.[297][299]
+i
+iHis flight usage is tracked on social media through ElonJet. The Twitter
+iversion of the account was blocked in December 2022, after Musk claimed that
+ihis son X AE A-XII had been harassed by a stalker after the account posted
+ithe
+iairport at which his jet had landed.[300][301][302] This led to Musk banning
+ithe ElonJet account on Twitter, as well as the accounts of journalists that
+iposted stories regarding the incident, including Donie O'Sullivan, Keith
+iOlbermann, and journalists from The New York Times, The Washington Post, CNN,
+iand The Intercept.[303] Musk equated the reporting to doxxing.[304] The
+ipolice
+ido not believe there is a link between the account and alleged stalker.[305]
+iMusk later took a Twitter poll on whether the journalists' accounts should be
+ireinstated, which resulted in reinstating the accounts.[306][303]
+i
+i===== Wealth =====
+i
+iMusk made $175.8 million when PayPal was sold to eBay in 2002.[307] He was
+ifirst listed on the Forbes Billionaires List in 2012, with a net worth of $2
+ibillion.[308]
+i
+iAt the start of 2020, Musk had a net worth of $27 billion.[309] By the end of
+ithe year his net worth had increased by $150 billion, mostly driven by his
+iownership of around 20% of Tesla stock.[310] During this period, Musk's net
+iworth was often volatile. For example, it dropped $16.3 billion in September,
+ithe largest single-day plunge in Bloomberg Billionaires Index's history.[311]
+iIn November of that year, Musk passed Facebook co-founder Mark Zuckerberg to
+ibecome the third-richest person in the world; a week later he passed
+iMicrosoft
+ico-founder Bill Gates to become the second-richest.[312]
+i
+iIn January 2021, Musk, with a net worth of $185 billion, surpassed Amazon
+ifounder Jeff Bezos to become the richest person in the world.[313] Bezos
+ireclaimed the top spot the following month.[314] On September 27, 2021, after
+iTesla stock surged, Forbes announced that Musk had a net worth of over $200
+ibillion, and was the richest person in the world.[315] In November 2021, Musk
+ibecame the first person to have a net worth of more than $300 billion.[316]
+i
+iOn December 30, 2022, it was reported that Musk had lost $200 billion from
+ihis net worth due to declining stock values in Tesla, becoming the first
+iperson in history to lose such a large sum of money.[317][318] In January
+i2023, Musk was recognized by Guinness World Records for experiencing the
+i"largest loss of personal fortune in history" with regards to his financial
+ilosses since November 2021, which Guinness quoted a Forbes estimate of $182
+ibillion.[319]
+i
+iAround 75% of Musk's wealth derived from Tesla stock in November 2020,[312] a
+iproportion that fell to about 37% as of December 2022,[f] after selling
+inearly
+i$40 billion in company shares since late 2021.[320] Musk does not receive a
+isalary from Tesla; he agreed with the board in 2018 to a compensation plan
+ithat ties his personal earnings to Tesla's valuation and revenue.[310] The
+ideal stipulated that Musk only receives the compensation if Tesla reaches
+icertain market values.[321] It was the largest such deal ever done between a
+iCEO and a company board.[322] In the first award, given in May 2020, he was
+ieligible to purchase 1.69 million Tesla shares (about 1% of the company) at
+ibelow-market prices, which was worth about $800 million.[322][321]
+i
+iMusk paid $455 million in taxes on $1.52 billion of income between 2014 and
+i2018.[323] According to ProPublica, Musk paid no federal income taxes in
+i2018.[324] He claimed his 2021 tax bill was estimated at $12 billion based on
+ihis sale of $14 billion worth of Tesla stock.[323]
+i
+iMusk has repeatedly described himself as "cash poor",[325][326] and has
+i"professed to have little interest in the material trappings of wealth".[325]
+iIn May 2020, he pledged to sell almost all physical possessions.[326] Musk
+ihas
+idefended his wealth by saying he is accumulating resources for humanity's
+ioutward expansion to space.[327]
+i
+i===== Personal views and Twitter usage =====
+i
+iSince joining Twitter in 2009,[328] Musk has been an active user and has over
+i100 million followers as of June 2022[update].[329] He posts memes, promotes
+ibusiness interests, and comments on contemporary political and cultural
+iissues.[330] Musk's statements have provoked controversy, such as for mocking
+ipreferred gender pronouns,[331][332] and comparing Canadian prime minister
+iJustin Trudeau to Adolf Hitler.[333] The New York Times describes his
+icontributions to international relations as "chaotic", and critics of Musk
+iargue that there is a lack of separation between his opinions and his
+ibusiness
+iinterests.[334] As CEO of Twitter, Musk emerged as a source of
+imisinformation,
+ifor example by suggesting online details about mass murderer Mauricio
+iGarcia's
+iapparent interest in Nazism could have been planted as part of a psyop.[335]
+iAllegations of him being transphobic appeared as well in response to actions
+itaken by Twitter under his guidance.[336][337] The Israel government and
+iseveral media outlets accused Musk of antisemitism due to him spreading
+iGeorge
+iSoros conspiracy theories,[338][339][340] although some Israeli officials
+idefended Musk.[341]
+i
+iMusk has been described as believing in longtermism, emphasizing the needs of
+ifuture populations.[342] Accordingly, Musk has stated that artificial
+iintelligence poses the greatest existential threat to humanity.[343][344] He
+ihas warned of a "Terminator-like" AI apocalypse and suggested that the
+igovernment should regulate its safe development.[345][346] In 2015, Musk was
+ia
+icosignatory, along with Stephen Hawking and hundreds of others, of the Open
+iLetter on Artificial Intelligence, which called for the ban of autonomous
+iweapons.[347] Musk's AI stances have been called alarmist and sensationalist
+iby critics such as computer scientist Yann LeCun and Meta CEO Mark
+iZuckerberg,[348][349] and led the think tank Information Technology and
+iInnovation Foundation to award Musk its Annual Luddite Award in 2016.[350]
+i
+iMusk has described climate change as the greatest threat to humanity after
+iAI,[351] and has advocated for a carbon tax.[352] Musk was a critic of
+iPresident Donald Trump's stance on climate change,[353][354] and resigned
+ifrom
+itwo presidential business advisory councils following Trump's 2017 decision
+ito
+iwithdraw the United States from the Paris Agreement.[355]
+i
+iMusk has long promoted the colonization of Mars and argues that humanity
+ishould become a "multiplanetary species".[356] He has suggested the use of
+inuclear weapons to terraform Mars.[357][358] He envisioned establishing a
+idirect democracy on Mars, with a system in which more votes would be required
+ito create laws than remove them.[359] Musk has also voiced concerns about
+ihuman population decline,[360][361] saying that "Mars has zero human
+ipopulation. We need a lot of people to become a multiplanet
+icivilization."[362] Speaking at The Wall Street Journal's CEO Council session
+iin 2021, Musk stated that a declining birth rate, and consequent population
+idecline, is one of the biggest risks to human civilization.[363]
+i
+iWhile often described as libertarian, Musk has called himself "politically
+imoderate" and was a registered independent voter when he lived in California.
+iThe New York Times wrote that Musk "expresses views that don't fit neatly
+iinto
+i[the American] binary, left-right political framework".[364] Historically,
+iMusk has donated to both Democrats and Republicans,[365] many of whom are in
+istates in which he has a vested interest.[364] Beginning in the late 2010s,
+iMusk's political contributions have shifted to almost entirely supporting
+iRepublicans.[366]
+i
+iMusk voted for Hillary Clinton in the 2016 U.S. presidential election.[367]
+iIn the 2020 Democratic Party presidential primaries, Musk endorsed candidate
+iAndrew Yang and expressed support for his proposed universal basic
+iincome.[368] He also endorsed Kanye West's 2020 presidential campaign.[369]
+iHe
+isaid he voted for Joe Biden in the 2020 U.S. presidential election.[367] In
+i2022, Musk said that he could "no longer support" the Democrats because they
+iare the "party of division & hate",[370][371] and wrote a tweet encouraging
+i"independent-minded voters" to vote Republican in the 2022 U.S. elections,
+iwhich was an outlier among social media executives who typically avoid
+ipartisan political advocacy.[372][373] He openly supported Republican Ron
+iDeSantis for the 2024 U.S. presidential election by hosting DeSantis's
+iannouncement on a Twitter Spaces event.[374][375][376]
+i
+iMusk opposes a "billionaire's tax",[377] and has argued on Twitter with more
+ileft-leaning Democratic politicians such as Bernie Sanders,[378][379]
+iAlexandria Ocasio-Cortez,[380] and Elizabeth Warren.[381] He has raised
+iquestions about the Black Lives Matter protests, partially based on the fact
+ithat the phrase "Hands up, don't shoot" was made up.[382][383] Musk also
+ipromoted a baseless theory relating to the attack of Speaker Nancy Pelosi's
+ihusband, but Musk deleted his tweet.[384]
+i
+iMusk has praised China and has been described as having a close relationship
+iwith the Chinese government, allowing access to its markets for Tesla.[385]
+iAfter Gigafactory Shanghai produced its first batch of vehicles, Musk thanked
+ithe Chinese government and Chinese people while criticizing the United States
+iand its people.[386]: 207–208  In 2022, Musk wrote an article for China
+iCyberspace, the official publication of Cyberspace Administration of China,
+iwhich enforces Internet censorship in China. His writing the article was
+idescribed as conflicting with his advocacy for free speech.[387][388] Musk
+ilater advocated for Taiwan to become a "special administrative zone" of China
+iwhich drew cross-party criticism from Taiwanese lawmakers.[389][390][391] In
+iOctober 2022, Musk posted a Twitter poll and "peace plan" to resolve the
+iRussian invasion of Ukraine.[392][393] It was reported that Musk allegedly
+ispoke with Russian President Vladimir Putin prior to the proposal, which Musk
+idenied.[394][395][396][397]
+i
+iMusk was criticized for his public comments and conduct related to the
+iCOVID-19 pandemic.[398][399] He spread misinformation about the virus,
+iincluding promoting a widely discredited paper on the benefits of chloroquine
+iand claiming that COVID-19 death statistics were inflated.[400]
+i
+iIn March 2020, Musk stated, "The coronavirus panic is dumb."[401][402] In an
+iemail to Tesla employees, Musk referred to COVID-19 as a "specific form of
+ithe
+icommon cold" and predicted that confirmed COVID-19 cases would not exceed
+i0.1%
+iof the U.S. population.[398] On March 19, 2020, Musk predicted that there
+iwould be "probably close to zero new cases in [the U.S.] by end of
+iApril".[399] Politico labeled this statement one of "the most audacious,
+iconfident, and spectacularly incorrect prognostications [of 2020]".[403] Musk
+ialso claimed falsely that children "are essentially immune" to
+iCOVID-19.[404][405]
+i
+iMusk condemned COVID-19 lockdowns and initially refused to close the Tesla
+iFremont Factory in March 2020, defying the local shelter-in-place
+iorder.[398][406][407] In May 2020, he reopened the Tesla factory, defying the
+ilocal stay-at-home order,[408][409] and warned workers that they would be
+iunpaid, and their unemployment benefits might be jeopardized, if they did not
+ireport to work.[409] In December 2022, Musk called for prosecution of former
+iNational Institute of Allergy and Infectious Diseases director Anthony
+iFauci.[410][411]
+i
+iIn March 2020, Musk promised that Tesla would make ventilators for COVID-19
+ipatients if there were a shortage.[412] After figures like New York City
+imayor
+iBill de Blasio responded to Musk's offer,[413] Musk offered to donate
+iventilators which Tesla would build or buy from a third party.[412] However,
+iMusk ended up buying and donating BiPAP and CPAP machines, which are
+inon-invasive ventilators, rather than the much more expensive and
+isought-after
+iinvasive mechanical ventilator machines.[414][415]
+i
+iIn September 2020, Musk stated that he would not get the COVID-19 vaccine,
+ibecause he and his children were "not at risk for COVID".[416][417] Two
+imonths
+ilater, Musk contracted COVID-19 and suggested his COVID-19 rapid antigen test
+iresults were dubious, after which the phrase "Space Karen" trended on
+iTwitter,
+iin reference to Musk.[418][419] However, in December 2021, Musk revealed that
+ihe and his eligible children had received the vaccine.[420] In January 2023,
+iMusk stated that he experienced intense adverse reactions after his second
+iCOVID-19 vaccine booster shot.[421]
+i
+iMusk said that the U.S. government should not provide subsidies to companies,
+ibut impose a carbon tax to discourage poor behavior.[422][423] The free
+imarket, in his view, would achieve the best solution, and producing
+ienvironmentally unfriendly vehicles should have consequences.[424] Tesla has
+ireceived billions of dollars in subsidies.[425] In addition, Tesla made large
+isums from government-initiated systems of zero-emissions credits offered in
+iCalifornia and at the United States federal level, which facilitated initial
+iconsumer adoption of Tesla vehicles, as the tax credits given by governments
+ienabled Tesla's battery electric vehicles to be price-competitive, in
+icomparison with existing lower-priced internal combustion engine
+ivehicles.[426] Notably, Tesla generates some of its revenue from its sales of
+icarbon credits granted to the company, by both the European Union Emissions
+iTrading System and the Chinese national carbon trading
+ischeme.[427][428][429][430]
+i
+iMusk, a longtime opponent of short-selling, has repeatedly criticized the
+ipractice and argued it should be illegal.[431][432] Wired magazine speculated
+ithat Musk's opposition to short-selling stems from how short sellers have an
+iincentive to find and promote unfavorable information about his
+icompanies.[433] In early 2021, he encouraged the GameStop short
+isqueeze.[434][435]
+i
+iIn December 2022, Musk sold $3.6 billion of his stock in Tesla, equal to 22
+imillion shares in the company,[436] despite pledging earlier in the year that
+ihe would not sell any additional shares.[437]
+i
+iMusk has promoted cryptocurrencies and supports them over traditional
+igovernment-issued fiat currencies.[438] Given the influence of Musk's tweets
+iin moving cryptocurrency markets,[439] his statements about cryptocurrencies
+ihave been viewed as market manipulation by some, such as economist Nouriel
+iRoubini.[440] Musk's social media praising of Bitcoin and Dogecoin was
+icredited for increasing their prices. Consequently, Tesla's 2021
+iannouncement,
+iagainst the backdrop of Musk's social media behavior, that it bought $1.5
+ibillion worth of Bitcoin, raised questions.[441] Tesla's announcement that it
+iwould accept Bitcoin for payment was criticized by environmentalists and
+iinvestors, due to the environmental impact of cryptocurrency mining. A few
+imonths later, in response to the criticism, Musk announced on Twitter that
+iTesla would no longer accept payments in Bitcoin and would not engage in any
+iBitcoin transactions until the environmental issues are solved.[442][443]
+i
+iDespite the Boring Company's involvement in building mass transit
+iinfrastructure, Musk has criticized public transport and promoted
+iindividualized transport (private vehicles).[444][445][446] His comments have
+ibeen called "elitist" and have sparked widespread criticism from both
+itransportation and urban planning experts, who have pointed out that public
+itransportation in dense urban areas is more economical, more energy
+iefficient,
+iand requires much less space than private cars.[445][447][446]
+i
+i===== Personal life =====
+i
+iFrom the early 2000s until late 2020, Musk resided in California, where both
+iTesla and SpaceX were founded.[448] In 2020, he moved to Texas, saying that
+iCalifornia had become "complacent" about its economic success.[448][449]
+iWhile
+ihosting Saturday Night Live in May 2021, Musk said that he has Asperger
+isyndrome.[450]
+i
+iMusk met his first wife, Canadian Justine Wilson, while attending Queen's
+iUniversity in Ontario, Canada; and they married in 2000.[451] In 2002, their
+ifirst child died of sudden infant death syndrome at the age of 10 weeks.[452]
+iAfter his death, the couple decided to use IVF to continue their family.[453]
+iThey had twins in 2004 followed by triplets in 2006.[453] The couple divorced
+iin 2008 and shared custody of their children.[454][455] In 2022, one of the
+itwins officially changed her name to reflect her gender identity as a
+itranswoman, and to use Wilson as her last name because she no longer wished
+ito
+ibe associated with Musk.[456] Musk blamed the estrangement of his daughter on
+iwhat the Financial Times characterized as "the supposed takeover of elite
+ischools and universities by neo-Marxists."[457]
+i
+iIn 2008, Musk began dating English actress Talulah Riley.[458] They married
+itwo years later at Dornoch Cathedral in Scotland.[459][460] In 2012, the
+icouple divorced, before remarrying the following year.[461] After briefly
+ifiling for divorce in 2014,[461] Musk finalized a second divorce from Riley
+iin
+i2016.[462] Musk then dated Amber Heard for several months in 2017;[463] he
+ihad
+ireportedly been pursuing her since 2012.[464] Johnny Depp later accused Musk
+iof having an affair with Heard while she was still married to Depp.[465][466]
+iMusk and Heard both denied the affair.[465]
+i
+iIn 2018, Musk and Canadian musician Grimes revealed that they were
+idating.[467] Grimes gave birth to their son in May 2020.[468][469] According
+ito Musk and Grimes, his name was "X Æ A-12" (/ɛks æʃ eɪ ˈtwɛlv/); however,
+ithe
+iname would have violated California regulations as it contained characters
+ithat are not in the modern English alphabet,[470][471] and was then changed
+ito
+i"X Æ A-Xii". This drew more confusion, as Æ is not a letter in the modern
+iEnglish alphabet.[472] The child was eventually named X AE A-XII Musk, with
+i"X" as a first name, "AE A-XII" as a middle name, and "Musk" as surname.[473]
+iIn December 2021, Grimes and Musk had a second child, a daughter named Exa
+iDark Sideræl Musk (nicknamed "Y"), born via surrogacy.[1] Despite the
+ipregnancy, Musk confirmed reports that the couple were "semi-separated" in
+iSeptember 2021; in an interview with Time in December 2021, he said he was
+isingle.[474][475] In March 2022, Grimes said of her relationship with Musk:
+i"I
+iwould probably refer to him as my boyfriend, but we're very fluid."[1] Later
+ithat month, Grimes tweeted that she and Musk had broken up again but remained
+ion good terms.[476]
+i
+iIn July 2022, Insider published court documents revealing that Musk had had
+itwins with Shivon Zilis, director of operations and special projects at
+iNeuralink, in November 2021.[3] They were born weeks before Musk and Grimes
+ihad their second child via surrogate in December. The news "raise[d]
+iquestions
+iabout workplace ethics", given that Zilis directly reported to Musk.[477]
+iAlso
+iin July 2022, The Wall Street Journal reported that Musk allegedly had an
+iaffair with Nicole Shanahan, the wife of Google co-founder Sergey Brin, in
+i2021, leading to their divorce the following year.[478] Musk denied the
+ireport.[479]
+i
+iAs of September 2022[update], Musk is a defendant in 24 lawsuits.[480]
+i
+iIn April 2023, the government of the US Virgin Islands sought to subpoena
+iMusk for documents in a lawsuit alleging that JPMorgan Chase profited from
+iJeffrey Epstein’s sex trafficking operation.[481] In May, a judge granted the
+iUS Virgin Islands' request to serve Musk electronically through Tesla after
+ithe U.S. territory had difficulty locating him.[481] The efforts to subpoena
+iMusk for documents do not implicate him in any wrongdoing and do not seek to
+ihave Musk testify under oath.[481]
+i
+iIn May 2022, Business Insider cited an anonymous friend of an unnamed SpaceX
+icontract flight attendant, alleging that Musk engaged in sexual misconduct in
+i2016. The source stated that in November 2018, Musk, SpaceX, and the former
+iflight attendant entered into a severance agreement granting the attendant a
+i$250,000 payment in exchange for a promise not to sue over the claims.[482]
+iMusk responded, "If I were inclined to engage in sexual harassment, this is
+iunlikely to be the first time in my entire 30-year career that it comes to
+ilight". He accused the article from Business Insider of being a "politically
+imotivated hit piece".[483][484] After the release of the Business Insider
+iarticle, Tesla's stock fell by more than 6%,[485] decreasing Musk's net worth
+iby $10 billion.[486] Barron's wrote "...some investors considered key-man
+irisk
+i– the danger that a company could be badly hurt by the loss of one
+iindividual."[487]
+i
+i===== Public perception =====
+i
+iThough Musk's ventures were influential within their own industries in the
+i2000s, Musk only became a public figure in the early 2010s. He is often
+idescribed as an eccentric who makes spontaneous and controversial statements,
+icontrary to other billionaires who prefer reclusiveness to protect their
+ibusinesses.[488][489] Celebrated by fans and hated by critics, Musk was
+idescribed by Vance as having become very polarizing because of his "part
+iphilosopher, part troll" role on Twitter.[490]
+i
+iWith Steve Jobs and Donald Trump, Musk served as inspiration for the
+icharacterization of Tony Stark in the Marvel film Iron Man (2008).[491] Musk
+ihad a cameo appearance in the 2010 sequel, Iron Man 2.[492] Musk has made
+icameos and appearances in other films such as Machete Kills (2013),[493] Why
+iHim? (2016),[494] and Men in Black: International (2019).[495] Television
+iseries in which he has appeared include The Simpsons ("The Musk Who Fell to
+iEarth", 2015),[496] The Big Bang Theory ("The Platonic Permutation",
+i2015),[497] South Park ("Members Only", 2016),[498][499] Young Sheldon ("A
+iPatch, a Modem, and a Zantac®", 2017),[500] Rick and Morty ("One Crew over
+ithe
+iCrewcoo's Morty", 2019),[501][502] and Saturday Night Live (2021).[503] He
+icontributed interviews to the documentaries Racing Extinction (2015) and the
+iWerner Herzog-directed Lo and Behold (2016).[504][505]
+i
+iMusk was elected a Fellow of the Royal Society (FRS) in 2018.[506] In 2015,
+ihe received an honorary doctorate in engineering and technology from Yale
+iUniversity[507] and IEEE Honorary Membership.[508] Awards for his
+icontributions to the development of the Falcon rockets include the American
+iInstitute of Aeronautics and Astronautics George Low Transportation Award in
+i2008,[509] the Fédération Aéronautique Internationale Gold Space Medal in
+i2010,[510] and the Royal Aeronautical Society Gold Medal in 2012.[511] He was
+ilisted among Time magazine's 100 Most Influential People in 2010,[512]
+i2013,[513] 2018,[514] and 2021.[515] Musk was selected as Time's "Person of
+ithe Year" for 2021. Time editor-in-chief Edward Felsenthal wrote that "Person
+iof the Year is a marker of influence, and few individuals have had more
+iinfluence than Musk on life on Earth, and potentially life off Earth
+itoo".[516][517] In 2022, Musk was elected as a member of the National Academy
+iof Engineering.[518]
+i
+i===== See also =====
+i
+i===== Notes =====
+i
+i===== References =====
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://en.wikipedia.org/wiki/Elon_Musk
+i
+iLICENSE: Creative Commons Attribution-ShareAlike
+i
+i=========================================
+i
+i
+i$
+Bt:Elon Musk - Wikipedia	/x/w/g/https_58__47__47_en_46_wikipedia_46_org_47_wiki_47_Elon_95_Musk	texopher.com	70

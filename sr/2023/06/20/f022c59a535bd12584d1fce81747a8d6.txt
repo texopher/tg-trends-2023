@@ -1,0 +1,80 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjClo_95_MzNH_95_AhXQlYkEHTGbA_45__48_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjClo_95_MzNH_95_AhXQlYkEHTGbA_45__48_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjClo_95_MzNH_95_AhXQlYkEHTGbA_45__48_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjClo_95_MzNH_95_AhXQlYkEHTGbA_45__48_Q_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjClo_MzNH_AhXQlYkEHTGbA-0Q_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjClo_95_MzNH_95_AhXQlYkEHTGbA_45__48_Q_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iキャンドル・ジュンさん、広末涼子と「これからも一緒にい... www.chunichi.co.jp
+i
+iキャンドル・ジュン氏、妻・広末涼子への想い問われ…... sirabee.com
+i
+i心が壊れた」広末涼子とキャンドル・ジュン氏、夫婦生活が... news.yahoo.co.jp
+i
+i会見】キャンドル・ジュンさん 涙を流す場面も... newsdig.tbs.co.jp
+i
+iキャンドル・ジュン氏... www.sponichi.co.jp
+i
+i誹謗しすぎ」「胸糞悪い」ホリエモン... news.yahoo.co.jp
+i
+i広末涼子の夫・キャンドル氏... mainichi.jp
+i
+i緊急会見】キャンドル・ジュンさん... newsdig.tbs.co.jp
+i
+iキャンドル・ジュン氏、会見で謝罪... hochi.news
+i
+i不倫を認めた広末涼子の夫・キャンドル・ジュン氏、「ノー... hochi.news
+i
+i広末涼子の“サレ夫”キャンドル・ジュン氏にも不倫疑惑？... www.nikkan-gendai.com
+i
+iキャンドルジュンの父親は井筒信一で母親は井筒秀子！兄弟... paradises.jp
+i
+i堀江貴文氏、キャンドル・ジュン氏の会見“ある部分”を称... sirabee.com
+i
+iダブル不倫認めた広末涼子... www.sponichi.co.jp
+i
+iキャンドル・ジュン氏の「私のせい」発言に「意味がわから... news.yahoo.co.jp
+i
+i画像】キャンドル・ジュンの耳ピアスは鹿の角でお守り？全... memo-link.com
+i
+i妻・広末涼子が不倫... www.oricon.co.jp
+i
+i次男や長女は血がつながっていないと知らず」キャンドル・... www.chunichi.co.jp
+i
+iキャンドルジュンのけじめ「広末涼子の行く末は闇の中か」... cheeeeers.com
+i
+i画像・写真 | キャンドル・ジュン氏が会見... www.oricon.co.jp
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjClo_MzNH_AhXQlYkEHTGbA-0Q_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:キャンドルジュン - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_51__37__56__50__37_AD_37_E_51__37__56__51__37_A_51__37_E_51__37__56__51__37_B_51__37_E_51__37__56__51__37__56__57__37_E_51__37__56__51__37_AB_37_E_51__37__56__50__37_B_56__37_E_51__37__56__51__37_A_53__37_E_51__37__56__51__37_B_51__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjClo_95_MzNH_95_AhXQlYkEHTGbA_45__48_Q_95_AUIBigB	texopher.com	70
