@@ -1,0 +1,339 @@
+i
+i=========================================
+i              LOCALIZATION
+i  -------------------------------------
+i
+i
+i             Northern America
+i        -------------------------
+i
+i              United States
+i              -------------
+i
+1Netherlands vs Croatia	/x/w/sg/_49__124_Netherlands_32_vs_32_Croatia	__SERVER_HOST__	__SERVER_PORT__
+1Eminem	/x/w/sg/_49__124_Eminem	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Canada
+i              -------------
+i
+1Nations League	/x/w/sg/_49__124_Nations_32_League	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Mexico
+i              -------------
+i
+1Denisse Ahumada Martínez Reynosa	/x/w/sg/_49__124_Denisse_32_Ahumada_32_Mart_237_nez_32_Reynosa	__SERVER_HOST__	__SERVER_PORT__
+1Uruguay Nicaragua	/x/w/sg/_49__124_Uruguay_32_Nicaragua	__SERVER_HOST__	__SERVER_PORT__
+1Futbol	/x/w/sg/_49__124_Futbol	__SERVER_HOST__	__SERVER_PORT__
+1Mexico vs USA	/x/w/sg/_49__124_Mexico_32_vs_32_USA	__SERVER_HOST__	__SERVER_PORT__
+i
+i              South America
+i        -------------------------
+i
+i                Argentina
+i              -------------
+i
+1Argentina vs Australia	/x/w/sg/_49__124_Argentina_32_vs_32_Australia	__SERVER_HOST__	__SERVER_PORT__
+1Inflacion mayo 2023	/x/w/sg/_49__124_Inflacion_32_mayo_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Brazil
+i              -------------
+i
+1Bellingham	/x/w/sg/_49__124_Bellingham	__SERVER_HOST__	__SERVER_PORT__
+1Santa Cruz	/x/w/sg/_49__124_Santa_32_Cruz	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Chile
+i              -------------
+i
+1Uruguay vs	/x/w/sg/_49__124_Uruguay_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1Luis Miguel	/x/w/sg/_49__124_Luis_32_Miguel	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Colombia
+i              -------------
+i
+1America femenino	/x/w/sg/_49__124_America_32_femenino	__SERVER_HOST__	__SERVER_PORT__
+1Gustavo Petro	/x/w/sg/_49__124_Gustavo_32_Petro	__SERVER_HOST__	__SERVER_PORT__
+i
+i                   Peru
+i              -------------
+i
+1Uruguay vs	/x/w/sg/_49__124_Uruguay_32_vs	__SERVER_HOST__	__SERVER_PORT__
+1España vs	/x/w/sg/_49__124_Espa_241_a_32_vs	__SERVER_HOST__	__SERVER_PORT__
+i
+i                North Asia
+i        -------------------------
+i
+i                  Russia
+i              -------------
+i
+1Река Мацеста в Сочи	/x/w/sg/_49__124__1056__1077__1082__1072__32__1052__1072__1094__1077__1089__1090__1072__32__1074__32__1057__1086__1095__1080_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Western Asia
+i        -------------------------
+i
+i                  Israel
+i              -------------
+i
+1נרקיס	/x/w/sg/_49__124__1504__1512__1511__1497__1505_	__SERVER_HOST__	__SERVER_PORT__
+1קארין אלהרר	/x/w/sg/_49__124__1511__1488__1512__1497__1503__32__1488__1500__1492__1512__1512_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Saudi Arabia
+i              -------------
+i
+1والي غرب دارفور	/x/w/sg/_49__124__1608__1575__1604__1610__32__1594__1585__1576__32__1583__1575__1585__1601__1608__1585_	__SERVER_HOST__	__SERVER_PORT__
+1سيلفيو برلسكوني	/x/w/sg/_49__124__1587__1610__1604__1601__1610__1608__32__1576__1585__1604__1587__1603__1608__1606__1610_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Turkey
+i              -------------
+i
+1Tarzan Rıfkı	/x/w/sg/_49__124_Tarzan_32_R_305_fk_305_	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Eastern Asia
+i        -------------------------
+i
+i                Hong Kong
+i              -------------
+i
+1郭富城	/x/w/sg/_49__124__37101__23500__22478_	__SERVER_HOST__	__SERVER_PORT__
+1習近平	/x/w/sg/_49__124__32722__36817__24179_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Japan
+i              -------------
+i
+1広末涼子	/x/w/sg/_49__124__24195__26411__28092__23376_	__SERVER_HOST__	__SERVER_PORT__
+1FOMC	/x/w/sg/_49__124_FOMC	__SERVER_HOST__	__SERVER_PORT__
+i
+i               South Korea
+i              -------------
+i
+1리니지M	/x/w/sg/_49__124__47532__45768__51648_M	__SERVER_HOST__	__SERVER_PORT__
+1서울국제도서전	/x/w/sg/_49__124__49436__50872__44397__51228__46020__49436__51204_	__SERVER_HOST__	__SERVER_PORT__
+1김민재 맨유	/x/w/sg/_49__124__44608__48124__51116__32__47592__50976_	__SERVER_HOST__	__SERVER_PORT__
+1청년도약계좌 신청	/x/w/sg/_49__124__52397__45380__46020__50557__44228__51340__32__49888__52397_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Taiwan
+i              -------------
+i
+1Fed	/x/w/sg/_49__124_Fed	__SERVER_HOST__	__SERVER_PORT__
+i
+i                South Asia
+i        -------------------------
+i
+i                  India
+i              -------------
+i
+1Uniform Civil Code	/x/w/sg/_49__124_Uniform_32_Civil_32_Code	__SERVER_HOST__	__SERVER_PORT__
+1Tori Bowie died	/x/w/sg/_49__124_Tori_32_Bowie_32_died	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Southeast Asia
+i        -------------------------
+i
+i                Indonesia
+i              -------------
+i
+1Song Joong-ki	/x/w/sg/_49__124_Song_32_Joong_45_ki	__SERVER_HOST__	__SERVER_PORT__
+1Stunting adalah	/x/w/sg/_49__124_Stunting_32_adalah	__SERVER_HOST__	__SERVER_PORT__
+1Syahrul Yasin Limpo tersangka KPK	/x/w/sg/_49__124_Syahrul_32_Yasin_32_Limpo_32_tersangka_32_KPK	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Malaysia
+i              -------------
+i
+1Song Joong-ki	/x/w/sg/_49__124_Song_32_Joong_45_ki	__SERVER_HOST__	__SERVER_PORT__
+1Bangladesh vs Afghanistan	/x/w/sg/_49__124_Bangladesh_32_vs_32_Afghanistan	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Philippines
+i              -------------
+i
+1Song Joong-ki	/x/w/sg/_49__124_Song_32_Joong_45_ki	__SERVER_HOST__	__SERVER_PORT__
+1Nick Kyrgios	/x/w/sg/_49__124_Nick_32_Kyrgios	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Singapore
+i              -------------
+i
+1Lee Zii Jia	/x/w/sg/_49__124_Lee_32_Zii_32_Jia	__SERVER_HOST__	__SERVER_PORT__
+1FOMC	/x/w/sg/_49__124_FOMC	__SERVER_HOST__	__SERVER_PORT__
+1The Flash	/x/w/sg/_49__124_The_32_Flash	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Thailand
+i              -------------
+i
+1เนเธอร์แลนด์	/x/w/sg/_49__124__3648__3609__3648__3608__3629__3619__3660__3649__3621__3609__3604__3660_	__SERVER_HOST__	__SERVER_PORT__
+1เตรียมอุดมศึกษาพัฒนาการ	/x/w/sg/_49__124__3648__3605__3619__3637__3618__3617__3629__3640__3604__3617__3624__3638__3585__3625__3634__3614__3633__3602__3609__3634__3585__3634__3619_	__SERVER_HOST__	__SERVER_PORT__
+1ซงจุงกิ	/x/w/sg/_49__124__3595__3591__3592__3640__3591__3585__3636_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Vietnam
+i              -------------
+i
+1Song joong-ki	/x/w/sg/_49__124_Song_32_joong_45_ki	__SERVER_HOST__	__SERVER_PORT__
+1Hà Lan vs Croatia	/x/w/sg/_49__124_H_224__32_Lan_32_vs_32_Croatia	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Europe
+i        -------------------------
+i
+i                 Denmark
+i              -------------
+i
+1Jude Bellingham	/x/w/sg/_49__124_Jude_32_Bellingham	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Finland
+i              -------------
+i
+1Rumble	/x/w/sg/_49__124_Rumble	__SERVER_HOST__	__SERVER_PORT__
+1Die another day	/x/w/sg/_49__124_Die_32_another_32_day	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ireland
+i              -------------
+i
+1Netherlands vs Croatia	/x/w/sg/_49__124_Netherlands_32_vs_32_Croatia	__SERVER_HOST__	__SERVER_PORT__
+1Lotto results	/x/w/sg/_49__124_Lotto_32_results	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Sweden
+i              -------------
+i
+1Cormac McCarthy	/x/w/sg/_49__124_Cormac_32_McCarthy	__SERVER_HOST__	__SERVER_PORT__
+1Nations League	/x/w/sg/_49__124_Nations_32_League	__SERVER_HOST__	__SERVER_PORT__
+1William Karlsson	/x/w/sg/_49__124_William_32_Karlsson	__SERVER_HOST__	__SERVER_PORT__
+i
+i              United Kingdom
+i              -------------
+i
+1Oliver Burke	/x/w/sg/_49__124_Oliver_32_Burke	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Europe
+i        -------------------------
+i
+i                 Austria
+i              -------------
+i
+1Kampf der Realitystars	/x/w/sg/_49__124_Kampf_32_der_32_Realitystars	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Belgium
+i              -------------
+i
+1Koh-Lanta	/x/w/sg/_49__124_Koh_45_Lanta	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  France
+i              -------------
+i
+1Prince William	/x/w/sg/_49__124_Prince_32_William	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Germany
+i              -------------
+i
+1Nations League	/x/w/sg/_49__124_Nations_32_League	__SERVER_HOST__	__SERVER_PORT__
+1Angelina Jolie Brad Pitt	/x/w/sg/_49__124_Angelina_32_Jolie_32_Brad_32_Pitt	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Netherlands
+i              -------------
+i
+1Nederland	/x/w/sg/_49__124_Nederland	__SERVER_HOST__	__SERVER_PORT__
+1Modric	/x/w/sg/_49__124_Modric	__SERVER_HOST__	__SERVER_PORT__
+i
+i               Switzerland
+i              -------------
+i
+1Unia	/x/w/sg/_49__124_Unia	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Europe
+i        -------------------------
+i
+i                 Czechia
+i              -------------
+i
+1Vegas Golden Knights	/x/w/sg/_49__124_Vegas_32_Golden_32_Knights	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Hungary
+i              -------------
+i
+1Szvoboda Bence	/x/w/sg/_49__124_Szvoboda_32_Bence	__SERVER_HOST__	__SERVER_PORT__
+1Szvoboda Bence balesete	/x/w/sg/_49__124_Szvoboda_32_Bence_32_balesete	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Poland
+i              -------------
+i
+1Stulecie Winnych	/x/w/sg/_49__124_Stulecie_32_Winnych	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Romania
+i              -------------
+i
+1Croatia	/x/w/sg/_49__124_Croatia	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Ukraine
+i              -------------
+i
+1Сочи	/x/w/sg/_49__124__1057__1086__1095__1080_	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Europe
+i        -------------------------
+i
+i                  Greece
+i              -------------
+i
+1Εθνικο πενθοσ	/x/w/sg/_49__124__917__952__957__953__954__959__32__960__949__957__952__959__963_	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Italy
+i              -------------
+i
+1Paola Di Benedetto	/x/w/sg/_49__124_Paola_32_Di_32_Benedetto	__SERVER_HOST__	__SERVER_PORT__
+i
+i                 Portugal
+i              -------------
+i
+1Ator Tony Ramos	/x/w/sg/_49__124_Ator_32_Tony_32_Ramos	__SERVER_HOST__	__SERVER_PORT__
+1Madeleine McCann	/x/w/sg/_49__124_Madeleine_32_McCann	__SERVER_HOST__	__SERVER_PORT__
+i
+i                  Spain
+i              -------------
+i
+1Plasencia	/x/w/sg/_49__124_Plasencia	__SERVER_HOST__	__SERVER_PORT__
+1Begoña Villacís	/x/w/sg/_49__124_Bego_241_a_32_Villac_237_s	__SERVER_HOST__	__SERVER_PORT__
+i
+i                Australia
+i        -------------------------
+i
+i                Australia
+i            -----------------
+i
+1Powerball	/x/w/sg/_49__124_Powerball	__SERVER_HOST__	__SERVER_PORT__
+i
+i               New Zealand
+i            -----------------
+i
+1Recession	/x/w/sg/_49__124_Recession	__SERVER_HOST__	__SERVER_PORT__
+1Nations League	/x/w/sg/_49__124_Nations_32_League	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Northern Africa
+i        -------------------------
+i
+i                   Egypt
+i            -----------------
+i
+1دوري الأمم	/x/w/sg/_49__124__1583__1608__1585__1610__32__1575__1604__1571__1605__1605_	__SERVER_HOST__	__SERVER_PORT__
+1اعدام محمد عادل	/x/w/sg/_49__124__1575__1593__1583__1575__1605__32__1605__1581__1605__1583__32__1593__1575__1583__1604_	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Western Africa
+i        -------------------------
+i
+i                 Nigeria
+i            -----------------
+i
+1EFCC chairman	/x/w/sg/_49__124_EFCC_32_chairman	__SERVER_HOST__	__SERVER_PORT__
+1Netherlands vs Croatia	/x/w/sg/_49__124_Netherlands_32_vs_32_Croatia	__SERVER_HOST__	__SERVER_PORT__
+i
+i              Eastern Africa
+i        -------------------------
+i
+i                   Kenya
+i            -----------------
+i
+1Finance Bill 2023	/x/w/sg/_49__124_Finance_32_Bill_32__50__48__50__51_	__SERVER_HOST__	__SERVER_PORT__
+i
+i             Southern Africa
+i        -------------------------
+i
+i               South Africa
+i            -----------------
+i
+1Netherlands vs Croatia	/x/w/sg/_49__124_Netherlands_32_vs_32_Croatia	__SERVER_HOST__	__SERVER_PORT__
+i
+i
+Bt:    Trends at 06/15/2023 04:05:08
