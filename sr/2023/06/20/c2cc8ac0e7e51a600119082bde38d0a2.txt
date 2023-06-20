@@ -1,0 +1,186 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_New_43_Year_39_s_43_Day_38_stick_61_H_52_sIAAAAAAAAAONgFuLUz_57_U_51_sEw_50_LzdQ_52_tVP_49_zc_48_TMtJqSwzNYjXkslOttIvz_48_jNyyy_50_ysjPyUxJrCyOT_56_svik_57_JLEl_57_xDiHkVvg_53_Y_57__55_wlKTGCetOXmNsZuRC_54__56_OIXEuNte_56_ksySSiFeKW_52_uhL_49_CXlwsLiAFTkoOXGZckhzP_45_QUYJRiDBBxzU_52_sykxP_49__95_VLL_52_yPzi_55_KFwFI_56_EvKYUkpsUixGBkbGVkwajFVMHAw_56_i_49_j_53_gHIKkamJRerFCi_54_JlQDcE_45_x_57__54_wAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjT_49__45__50_lxtH_95_AhVhFFkFHdciAyQQ_45_BZ_54_BAgLEAI	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_New_43_Year_39_s_43_Day_38_stick_61_H_52_sIAAAAAAAAAONgFuLUz_57_U_51_sEw_50_LzdQ_52_tVP_49_zc_48_TMtJqSwzNYjXkslOttIvz_48_jNyyy_50_ysjPyUxJrCyOT_56_svik_57_JLEl_57_xDiHkVvg_53_Y_57__55_wlKTGCetOXmNsZuRC_54__56_OIXEuNte_56_ksySSiFeKW_52_uhL_49_CXlwsLiAFTkoOXGZckhzP_45_QUYJRiDBBxzU_52_sykxP_49__95_VLL_52_yPzi_55_KFwFI_56_EvKYUkpsUixGBkbGVkwajFVMHAw_56_i_49_j_53_gHIKkamJRerFCi_54_JlQDcE_45_x_57__54_wAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjT_49__45__50_lxtH_95_AhVhFFkFHdciAyQQ_45_BZ_54_BAgLEAI	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_New_43_Year_39_s_43_Day_38_stick_61_H_52_sIAAAAAAAAAONgFuLUz_57_U_51_sEw_50_LzdQ_52_tVP_49_zc_48_TMtJqSwzNYjXkslOttIvz_48_jNyyy_50_ysjPyUxJrCyOT_56_svik_57_JLEl_57_xDiHkVvg_53_Y_57__55_wlKTGCetOXmNsZuRC_54__56_OIXEuNte_56_ksySSiFeKW_52_uhL_49_CXlwsLiAFTkoOXGZckhzP_45_QUYJRiDBBxzU_52_sykxP_49__95_VLL_52_yPzi_55_KFwFI_56_EvKYUkpsUixGBkbGVkwajFVMHAw_56_i_49_j_53_gHIKkamJRerFCi_54_JlQDcE_45_x_57__54_wAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjT_49__45__50_lxtH_95_AhVhFFkFHdciAyQQ_45_BZ_54_BAgLEAI	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_New_43_Year_39_s_43_Day_38_stick_61_H_52_sIAAAAAAAAAONgFuLUz_57_U_51_sEw_50_LzdQ_52_tVP_49_zc_48_TMtJqSwzNYjXkslOttIvz_48_jNyyy_50_ysjPyUxJrCyOT_56_svik_57_JLEl_57_xDiHkVvg_53_Y_57__55_wlKTGCetOXmNsZuRC_54__56_OIXEuNte_56_ksySSiFeKW_52_uhL_49_CXlwsLiAFTkoOXGZckhzP_45_QUYJRiDBBxzU_52_sykxP_49__95_VLL_52_yPzi_55_KFwFI_56_EvKYUkpsUixGBkbGVkwajFVMHAw_56_i_49_j_53_gHIKkamJRerFCi_54_JlQDcE_45_x_57__54_wAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjT_49__45__50_lxtH_95_AhVhFFkFHdciAyQQ_45_BZ_54_BAgLEAI	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?hl=en&q=New+Year's+Day&stick=H4sIAAAAAAAAAONgFuLUz9U3sEw2LzdQ4tVP1zc0TMtJqSwzNYjXkslOttIvz0jNyyy2ysjPyUxJrCyOT8svik9JLEl9xDiHkVvg5Y97wlKTGCetOXmNsZuRC68OIXEuNte8ksySSiFeKW4uhL1CXlwsLiAFTkoOXGZckhzP-QUYJRiDBBxzU4sykxP1_VLL4yPzi7KFwFI8EvKYUkpsUixGBkbGVkwajFVMHAw8i1j5gHIKkamJRerFCi6JlQDcE-x96wAAAA&sa=X&ved=2ahUKEwjT1-2lxtH_AhVhFFkFHdciAyQQ-BZ6BAgLEAI	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_New_43_Year_39_s_43_Day_38_stick_61_H_52_sIAAAAAAAAAONgFuLUz_57_U_51_sEw_50_LzdQ_52_tVP_49_zc_48_TMtJqSwzNYjXkslOttIvz_48_jNyyy_50_ysjPyUxJrCyOT_56_svik_57_JLEl_57_xDiHkVvg_53_Y_57__55_wlKTGCetOXmNsZuRC_54__56_OIXEuNte_56_ksySSiFeKW_52_uhL_49_CXlwsLiAFTkoOXGZckhzP_45_QUYJRiDBBxzU_52_sykxP_49__95_VLL_52_yPzi_55_KFwFI_56_EvKYUkpsUixGBkbGVkwajFVMHAw_56_i_49_j_53_gHIKkamJRerFCi_54_JlQDcE_45_x_57__54_wAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjT_49__45__50_lxtH_95_AhVhFFkFHdciAyQQ_45_BZ_54_BAgLEAI	texopher.com	70
+i
+i×
+i
+iPlease click here if you are not redirected within a few seconds.
+i
+iAny time
+i
+iAll results
+i
+iNew Year's Day / Date
+i
+iMon, Jan 1, 2024
+i
+iNew Year's Day
+i
+iCelebration
+i
+iIn the Gregorian calendar, New Year's Day is the first day of the year; 1
+iJanuary. Whilst most solar calendars begin the year regularly at or near the
+inorthern winter solstice, cultures that observe a lunisolar or lunar calendar
+icelebrate their... Wikipedia and Wikipedia
+i
+iDate: Monday, January 1, 2024
+i
+iEvent Length: 1 Day
+i
+iCelebrations: Making New Year's resolutions, church services, parades,
+iparties, sporting events, fireworks
+i
+iSignificance: The first day of the year in the Gregorian calendar
+i
+iNew Year's Day - Wikipedia
+i
+ien.wikipedia.org › wiki › New_Year's_Day
+i
+iNew Year's Day falls annually on what is 14 March in the Gregorian Western
+icalendar. Sinhalese New Year is celebrated in Sri Lankan culture
+ipredominantly
+iby the ...
+i
+iNew Year's Day in the older... · New Year's Days in other... · New Year's Day
+i
+iDate: 1 January Observed by: Users of the Gregorian calendar Related to: New
+iYear's Eve; Persian New Year; Indian New Year; Chinese New Year; Islamic New
+iYear; Christmas and holiday s... Significance: The first day of the year in
+ithe Gregorian calendar
+i
+iPeople also ask
+i
+iWhy is New Year's on the 31st?
+i
+iWhy do we celebrate New Year's day?
+i
+iIs New Year's day December 31 or Jan 1?
+i
+iIs it New Year's day today?
+i
+iNew Year's Day 2024 in the US - Time and Date
+i
+iwww.timeanddate.com › Calendar › Holidays › the United States
+i
+iNew Year's Day falls on January 1 and marks the start of a new year according
+ito the Gregorian calendar. It marks the end of New Year's Eve celebrations in
+i...
+i
+iSpanish: Día de Año Nuevo
+i
+iNew Year's Day 2023: Why Does the Year Start on January 1?
+i
+iwww.almanac.com › content › when-new-years-day
+i
+iJanuary 1 starts the New Year according to the Gregorian calendar, which is
+ithe calendar in use today. In 45 B.C., New Year's Day was celebrated on
+iJanuary 1 ...
+i
+iNew Year's Day - YouTube
+i
+iwww.youtube.com › watch
+i
+iAug 15, 2018 · 5.9M views 4 years ago. Show less. Provided to YouTube by
+iUniversal Music Group New Year ... Duration: 3:56 Posted: Aug 15, 2018
+i
+iNew Year's - Traditions, Resolutions & Date
+i
+iwww.history.com › Topics › Holidays
+i
+iFeb 16, 2010 · Most New Year's festivities begin on December 31 (New Year's
+iEve), the last day of the Gregorian calendar, and continue into the early
+ihours ...
+i
+iNew Year's Day in 2024 - Calendar Labs
+i
+iwww.calendarlabs.com › holidays › new-years-day
+i
+iNew Year's Day is celebrated on 1st January in most of the countries around
+ithe world, as most countries follow the Gregorian calendar.
+i
+iNew Year's Day 2024, 2025 and further - 2023 Calendar
+i
+iwww.calendar-365.com › holidays › new-year's-day
+i
+iNew Year's Day 2024 falls on the 1st of January each year and marks the
+icommencement of the Gregorian calendar. It is one of the most celebrated
+ipublic holidays ...
+i
+iNew Year's Day - New World Encyclopedia
+i
+iwww.newworldencyclopedia.org › entry › New_Year's_Day
+i
+iIt occurs around March 23–24, mostly around the Spring Equinox in the
+iGregorian Calendar. The new year is celebrated by paying respect to elders in
+ithe family ...
+i
+iDate: January 1 Significance: The first day of the Gregorian year
+iCelebrations: Making New Year's resolutions, church services, parades,
+isporting events, fireworks Observed by: Users of the Gregorian calendar
+i
+iNew Year's Day - Time and Date
+i
+iwww.timeanddate.com › Calendar › Holidays
+i
+iNew Year's Day, which is on January 1, marks the start of the year in the
+iGregorian calendar and it's a public holiday in many countries.
+i
+iNEW YEAR'S DAY - January 1, 2024 - National Today
+i
+inationaltoday.com › new-years-day
+i
+iJanuary 1 is New Year's Day — a time of optimism, planning, and resoluteness.
+iThere's a feeling that maybe this year we'll make the changes we've been ...
+i
+iRelated searches
+i
+iNew year's day traditions
+i
+iNew Year's Day 2023
+i
+iNew year's day food
+i
+iNew year's day celebration
+i
+iNew Year's Day movie
+i
+iNew Year's Day 2024
+i
+iNew Year's Day lyrics
+i
+iNew Year's Day Countdown
+i
+iNew York, NY
+i
+iSettingsPrivacyTermsDark theme: Off
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?hl=en&q=New+Year's+Day&stick=H4sIAAAAAAAAAONgFuLUz9U3sEw2LzdQ4tVP1zc0TMtJqSwzNYjXkslOttIvz0jNyyy2ysjPyUxJrCyOT8svik9JLEl9xDiHkVvg5Y97wlKTGCetOXmNsZuRC68OIXEuNte8ksySSiFeKW4uhL1CXlwsLiAFTkoOXGZckhzP-QUYJRiDBBxzU4sykxP1_VLL4yPzi7KFwFI8EvKYUkpsUixGBkbGVkwajFVMHAw8i1j5gHIKkamJRerFCi6JlQDcE-x96wAAAA&sa=X&ved=2ahUKEwjT1-2lxtH_AhVhFFkFHdciAyQQ-BZ6BAgLEAI
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:New Year's Day - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_New_43_Year_39_s_43_Day_38_stick_61_H_52_sIAAAAAAAAAONgFuLUz_57_U_51_sEw_50_LzdQ_52_tVP_49_zc_48_TMtJqSwzNYjXkslOttIvz_48_jNyyy_50_ysjPyUxJrCyOT_56_svik_57_JLEl_57_xDiHkVvg_53_Y_57__55_wlKTGCetOXmNsZuRC_54__56_OIXEuNte_56_ksySSiFeKW_52_uhL_49_CXlwsLiAFTkoOXGZckhzP_45_QUYJRiDBBxzU_52_sykxP_49__95_VLL_52_yPzi_55_KFwFI_56_EvKYUkpsUixGBkbGVkwajFVMHAw_56_i_49_j_53_gHIKkamJRerFCi_54_JlQDcE_45_x_57__54_wAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjT_49__45__50_lxtH_95_AhVhFFkFHdciAyQQ_45_BZ_54_BAgLEAI	texopher.com	70

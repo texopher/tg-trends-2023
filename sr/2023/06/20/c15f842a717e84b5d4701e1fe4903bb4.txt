@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ronaldo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwilgPvO_49_NH_95_AhWdmokEHU_52_lDkwQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ronaldo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwilgPvO_49_NH_95_AhWdmokEHU_52_lDkwQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ronaldo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwilgPvO_49_NH_95_AhWdmokEHU_52_lDkwQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ronaldo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwilgPvO_49_NH_95_AhWdmokEHU_52_lDkwQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Ronaldo&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwilgPvO1NH_AhWdmokEHU4lDkwQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ronaldo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwilgPvO_49_NH_95_AhWdmokEHU_52_lDkwQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+imanchester uniteddrawinghairstyleiphonemadridjerseystylebackgroundnewshirt
+i
+iCristiano Ronaldo says... www.espn.com
+i
+iCristiano Ronaldo will... www.goal.com
+i
+iCristiano Ronaldo Did His... www.si.com
+i
+iCristiano Ronaldo Fast... www.cnn.com
+i
+iFan picks up Cristiano... sports.yahoo.com
+i
+iCristiano Ronaldo signs... www.npr.org
+i
+iCristiano Ronaldo - Simple... simple.wikipedia.org
+i
+iIShowSpeed's tears as he... www.marca.com
+i
+iCristiano Ronaldo -... en.wikipedia.org
+i
+iCristiano Ronaldo Signs... www.nytimes.com
+i
+iRonaldo could make Saudi... www.reuters.com
+i
+iRevealed: Cristiano... www.goal.com
+i
+iCristiano Ronaldo Profile |... www.planetsport.com
+i
+iRonaldo dropped because of... www.aljazeera.com
+i
+iCristiano Ronaldo's 2023... www.sportingnews.com
+i
+iWorld Cup 2022: The Tears... www.newyorker.com
+i
+iWhy every game matters for... www.espn.com
+i
+iTransfer: Portugal... dailypost.ng
+i
+iCristiano Ronaldo makes... www.news10.com
+i
+iRonaldo makes sensational... apnews.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Ronaldo&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwilgPvO1NH_AhWdmokEHU4lDkwQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Ronaldo - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ronaldo_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwilgPvO_49_NH_95_AhWdmokEHU_52_lDkwQ_95_AUIBigB	texopher.com	70
