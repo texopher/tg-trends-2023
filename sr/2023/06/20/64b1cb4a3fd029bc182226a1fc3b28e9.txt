@@ -1,0 +1,142 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Temu_38_hl_61_en_38_source_61_lnms_38_tbm_61_shop_38_sa_61_X_38_ved_61__48_ahUKEwiYxdSGytH_95_AhWylIkEHZ_54__52_CWsQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Temu_38_hl_61_en_38_source_61_lnms_38_tbm_61_shop_38_sa_61_X_38_ved_61__48_ahUKEwiYxdSGytH_95_AhWylIkEHZ_54__52_CWsQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Temu_38_hl_61_en_38_source_61_lnms_38_tbm_61_shop_38_sa_61_X_38_ved_61__48_ahUKEwiYxdSGytH_95_AhWylIkEHZ_54__52_CWsQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Temu_38_hl_61_en_38_source_61_lnms_38_tbm_61_shop_38_sa_61_X_38_ved_61__48_ahUKEwiYxdSGytH_95_AhWylIkEHZ_54__52_CWsQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Temu&hl=en&source=lnms&tbm=shop&sa=X&ved=0ahUKEwiYxdSGytH_AhWylIkEHZ64CWsQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Temu_38_hl_61_en_38_source_61_lnms_38_tbm_61_shop_38_sa_61_X_38_ved_61__48_ahUKEwiYxdSGytH_95_AhWylIkEHZ_54__52_CWsQ_95_AUIBigB	texopher.com	70
+i
+i×
+i
+iAllShoppingImagesMapsVideosNewsBooks
+i
+iShow only
+i
+iOn sale
+i
+iPrice
+i
+iUp to $8
+i
+i$8 – $15
+i
+i$15 – $25
+i
+iOver $25
+i
+iColor
+i
+iCategory
+i
+iWomen's Apparel
+i
+iShoes
+i
+iMen's Accessories
+i
+iShirts & Tops
+i
+iMen's Clothing
+i
+iMen's Shoes
+i
+iOutfit Sets
+i
+iKids
+i
+iKids' Clothing
+i
+iExercise & Fitness
+i
+iProduct rating
+i
+iShipping
+i
+iFree shipping
+i
+iSeller
+i
+iTemu
+i
+iShop for Temu
+i
+iAbout ⓘ
+i
+i$8.49 from Temu
+i
+i$10.19 from Temu
+i
+i$9.68 from Temu
+i
+i$9.99 from Temu
+i
+i$8.49 from Temu
+i
+i$2.99 from Temu
+i
+i$11.68 from Temu
+i
+i$16.73 from Temu
+i
+i$11.29 from Temu
+i
+i$13.89 from Temu
+i
+i$4.99 from Temu
+i
+i$19.47 from Temu
+i
+i$12.47 from Temu
+i
+i$13.49 from Temu
+i
+i$15.59 from Temu
+i
+i$15.47 from Temu
+i
+i$23.84 from Temu
+i
+i$76.98 from Temu
+i
+i$13.27 from Temu
+i
+i$2.99 from Temu
+i
+iAd·www.temu.com/
+i
+iTemu.com Official Site - Free Shipping Today
+i
+iShop Exciting Products, Brands, And Tools At Temu.
+i
+i‎Best Sellers · ‎Shop Like a Billionaire · ‎Women's Clothing · ‎Temu’s Story
+i
+iSearch settings - Privacy - Terms
+i
+iNew York, NY · Learn more
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Temu&hl=en&source=lnms&tbm=shop&sa=X&ved=0ahUKEwiYxdSGytH_AhWylIkEHZ64CWsQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Temu - Google Shopping	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Temu_38_hl_61_en_38_source_61_lnms_38_tbm_61_shop_38_sa_61_X_38_ved_61__48_ahUKEwiYxdSGytH_95_AhWylIkEHZ_54__52_CWsQ_95_AUIBigB	texopher.com	70

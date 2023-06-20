@@ -1,0 +1,243 @@
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_dictionary_46_cambridge_46_org_47_us_47_dictionary_47_german_45_english_47_unwetter	texopher.com	70
+i
+iCambridge Dictionary +Plus My profile +Plus help Log out
+i
+iCambridge Dictionary +Plus My profile +Plus help Log out
+i
+iLog in / Sign up
+i
+iEnglish (US)
+i
+iSearch Search
+i
+i{{#preferredDictionaries}} {{^selected}} {{name}} {{/selected}}
+i{{/preferredDictionaries}}
+i
+i===== Unwetter =====
+i
+inoun
+i
+igenitive , singular Unwetters | nominative , plural Unwetter
+i
+iAdd to word list Add to word list
+i
+isehr schlechtes Wetter mit Regen, Sturm, Hagel o. Ä., das Schäden verursacht
+i
+ieine Unwetterwarnung herausgeben
+i
+iEin Unwetter brach los. A storm broke.
+i
+i(Translation of Unwetter from the GLOBAL German–English Dictionary © 2018 K
+iDictionaries Ltd)
+i
+i===== Browse =====
+i
+iUnwetter
+i
+iTest your vocabulary with our fun image quizzes
+i
+i{{randomImageQuizHook.copyright1}} {{randomImageQuizHook.copyright2}}
+i
+iWord of the Day
+i
+iYour browser doesn't support HTML5 audio
+i
+iYour browser doesn't support HTML5 audio
+i
+ito (cause a material to) become longer or wider than usual as a result of
+ipulling at the edges
+i
+iBlog
+i
+iMay 31, 2023
+i
+iNew Words
+i
+iJune 05, 2023
+i
+ihas been added to list
+i
+iTo top
+i
+iContents
+i
+i© Cambridge University Press & Assessment 2023
+i
+iLearn
+i
+iLearn Learn New Words Help In Print Word of the Year 2021 Word of the Year
+i2022
+i
+iDevelop
+i
+iDevelop Develop Dictionary API Double-Click Lookup Search Widgets License
+iData
+i
+iAbout
+i
+iAbout About Accessibility Cambridge English Cambridge University Press &
+iAssessment Consent Management Cookies and Privacy Corpus Terms of Use
+i
+i© Cambridge University Press & Assessment 2023
+i
+iCambridge Dictionary +Plus
+i
+iLearn more with +Plus
+i
+i===== Learn more with +Plus =====
+i
+iSign up for free and get access to exclusive content:
+i
+iFree word lists and quizzes from Cambridge
+i
+iTools to create your own word lists and quizzes
+i
+iWord lists shared by our community of dictionary fans
+i
+iSign up now or Log in
+i
+iCambridge Dictionary +Plus
+i
+iLearn more with +Plus
+i
+i===== Learn more with +Plus =====
+i
+iCreate word lists and quizzes for free
+i
+iSign up now or Log in
+i
+iCambridge Dictionary +Plus My profile +Plus help Log out
+i
+iClear explanations of natural written and spoken English
+i
+iClick on the arrows to change the translation direction.
+i
+iBilingual Dictionaries
+i
+iEnglish–Dutch Dutch–English
+i
+iEnglish–French French–English
+i
+iEnglish–German German–English
+i
+iEnglish–Indonesian Indonesian–English
+i
+iEnglish–Italian Italian–English
+i
+iEnglish–Japanese Japanese–English
+i
+iEnglish–Norwegian Norwegian–English
+i
+iEnglish–Polish Polish–English
+i
+iEnglish–Portuguese Portuguese–English
+i
+iEnglish–Spanish Spanish–English
+i
+iSemi-bilingual Dictionaries
+i
+iCambridge Dictionary +Plus My profile +Plus help Log out
+i
+iEnglish (UK) English (US) Español Español (Latinoamérica) 中文 (简体) 正體中文 (繁體)
+iDeutsch
+i
+iChoose a dictionary
+i
+i{{#preferredDictionaries}} {{name}} {{/preferredDictionaries}}
+i
+iClear explanations of natural written and spoken English
+i
+iEnglish Learner’s Dictionary Essential British English Essential American
+iEnglish
+i
+iUsage explanations of natural written and spoken English
+i
+iGrammar Thesaurus
+i
+iBritish and American pronunciations with audio
+i
+iEnglish Pronunciation
+i
+iClick on the arrows to change the translation direction.
+i
+iBilingual Dictionaries
+i
+iSemi-bilingual Dictionaries
+i
+iEnglish–Arabic English–Bengali English–Catalan English–Chinese (Simplified)
+iEnglish–Chinese (Traditional) English–Czech English–Danish English–Hindi
+iEnglish–Korean English–Malay English–Russian English–Thai English–Turkish
+iEnglish–Ukrainian English–Vietnamese
+i
+iChoose your language
+i
+iEnglish (UK) Español Español (Latinoamérica) 中文 (简体) 正體中文 (繁體) Deutsch
+i
+iContents
+i
+iMy word lists
+i
+iAdd Unwetter to one of your lists below, or create a new one.
+i
+i{{message}}
+i
+i{{message}}
+i
+iSomething went wrong.
+i
+iMore
+i
+i{{name}}
+i
+iGo to your word lists
+i
+i{{message}}
+i
+i{{message}}
+i
+iSomething went wrong.
+i
+iTell us about this example sentence:
+i
+iThe word in the example sentence does not match the entry word.
+i
+iThe sentence contains offensive content.
+i
+iCancel Submit
+i
+iThanks! Your feedback will be reviewed.
+i
+i{{message}}
+i
+i{{message}}
+i
+iThere was a problem sending your report.
+i
+iThe word in the example sentence does not match the entry word.
+i
+iThe sentence contains offensive content.
+i
+iCancel Submit
+i
+iThanks! Your feedback will be reviewed.
+i
+i{{message}}
+i
+i{{message}}
+i
+iThere was a problem sending your report.
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://dictionary.cambridge.org/us/dictionary/german-english/unwetter
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Unwetter in English - Cambridge Dictionary	/x/w/g/https_58__47__47_dictionary_46_cambridge_46_org_47_us_47_dictionary_47_german_45_english_47_unwetter	texopher.com	70

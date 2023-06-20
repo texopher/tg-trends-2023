@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Balaton_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjtjOW_95__48_dH_95_AhXJkIkEHbM_50_BQ_52_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Balaton_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjtjOW_95__48_dH_95_AhXJkIkEHbM_50_BQ_52_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Balaton_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjtjOW_95__48_dH_95_AhXJkIkEHbM_50_BQ_52_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Balaton_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjtjOW_95__48_dH_95_AhXJkIkEHbM_50_BQ_52_Q_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Balaton&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtjOW_0dH_AhXJkIkEHbM2BQ4Q_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Balaton_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjtjOW_95__48_dH_95_AhXJkIkEHbM_50_BQ_52_Q_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+ilaketérképhungarysiofokstrandtihanybudapesttrzebiniabeachjezioro
+i
+iLake Balaton - Wikipedia en.wikipedia.org
+i
+iTickets & Tours - Lake... www.viator.com
+i
+iThe BEST Lake Balaton Tours... www.getyourguide.com
+i
+i6 reasons why you should... www.loveexploring.com
+i
+iWater Quality of Lake... hungarytoday.hu
+i
+iThousands dive into balmy... news.yahoo.com
+i
+i6 reasons why you should... www.loveexploring.com
+i
+iBeach At Balatonfured Stock... www.istockphoto.com
+i
+iLake Balaton - Do & See www.arrivalguides.com
+i
+iDiscover the beautiful Lake... budapest-travel-tips.com
+i
+iLake Balaton | lake,... www.britannica.com
+i
+iLake Balaton - Wikipedia en.wikipedia.org
+i
+iBalaton: Discover... 3seaseurope.com
+i
+iBalaton - Wiktionary en.wiktionary.org
+i
+iA Complete Guide to... www.mywanderlust.pl
+i
+i10 Reasons to Visit... www.tripsavvy.com
+i
+iLake Balaton, Hungary,... www.vogue.com
+i
+iDestinations - Lake Balaton... www.budaventura.hu
+i
+iCabling for the Balaton... fibrain.com
+i
+iExploring Lake Balaton... travelmelodies.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Balaton&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjtjOW_0dH_AhXJkIkEHbM2BQ4Q_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Balaton - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Balaton_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjtjOW_95__48_dH_95_AhXJkIkEHbM_50_BQ_52_Q_95_AUIBigB	texopher.com	70

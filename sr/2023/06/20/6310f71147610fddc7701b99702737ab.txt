@@ -1,0 +1,341 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Thailand_43_women_39_s_43_national_43_football_43_team_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDLLLsktBwChV_95_wUDgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjYw_53_DvxtH_95_AhWml_52_kEHbZkB_48_QQ_54_RN_54_BAgDEAM	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Thailand_43_women_39_s_43_national_43_football_43_team_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDLLLsktBwChV_95_wUDgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjYw_53_DvxtH_95_AhWml_52_kEHbZkB_48_QQ_54_RN_54_BAgDEAM	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Thailand_43_women_39_s_43_national_43_football_43_team_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDLLLsktBwChV_95_wUDgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjYw_53_DvxtH_95_AhWml_52_kEHbZkB_48_QQ_54_RN_54_BAgDEAM	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Thailand_43_women_39_s_43_national_43_football_43_team_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDLLLsktBwChV_95_wUDgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjYw_53_DvxtH_95_AhWml_52_kEHbZkB_48_QQ_54_RN_54_BAgDEAM	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?hl=en&q=Thailand+women's+national+football+team&stick=H4sIAAAAAAAAAONgVuLSz9U3MDLLLsktBwChV_wUDgAAAA&sa=X&ved=2ahUKEwjYw5DvxtH_AhWml4kEHbZkB0QQ6RN6BAgDEAM	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Thailand_43_women_39_s_43_national_43_football_43_team_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDLLLsktBwChV_95_wUDgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjYw_53_DvxtH_95_AhWml_52_kEHbZkB_48_QQ_54_RN_54_BAgDEAM	texopher.com	70
+i
+i×
+i
+iPlease click here if you are not redirected within a few seconds.
+i
+iAny time
+i
+iAll results
+i
+iThailand women's national football team
+i
+iSoccer team
+i
+iView all
+i
+iThe Thailand women's national football team represents Thailand in women's
+iassociation football and is run by the Football Association of Thailand. The
+iteam won the Asian Cup in 1983 and have qualified for two FIFA Women's World
+iCups in 2015 and... Wikipedia
+i
+iCaptain: Silawan Intamee
+i
+iHead coach: Naruphol Kaensorn
+i
+iCurrent: 44 (9 June 2023)
+i
+iTop scorer: Pitsamai Sornsai (75)
+i
+iAssociation: FA Thailand
+i
+iPlayers
+i
+iTaneekarn Dangda
+i
+iForward
+i
+iSilawan Intamee
+i
+iMidfielder
+i
+iSunisa Srangthaisong
+i
+iDefender
+i
+iWaraporn Boonsing
+i
+iGoalkeeper
+i
+iSuchawadee Nildhamrong
+i
+iForward
+i
+iPitsamai Sornsai
+i
+iDefender
+i
+iTiffany Sornpao
+i
+iGoalkeeper
+i
+iIrravadee Makris
+i
+iMidfielder
+i
+iWilaiporn Boothduang
+i
+iMidfielder
+i
+iNipawan Panyosuk
+i
+iMidfielder
+i
+iWarunee Phetwiset
+i
+iDefender
+i
+iKanyanat Chetthabutr
+i
+iForward
+i
+iSudarat Chuchuen
+i
+iMidfielder
+i
+iJanista Jinantuya
+i
+iForward
+i
+iJiraporn Mongkoldee
+i
+iMidfielder
+i
+iNutwadee Pram-nak
+i
+iMidfielder
+i
+iKanjanaporn Saengkoon
+i
+iDefender
+i
+iOrapin Waenngoen
+i
+iMidfielder
+i
+iPikul Khueanpet
+i
+iMidfielder
+i
+iSaowalak Peng-ngam
+i
+iForward
+i
+iNualanong Muensri
+i
+iForward
+i
+iChatchawan Rodthong
+i
+iMidfielder
+i
+iSangrawee Meekham
+i
+iPhonphirun Philawan
+i
+iDefender
+i
+iAmornrat Utchai
+i
+iDefender
+i
+iNattaruja Muthtanawech
+i
+iGoalkeeper
+i
+iChotmanee Thongmongkol
+i
+iGoalkeeper
+i
+iU-raiporn Yongkul
+i
+iDefender
+i
+iTipkritta Onsamai
+i
+iDefender
+i
+iPattaranan Aupachai
+i
+iForward
+i
+iPloychompoo Somnonk
+i
+iDefender
+i
+iJaruwan Chaiyarak
+i
+iDefender
+i
+iPanittha Jeeratanapavibul
+i
+iDefender
+i
+iKanchaliya Phimphabut
+i
+iMidfielder
+i
+iSupapron Intaraprasit
+i
+iDefender
+i
+iTaneekarn Dangda
+i
+iForward
+i
+iSilawan Intamee
+i
+iMidfielder
+i
+iSunisa Srangthaisong
+i
+iDefender
+i
+iWaraporn Boonsing
+i
+iGoalkeeper
+i
+iSuchawadee Nildhamrong
+i
+iForward
+i
+iPitsamai Sornsai
+i
+iDefender
+i
+iThailand women's national football team - Wikipedia
+i
+ien.wikipedia.org › wiki › Thailand_women's_national_football_team
+i
+iThe Thailand women's national football team represents Thailand in women's
+iassociation football and is run by the Football Association of Thailand.
+i
+iHistory · Results and fixtures · Coaching staff · Players
+i
+iNickname(s): ชบาแก้ว; (Chaba Kaew) Association: FA Thailand
+i
+iThailand Women Roster & Squad - Soccer | FOX Sports
+i
+iwww.foxsports.com › soccer › thailand-women-team-roster
+i
+iVisit FOXSports.com to view the Thailand Women roster & lineup for the
+icurrent soccer season. Get players' names, positions, nationality, and more.
+i
+iPeople also ask
+i
+iDid Thailand ever qualify for World Cup?
+i
+iWhere to watch Vietnam national football team vs Thailand national football
+iteam?
+i
+iWho is the coach of Thailand women's football team?
+i
+iWho sponsors the Thailand football team?
+i
+iThailand Women Football Live Scores & Results - Scorebar
+i
+iwww.scorebar.com › team › thailand-women
+i
+iThe Thailand Women Football Club page on Scorebar offers live scores,
+iresults, standings, head to head matches, match details and season
+istatistics.
+i
+iThailand - Results, fixtures, squad, statistics, photos, videos and news
+i
+ius.soccerway.com › teams › thailand › thailand
+i
+iThailand - Thailand - Results, fixtures, squad, statistics, photos, videos
+iand news - Soccerway.
+i
+iFootball, Asia: Thailand W live scores, results, fixtures
+i
+iwww.flashscore.com › team › thailand
+i
+iThailand page on Flashscore.com offers livescore, results, standings and
+imatch details (goal scorers, red cards, …).
+i
+iThailand live score, schedule & player stats - Sofascore
+i
+iwww.sofascore.com › Football › World › Southeast Asian Games, Women
+i
+iThailand live scores, players, season schedule and today's results are
+iavailable on Sofascore. Thailand next match. We may have video highlights
+iwith
+igoals ...
+i
+iThailand women's national football team - Sports team - Facebook
+i
+im.facebook.com › profile
+i
+iOfficially nicknamed the Chaba Kaew, the team is controlled by the governing
+ibody for football in Thailand, Football Association of Thailand (FAT), which
+iis ...
+i
+iThailand Women's National Football Team - Sportskeeda
+i
+iwww.sportskeeda.com › Football
+i
+iThe team is led by their captain Duangnapa Sritala and coached by the Head
+iCoach, Nuengruethai Sathongwien. The FIFA code for the Thailand National Team
+iis THA.
+i
+iThailand Women - Soccer - BetsAPI
+i
+ibetsapi.com › Thailand-Women
+i
+iThe Thailand women's national football team (Thai: ฟุตบอลหญิงทีมชาติไทย,
+iRTGS: futbon ying thim chat thai) represents Thailand in women's association
+i...
+i
+iThai team fails to qualify for Women's World Cup for 3rd time
+i
+iwww.nationthailand.com › Thailand
+i
+iFeb 18, 2023 · Thailand's female football team failed to qualify for the FIFA
+iWomen's World Cup 2023 after losing to Cameroon in a play-off match on
+iSaturday.
+i
+iRelated searches
+i
+iThailand women's national football team stadium
+i
+iThailand national football team matches
+i
+iThailand W FC livescore
+i
+iPhilippines Women's football team
+i
+iThailand Women's national football team players
+i
+iWomen football team
+i
+iWomen football ranking
+i
+iCambodia Women's football team
+i
+iNew York, NY
+i
+iSettingsPrivacyTermsDark theme: Off
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?hl=en&q=Thailand+women's+national+football+team&stick=H4sIAAAAAAAAAONgVuLSz9U3MDLLLsktBwChV_wUDgAAAA&sa=X&ved=2ahUKEwjYw5DvxtH_AhWml4kEHbZkB0QQ6RN6BAgDEAM
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Thailand women's national football team - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_hl_61_en_38_q_61_Thailand_43_women_39_s_43_national_43_football_43_team_38_stick_61_H_52_sIAAAAAAAAAONgVuLSz_57_U_51_MDLLLsktBwChV_95_wUDgAAAA_38_sa_61_X_38_ved_61__50_ahUKEwjYw_53_DvxtH_95_AhWml_52_kEHbZkB_48_QQ_54_RN_54_BAgDEAM	texopher.com	70
