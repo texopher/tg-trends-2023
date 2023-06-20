@@ -1,0 +1,130 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Titanic_43_sub_43_missing_38_hl_61_en_38_source_61_lnms_38_tbm_61_vid_38_sa_61_X_38_ved_61__48_ahUKEwi_50_iOLHy_57_H_95_AhWHk_52_kEHQEuDGUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Titanic_43_sub_43_missing_38_hl_61_en_38_source_61_lnms_38_tbm_61_vid_38_sa_61_X_38_ved_61__48_ahUKEwi_50_iOLHy_57_H_95_AhWHk_52_kEHQEuDGUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Titanic_43_sub_43_missing_38_hl_61_en_38_source_61_lnms_38_tbm_61_vid_38_sa_61_X_38_ved_61__48_ahUKEwi_50_iOLHy_57_H_95_AhWHk_52_kEHQEuDGUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Titanic_43_sub_43_missing_38_hl_61_en_38_source_61_lnms_38_tbm_61_vid_38_sa_61_X_38_ved_61__48_ahUKEwi_50_iOLHy_57_H_95_AhWHk_52_kEHQEuDGUQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Titanic+sub+missing&hl=en&source=lnms&tbm=vid&sa=X&ved=0ahUKEwi2iOLHy9H_AhWHk4kEHQEuDGUQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Titanic_43_sub_43_missing_38_hl_61_en_38_source_61_lnms_38_tbm_61_vid_38_sa_61_X_38_ved_61__48_ahUKEwi_50_iOLHy_57_H_95_AhWHk_52_kEHQEuDGUQ_95_AUIBigB	texopher.com	70
+i
+i×
+i
+iPlease click here if you are not redirected within a few seconds.
+i
+iAny duration
+i
+iAny time
+i
+iAny quality
+i
+iAll videos
+i
+iAny source
+i
+iA search and rescue operation is underway for a submersible touring the
+iwreckage of the Titanic - CNN
+i
+iwww.cnn.com › 2023/06/19 › europe › titanic-shipwreck-vessel-missing-intl
+i
+i3 hours ago · The Canadian research ship Polar Prince on Sunday notified the
+imilitary branch it had lost ... Duration: 1:55 Posted: 3 hours ago
+i
+iSubmarine on expedition to Titanic wreckage missing with 5 aboard; "search
+iand rescue operation" underway - CBS News
+i
+iwww.cbsnews.com › World
+i
+i3 hours ago · OceanGate's submersible, The Titan, is the only five-person sub
+iin the world capable of ... Posted: 3 hours ago
+i
+iDesperate search for missing submarine viewing Titanic with five onboard | 9
+iNews Australia - YouTube
+i
+iwww.youtube.com › watch
+i
+i2 hours ago · There is a race against time to find a tourist submarine that
+ivanished thousands of metres below ... Duration: 5:05 Posted: 2 hours ago
+i
+iMissing titanic sub: Tourist submersible OceanGate with five onboard has 70
+ihours of air left | The Independent
+i
+iwww.independent.co.uk › World › Americas
+i
+i16 minutes ago · Shahzada Dawood, a 48-year-old businessman and one of the
+irichest people in Pakistan, and ... Duration: 0:45 Posted: 16 minutes ago
+i
+iCoast Guard "doing everything that we can do" to find missing sub near
+iTitanic wreckage
+i
+iwww.cbsnews.com › video › submarine-missing-titanic-wreckage-coast-gu...
+i
+i2 hours ago · The U.S. Coast Guard is leading search and rescue efforts after
+ia submersible vessel with 5 ... Duration: 16:48 Posted: 2 hours ago
+i
+iTitanic wreckage touring sub missing: Search and rescue underway - KCRA
+i
+iwww.kcra.com › article › titanic-tourist-submersible-missing
+i
+i3 hours ago · The Canadian research ship Polar Prince on Sunday notified the
+imilitary branch it had lost ... Duration: 1:59 Posted: 3 hours ago
+i
+i5 aboard missing Titanic-bound sub likely experiencing 'very uncomfortable,
+idark experience'
+i
+inypost.com › 2023/06/20 › missing-onboard-titanic-bound-sub-likely-exp...
+i
+i3 hours ago · The watercraft, operated by OceanGate Expeditions, was reported
+imissing after it failed to return ... Duration: 0:37 Posted: 3 hours ago
+i
+iTitanic exploration sub goes missing, Coast Guard launches search - CBS News
+i
+iwww.cbsnews.com › video › titanic-sub-goes-missing-exploring-wreckage-...
+i
+i8 hours ago · The U.S. Coast Guard in Boston says a search and rescue mission
+iis underway for a missing ... Duration: 4:51 Posted: 8 hours ago
+i
+iMissing Titanic tour sub: Former Navy sub captain on rescue options - ABC
+iNews
+i
+iabcnews.go.com › missing-titanic-tour-sub-rescue-options › story
+i
+i9 hours ago · The 21-foot submersible lost communication with the mainland 1
+ihour and 45 minutes after it ... Duration: 0:40 Posted: 9 hours ago
+i
+iTitanic tourist submarine live updates: Search underway in Atlantic - USA
+iToday
+i
+iwww.usatoday.com › story › news › nation › 2023/06/19 › titanic-tourist-s...
+i
+i10 hours ago · U.S. and Canadian rescue teams were searching Monday for a
+isubmersible carrying five people ... Duration: 0:36 Posted: 10 hours ago
+i
+iNew York, NY
+i
+iSettingsPrivacyTermsDark theme: Off
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Titanic+sub+missing&hl=en&source=lnms&tbm=vid&sa=X&ved=0ahUKEwi2iOLHy9H_AhWHk4kEHQEuDGUQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Titanic sub missing - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Titanic_43_sub_43_missing_38_hl_61_en_38_source_61_lnms_38_tbm_61_vid_38_sa_61_X_38_ved_61__48_ahUKEwi_50_iOLHy_57_H_95_AhWHk_52_kEHQEuDGUQ_95_AUIBigB	texopher.com	70

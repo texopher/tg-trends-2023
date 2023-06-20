@@ -1,0 +1,191 @@
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_bvb_46_ro_47_	texopher.com	70
+i
+iTuesday | June 20, 2023 |
+i
+iMarket Status: OPEN
+i
+iAbout us and Governance | Investor Relations| Contact
+i
+iLogin Register
+i
+iWhy Bucharest Stock Exchange? Overview Financing instruments Listing benefits
+iInfographics Main Market Issuing shares Issuing bonds Intermediaries
+iFrequently Asked Questions AeRO market Issuing shares Issuing bonds
+iAuthorized
+iAdvisors Frequently Asked Questions Useful Materials ESG reporting Guidelines
+iCode of Corporate Governance
+i
+iMarkets Shares Bonds Fund units Certificates Warrants Advanced search Indices
+iOverview Indices profiles BMR information Corporate actions Info dividend
+iShare capital changes Spin-off resulted companies Selected data Current
+ireports Financial results Indicators Financial Calendar Market Operations
+iReported shareholders Monitoring list
+i
+iTrading Markets today Current trading day All markets statistics Historical
+itrading info Running public offers Special selling method MiFID II Data
+iStatistics General statistics Market evolution (shares) Top by trading data
+iPublications Daily report Monthly reports Trading hours and holidays Markets
+iLive
+i
+iList of intermediaries All intermediaries Top of intermediaries Market Makers
+iList Liquidity Providers List Market Makers and Liquidity Providers
+iperformance List of Tied Agents How to become a member
+i
+iData vending For data vendors For professionals For investors Index licensing
+iHow do I license an Index? Connectivity Arena trading system Brokerage system
+i
+iLegal framework Laws and regulations BVB regulations MiFID II / MiFIR Reports
+iArbitration Chamber Tools Useful links Capital market institutions
+i
+i{{ind.CloseValue | number :2}} {{ind.DayVar | number :2}}%
+i
+i===== Index Constituents - BET =====
+i
+iCompany Price Var. (%) ALRO S.A. 1.6550 -2.36 AQUILA PART PROD COM 0.7120
+i0.28 BANCA TRANSILVANIA S.A. 19.6700 -0.81 BRD - GROUPE SOCIETE GENERALE S.A.
+i12.7200 -1.40 BURSA DE VALORI BUCURESTI SA 47.7000 -1.65 C.N.T.E.E.
+iTRANSELECTRICA 24.6000 -2.38 CONPET SA 72.0000 -1.10 Digi Communications N.V.
+i34.3000 -1.44 FONDUL PROPRIETATEA 1.9800 -0.90 MedLife S.A. 18.7200 -0.43 OMV
+iPETROM S.A. 0.4934 0.28 ONE UNITED PROPERTIES 0.9340 -0.21 PURCARI WINERIES
+iPUBLIC COMPANY LIMITED 10.5000 -0.19 S.N. NUCLEARELECTRICA S.A. 44.3000 0.00
+iS.N.G.N. ROMGAZ S.A. 42.4500 0.00 S.N.T.G.N. TRANSGAZ S.A. 17.9200 0.11
+iSOCIETATEA ENERGETICA ELECTRICA S.A. 8.4700 -0.35 Sphera Franchise Group
+i18.4000 0.27 TERAPLAST SA 0.5280 0.38 TTS (TRANSPORT TRADE SERVICES) 14.8000
+i-0.67
+i
+iBETAeRO 868.35 -0.31%
+i
+i===== Index Constituents - BETAeRO =====
+i
+iCompany Price Var. (%) AROBS TRANSILVANIA SOFTWARE 0.9280 0.22 Holde Agri
+iInvest S.A. - Clasa A 1.1850 0.42 SIMTEL TEAM 31.1000 -0.32 ROCA INDUSTRY
+iHOLDINGROCK1 S.A. 8.6600 -3.56 META ESTATE TRUST 0.8400 1.20 ELECTROPRECIZIA
+iSA Sacele 18.1000 1.12 NOROFERT S.A. 6.2000 -2.52 DN Agrar Group 0.7240 -0.82
+iMACOFIL SA TG. JIU 18.6000 -0.53 AGROLAND BUSINESS SYSTEM 1.2900 -0.39 ARCTIC
+iSTREAM 24.8000 -0.40 Grup Serban Holding 1.4100 -4.73 AGROSERV MARIUTA 5.9800
+i3.10 IPROEB SA Bistrita 0.6100 0.00 2B Intelligent Soft 5.2200 -0.38 FORAJ
+iSONDE SA VIDELE 8.9500 0.00 Softbinator Technologies 6.3000 -0.63 ARGUS SA
+iConstanta 2.3800 -1.65 LIFE IS HARD S.A. 1.9600 0.51 MAGAZIN UNIVERSAL
+iMARAMURES SA BAIA MARE 0.2540 1.60 CONNECTIONS CONSULT S.A. 4.1400 0.00 IHUNT
+iTECHNOLOGY IMPORT-EXPORT S.A. 0.3820 0.00 VISUAL FAN 9.8000 0.00 SIPEX
+iCOMPANY
+i0.3140 0.00 ASCENDIA SA 3.5700 0.00 2PERFORMANT NETWORK 1.8700 0.00 BONAS
+iIMPORT EXPORT 1.3500 1.50 FIREBYTE GAMES 0.3790 0.00 Star Residence Invest
+i0.1510 -2.58 AGROLAND AGRIBUSINESS 5.0500 -1.94 AIR CLAIM 4.2400 0.95
+iMAMBRICOLAJ S.A. 2.7000 -3.57 CHROMOSOME DYNAMICS 23.0000 0.00 ADISS 0.7750
+i-0.64 VIFRANA 0.1780 8.54
+i
+i6/19/2023 - Price correction factors for BVB shares in the Total Return
+iindices starting with June 20
+i
+i6/19/2023 - The Romanian capital market anticipating Hidroelectrica IPO. 7
+ipercent growth and new record of 140000 investors
+i
+i6/13/2023 - Price correction factor for LIH shares in BET AeRO index starting
+iwith June 14
+i
+i6/9/2023 - New structures of the BVB indices starting with June 19 2023
+i
+i6/9/2023 - Capital markets prospects in the context of European trends
+i
+i6/7/2023 - Price correction factors for EVER shares in BVB s Total Return
+iindices starting with June 8
+i
+iToday’s Top Broker’s Activity
+i
+i===== Today’s Top Broker’s Activity =====
+i
+iBy Trades By Value
+i
+iCurrent (previous session) Intermediary name 1 (1) TRADEVILLE 2 (2) BT
+iCAPITAL PARTNERS 3 (3) SSIF BRK FINANCIAL GROUP S.A. 4 (5) IFB FINWEST 5 (10)
+iPRIME TRANSACTION 6 (6) GOLDRING 7 (4) SWISS CAPITAL S.A. 8 (8) Raiffeisen
+iBank International 9 (11) ESTINVEST 10 (9) BANCA COMERCIALA ROMANA 11 (14)
+iS.S.I.F. BLUE ROCK FINANCIAL SERVICES S.A 12 (12) BRD Groupe Societe Generale
+i
+i6/20/2023 1:15:00 PM
+i
+iTop based on main market (on Orderbook) trades. Current (previous session):
+ithe current position in top (the position at the previous session close)
+i
+i6/20/2023 1:38:01 PM
+i
+idocs: 1
+i
+i6/20/2023 1:30:04 PM
+i
+idocs: 1
+i
+iGWI25 - Tender Offer Launch Announcement
+i
+i6/20/2023 11:46:00 AM
+i
+idocs: 1
+i
+i6/20/2023 10:42:27 AM
+i
+idocs: 1
+i
+i6/20/2023 9:42:14 AM
+i
+idocs: 1 2
+i
+i6/20/2023 9:00:51 AM
+i
+idocs: 1
+i
+iLatest updates
+i
+i*
+i
+iInterested in
+i
+iExchange Live 2.0 Prices today Top by trading data All market indices Daily
+imarket reports Financial Calendar Intermediaries ranking Events
+i
+iInvestor Relations
+i
+iFor Companies Overview Financing instruments Listing benefits
+i
+i===== For Companies =====
+i
+iFor Investors Getting started Become An Investor Exchange Live 2.0
+i
+i===== For Investors =====
+i
+iTrading and Statistics Markets today General statistics Top by trading data
+i
+i===== Trading and Statistics =====
+i
+iAbout us and Governance Overview Management Structure Press releases Careers
+i
+i===== About us and Governance =====
+i
+iInvestor Relations Overview General shareholders' meetings Financial
+istatements
+i
+i===== Investor Relations =====
+i
+iOther Group sites Central Depository
+i
+i===== Other Group sites =====
+i
+iWebsite mobile | Disclaimer | Webmaster | Contact| © 2014 Bucharest Stock
+iExchange
+i
+iShare:
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://bvb.ro/
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Bucharest Stock Exchange. Own the Future. Invest in it !	/x/w/g/https_58__47__47_bvb_46_ro_47_	texopher.com	70
