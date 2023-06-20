@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Magdalena_43_Abakanowicz_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiD_49__54_jLy_57_H_95_AhUknokEHUagDn_56_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Magdalena_43_Abakanowicz_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiD_49__54_jLy_57_H_95_AhUknokEHUagDn_56_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Magdalena_43_Abakanowicz_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiD_49__54_jLy_57_H_95_AhUknokEHUagDn_56_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Magdalena_43_Abakanowicz_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiD_49__54_jLy_57_H_95_AhUknokEHUagDn_56_Q_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Magdalena+Abakanowicz&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD16jLy9H_AhUknokEHUagDn8Q_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Magdalena_43_Abakanowicz_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiD_49__54_jLy_57_H_95_AhUknokEHUagDn_56_Q_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+itextileembryologytate
+imoderndrawingsculptureartportraitnierozpoznaniabakanbronze
+i
+iThe Crowds – Magdalena... culture.pl
+i
+iMagdalena Abakanowicz:... www.theguardian.com
+i
+ixMagdalenaAbakanowicz.jpg.... www.mcba.ch
+i
+iMagdalena Abakanowicz: The... www.eduartexperience.com
+i
+iMagdalena Abakanowicz:... www.theguardian.com
+i
+iMagdalena Abakanowicz |... www.tate.org.uk
+i
+iMagdalena Abakanowicz's... news.artnet.com
+i
+iThe Textile Sculptures of... www.jimcarrollsblog.com
+i
+i4 Seated Figures | Artwork... nmwa.org
+i
+iInsistent Presences:... walkerart.org
+i
+iMagdalena Abakanowicz:... www.e-flux.com
+i
+iMagdalena Abakanowicz |... 4columns.org
+i
+iMAGDALENA ABAKANOWICZ: THE... contemporarylynx.co.uk
+i
+iMagdalena Abakanowicz -... awarewomenartists.com
+i
+iMagdalena Abakanowicz's... www.artsy.net
+i
+i5 Fast Facts: Magdalena... nmwa.org
+i
+iPolish Pavilion in Venice labiennale.art.pl
+i
+iA tangled thread: Magdalena... notesfrompoland.com
+i
+iIn Pictures: The Late... news.artnet.com
+i
+iMagdalena Abakanowicz and... www.dailyartmagazine.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Magdalena+Abakanowicz&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiD16jLy9H_AhUknokEHUagDn8Q_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Magdalena Abakanowicz - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Magdalena_43_Abakanowicz_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiD_49__54_jLy_57_H_95_AhUknokEHUagDn_56_Q_95_AUIBigB	texopher.com	70

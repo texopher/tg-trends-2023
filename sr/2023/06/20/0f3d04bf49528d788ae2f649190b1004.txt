@@ -1,0 +1,35 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_youtube_46_com_47_watch_63_v_61_JgLDpfyeAhE	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_youtube_46_com_47_watch_63_v_61_JgLDpfyeAhE	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_youtube_46_com_47_watch_63_v_61_JgLDpfyeAhE	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_youtube_46_com_47_watch_63_v_61_JgLDpfyeAhE	texopher.com	70
+i
+hRead web directly	URL:https://www.youtube.com/watch?v=JgLDpfyeAhE	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_youtube_46_com_47_watch_63_v_61_JgLDpfyeAhE	texopher.com	70
+i
+i© 2023 Google LLC
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://www.youtube.com/watch?v=JgLDpfyeAhE
+i
+iLICENSE: © 2023 Google LLC
+i
+i=========================================
+i
+i
+i$
+Bt:Une femme âgée et sa petite-fille violemment agressées à Bordeaux - YouTube	/x/w/g/https_58__47__47_www_46_youtube_46_com_47_watch_37__51_Fv_37__51_DJgLDpfyeAhE	texopher.com	70

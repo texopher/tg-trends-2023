@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Spanje_43_kroatie_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjAx_52__50_b_49_NH_95_AhVzlIkEHdW_53_AS_56_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Spanje_43_kroatie_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjAx_52__50_b_49_NH_95_AhVzlIkEHdW_53_AS_56_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Spanje_43_kroatie_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjAx_52__50_b_49_NH_95_AhVzlIkEHdW_53_AS_56_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Spanje_43_kroatie_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjAx_52__50_b_49_NH_95_AhVzlIkEHdW_53_AS_56_Q_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Spanje+kroatie&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAx42b1NH_AhVzlIkEHdW5AS8Q_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Spanje_43_kroatie_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjAx_52__50_b_49_NH_95_AhVzlIkEHdW_53_AS_56_Q_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iek voetbalbalspanje vechtstrafschoppenlangs kroatiëkroatie voetbalvoetbal
+ispanjeleague finalekroatischenations league
+i
+iSpanje wint Nations... www.rtlnieuws.nl
+i
+iReacties na eindzege Spanje... www.nu.nl
+i
+iSpanje wint Nations League... nos.nl
+i
+iKroatië - Spanje live op tv... www.gids.tv
+i
+iSpanje verslaat Kroatië in... www.volkskrant.nl
+i
+iSamenvatting Kroatië-Spanje... www.hln.be
+i
+iSpanje treft Kroatië in... nos.nl
+i
+iSpanje wint Nations League... www.vi.nl
+i
+iSpanje wint de Nations... www.fcupdate.nl
+i
+iSpanje vecht zich in... nos.nl
+i
+iOp deze zender kijk je naar... sportnieuws.nl
+i
+iSpanje verslaat Kroatië en... www.ad.nl
+i
+iSpanje verslaat rivaal en... www.volkskrant.nl
+i
+iSpanje na verlenging via... www.ek2020-voetbal.nl
+i
+iSpanje verslaat Italië en... www.rtlnieuws.nl
+i
+iSpanje verslaat Kroatië via... olddnewss.club
+i
+iKroatië en Spanje voeren... www.voetbalzone.nl
+i
+iNations League | Spanje... www.eurosport.nl
+i
+iSpannende Nations... nos.nl
+i
+iKroatië - Spanje: Nations... www.gambling.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Spanje+kroatie&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAx42b1NH_AhVzlIkEHdW5AS8Q_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Spanje kroatie - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Spanje_43_kroatie_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjAx_52__50_b_49_NH_95_AhVzlIkEHdW_53_AS_56_Q_95_AUIBigB	texopher.com	70
