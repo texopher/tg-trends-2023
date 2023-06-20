@@ -1,0 +1,332 @@
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_en_46_wikipedia_46_org_47_wiki_47_Metrobus_95__40_Washington_44__95_D_46_C_46__41_	texopher.com	70
+i
+i===== Contents =====
+i
+i1History
+i
+i2Fares
+i
+i3Fleet
+i
+i4Divisions
+i
+i4.1Closed depots
+i
+i5Routes
+i
+i5.1Numbering
+i
+i6Richmond Highway Express
+i
+i7MetroExtra
+i
+i8Metroway
+i
+i9See also
+i
+i10References
+i
+iFrom Wikipedia, the free encyclopedia
+i
+iBus transit service in the US federal district
+i
+iThis article needs additional citations for verification. Please help improve
+ithis article by adding citations to reliable sources. Unsourced material may
+ibe challenged and removed. Find sources: "Metrobus" Washington, D.C. – news ·
+inewspapers · books · scholar · JSTOR (April 2019) (Learn how and when to
+iremove this template message)
+i
+iWashington Metropolitan Area Transit Authority BRT buses that are painted in
+ithe newer Local and Express paint schemes.
+i
+iMetrobus is a bus service operated by the Washington Metropolitan Area
+iTransit Authority (WMATA). Its fleet consists of 1,595 buses covering an area
+iof 1,500 square miles (3,900 km2) in Washington, D.C., Maryland and
+iVirginia.[2] There are 269 bus routes serving 11,129 stops, including 2,554
+ibus shelters.[2] In 2022, the system had a ridership of 90,123,200, or about
+i321,300 per weekday as of the fourth quarter of 2022.
+i
+i===== History =====
+i
+iThis section needs expansion. You can help by adding to it. (December 2019)
+i
+iMetrobus was founded on February 4, 1973, after acquiring DC Transit,
+iWashington, Virginia and Maryland Coach Company (WV&M), Alexandria, Barcroft
+iand Washington Transit Company (AB&W) and the Washington Marlboro and
+iAnnapolis Motor Lines (WM&A) to combine into Metrobus.[1][5] During its
+ifounding, WMATA dropped transfer charges, extended senior citizen discounts
+iregion-wide and began fare reductions on routes formerly served by the
+idifferent carriers at different rates. WMATA also unified a new bus livery
+iwith red, white and blue paint scheme and purchased 620 buses from AM General
+iwith the last buses being delivered in 1974.[6] Today, Metrobus serves the
+ination's capital 24/7, with over 1,500 buses.
+i
+i===== Fares =====
+i
+iSee also: SmarTrip
+i
+iAs of June 25, 2017[update], the Metrobus fare structure is as follows for
+icash and SmarTrip:[7]
+i
+iDiscounts are available for senior citizens, people with disabilities and
+iD.C. students.
+i
+iUp to two children, per paying adult, under 5 years of age ride for free.
+iChildren at least 5 years of age pay adult fare.
+i
+iAll Metrobuses have SmarTrip card readers which automatically deduct the
+icorrect fare from a rider's SmarTrip card (including transfer credit).
+i
+iMetrobus issued paper transfers until January 4, 2009. Transfers are now
+icurrently attainable only through SmarTrip cards.
+i
+iOn June 27, 2010, the transfer window was reduced from 3 hours to 2 hours.[8]
+i
+iAll fares were free from mid-March 2020 to January 3, 2021, due to the
+iCOVID-19 pandemic.[9] On December 6, 2022, the Council of the District of
+iColumbia voted to abolish fares within city limits from July 1, 2023.[10]
+i
+i===== Fleet =====
+i
+iMain article: Metrobus fleet (Washington, D.C.)
+i
+iOn July 4, 2018, WMATA awarded a 5-year contract to New Flyer for up to 694
+ibuses, order consist of forty-foot CNG, forty-foot clean diesel, sixty-foot
+iCNG, and sixty-foot diesel heavy-duty transit buses.[11] These new buses will
+ireplace Metro's older New Flyer Low Floor buses, which were delivered between
+i2005 and 2007. Red/Silver painted buses will be used on local routes and
+iBlue/Silver buses will be used on limited stop routes. These buses will have
+ieither Local or MetroExtra on the top of each side of the bus for easy
+iidentification.[12]
+i
+iWMATA is adding a total of 533 hybrid buses to replace its diesel bus fleet.
+iEach new "New Flyer Xcelsior XDE40" bus costs $571,737 and is expected to
+ibreak down less frequently as well as offer greater fuel economy. With the
+ilatest purchase of 152 hybrid buses for $89.3 million from New Flyer of
+iAmerica, WMATA's Metrobus fleet will consist of 297 diesel buses, 800 hybrid
+ibuses and 458 natural gas fueled buses.[13] Additionally, WMATA placed an
+iorder for 110 new buses from New Flyer on September 18, 2019.[14]
+i
+iAccording to a Sierra Club report, in 2020 WMATA received $4.1 million in
+ifunding from the Federal Transit Administration for the purchase of electric
+ibuses and charging infrastructure. The report estimated that 50%
+ielectrification would reduce the WMATA fleet's greenhouse gas (GHG) emissions
+iby more than 58,000 tons of carbon dioxide (CO2) per year.[15]
+i
+i===== Divisions =====
+i
+iThere are 9 divisions (a.k.a. depots) in the Metrobus system.[16]
+i
+i===== Routes =====
+i
+iMain article: List of Metrobus routes (Washington, D.C.)
+i
+iMost Metrobus routes follow the rules below:[27]
+i
+iOdd-numbered routes are typically part-time variants of even-numbered routes.
+i
+i===== Richmond Highway Express =====
+i
+iMain article: Richmond Highway Express
+i
+iRichmond Highway Express, a.k.a. "REX", is a Limited-Stop bus line that
+ioperates between King Street–Old Town station and Fort Belvoir along the
+iRichmond Highway corridor in Fairfax County, Virginia. All REX runs take
+iplace
+ion board on any local bus from Cinder Bed Division. REX began service on
+iSeptember 26, 2004, replacing parts of the now-former route 9A (which
+ioperated
+ibetween Huntington and Pentagon stations until it was eliminated on June 26,
+i2016).[28] The original REX bus fleet consisted of 12 now-retired 2000 Orion
+i06.501 (VI) buses wrapped (but not painted) in the blue-and-gold color scheme
+i(2073–2084) before the aforementioned Orion 07.501 CNG buses arrived in 2006.
+iThe second REX fleet consisted of 12 now-retired 2006 Orion 07.501 (VII) CNG
+ibuses (2674–2685) painted in the blue-and-gold color scheme until they were
+iall repainted between June and August 2014. The third REX fleet were
+iconsisted
+iof 12 2010 New Flyer DE40LFA diesel-electric hybrid buses (6550–6561) painted
+iin the blue-and-gold color scheme before being repainted from June 2018 back
+iinto the Red Local Scheme due to the units being rehabilitated. The fourth
+iand
+imost recent REX fleet consisted of 12 2008 New Flyer DE40LFA buses painted in
+ithe blue-and-gold color scheme. The entire REX fleet has been retired as of
+iDecember 26, 2021; from that date onward, the REX route has been operated
+ientirely with regular Metrobuses.
+i
+i===== MetroExtra =====
+i
+iMetroExtra
+i
+iThe MetroExtra logo
+i
+iA 2007 New Flyer C40LFR bus painted in WMATA's MetroExtra current color
+ischeme running on Route 39
+i
+iMetroExtra is a limited-stop Metrobus service, which operates on Metrobus
+ilines that need extra service with faster trips. MetroExtra started service
+ion
+iMarch 19, 2007, with the 79 that operates between the Silver Spring and
+iArchives stations on the 7th Street/Georgia Avenue corridor.[29]
+i
+i===== Metroway =====
+i
+iMain article: Metroway
+i
+iThe Metroway logo
+i
+iBus 2986, one of the 13 2016 New Flyer XN40s which replaced the 2014 NABI 42
+iBRTs (8002–8014) that originally ran the route
+i
+iMetroway is a bus rapid transit (BRT) service that began on August 24, 2014.
+iThe first phase is the Crystal City/Potomac Yard Transitway, which operates
+ion
+iRoute 1 in Arlington and Alexandria, Virginia.[30] It is a 5-mile (8.0 km)
+icorridor with 33 platforms and 20 stations located between Pentagon City and
+iBraddock Road.[31] The first 0.8 mile segment in Alexandria runs on a transit
+ilane only. The Arlington County segment began construction in the summer of
+i2014 and opened April 17, 2016. Metroway originally operated between the
+iBraddock Road and Crystal City stations and was expanded to Pentagon City in
+iApril 2016.[32] Thirteen 2016 New Flyer Xcelsior XN40 CNG buses (2981–2993)
+ioperate with the blue-and-white Metroway livery. The original Metroway fleet
+iconsisted of thirteen 2014 NABI 42 BRT diesel-electric hybrid buses
+i(8002–8014) until they were all repainted in December 2016. The Metroway
+iservice, which is operated by Metrobus' Four Mile Run bus division, features
+idedicated bus lanes, transit signal priority, real-time information, custom
+idesigned shelters and stations, as well as near-level boarding at station
+iplatforms. A Metroway fare costs the same as Metrobus, which is $2.00 (using
+icash & SmarTrip).
+i
+i===== See also =====
+i
+iWikimedia Commons has media related to Metrobus (Washington, D.C.).
+i
+i===== References =====
+i
+i^ a b "Washington Metropolitan Area Transit Authority Compact" (PDF).
+iwww.wmata.com. Washington Metropolitan Area Transit Authority. Retrieved
+iMarch
+i28, 2018. ^ a b c d e "Metro Facts 2017" (PDF). www.wmata.com. Washington
+iMetropolitan Area Transit Authority. 2017. p. 5. Archived from the original
+i(PDF) on July 2, 2018. Retrieved March 28, 2018. ^ "Transit Ridership Report
+iFourth Quarter 2022" (PDF). American Public Transportation Association. March
+i1, 2023. Retrieved March 29, 2023. ^ "Transit Ridership Report Fourth Quarter
+i2022" (PDF). American Public Transportation Association. March 1, 2023.
+iRetrieved March 29, 2023. ^ "History". Retrieved December 8, 2019. ^ "Metro
+iHistory" (PDF). WMATA. Archived from the original (PDF) on June 27, 2008.
+iRetrieved December 8, 2019. ^ "June 25, 2017 Fare and Service Changes
+iBrochure" (PDF). www.wmata.com. Washington Metropolitan Area Transit
+iAuthority. Retrieved March 28, 2018. ^ "Fare adjustments take effect Sunday"
+i(Press release). WMATA. June 25, 2010. Retrieved March 28, 2018. ^ "Metrobus
+iriders return to boarding through front door, paying fares on Sunday, January
+i3 | WMATA". www.wmata.com. Retrieved December 17, 2020. ^ "Free ride: DC
+iunveils bold plan to boost public transit". December 12, 2022. ^ "WMATA
+iupgrades fleet with up to 694 new buses from New Flyer/". www.newflyer.com.
+iNew Flyer. July 4, 2018. Retrieved July 6, 2018. ^ "Metro begins express bus
+iservice and other improvements to 16th Street Line" (Press release). WMATA.
+iMarch 30, 2009. Retrieved March 28, 2018. ^ Hedgpeth, Dana (May 11, 2011).
+i"Metro is putting its mind to saving energy". The Washington Post. p. B1. ^
+i"WMATA orders 110 buses from New Flyer". Mass Transit. Retrieved September
+i24,
+i2019. ^ "A Vision for Climate Leadership in Washington, D.C. - Seizing the
+iEconomic, Climate, and Public Health Benefits of Electrifying WMATA's Public
+iBus Fleet" (PDF). Sierra Club. 2020. Retrieved August 11, 2020.{{cite web}}:
+iCS1 maint: url-status (link) ^ "2017 Metrobus Fleet Management Plan" (PDF).
+iRetrieved October 26, 2019. ^ "Hensel Phelps Awarded WMATA Andrews Federal
+iBus
+iGarage". Hensel Phelps. June 19, 2014. ^ "Metro opens new Andrews Bus Garage,
+iends cash-free pilot effective with bus service changes June 23". Retrieved
+iOctober 25, 2019. ^ "Proposed Reconstruction of the Bladensburg Bus Garage".
+iRetrieved October 25, 2019. ^ "WMATA Cinder Bed Road Division". Wendel
+iCompanies. Archived from the original on March 5, 2016. ^ "Metro awards
+icontract for new bus facility in Virginia". www.wmata.com. WMATA. August 2,
+i2018. ^ "Metrobus to implement service changes, improve reliability effective
+iSunday, December 26 | WMATA". www.wmata.com. Retrieved December 23, 2021. ^
+i"FY2021 Budget Strengthening Metro to Better Serve the Region" (PDF).
+iRetrieved September 30, 2020. ^ Dodds, Alex. "WMATA plans to rebuild its 14th
+iStreet bus garage with retail, and keep its diesel fleet for now". Greater
+iGreater Washington. Retrieved June 25, 2019. ^ Guerguerian, Rosemary
+i(December
+i11, 2019). "Bye, Bye Bus Barn". The Zebra. Retrieved May 28, 2020. ^
+i"Metrobus
+ito expand service on weekdays, restore additional routes on weekends
+ieffective
+iMarch 14 | WMATA". www.wmata.com. Retrieved March 14, 2021. ^ Rowlands, DW;
+iAlpert, David (September 20, 2018). "8W? 30N? U7? How Metrobus numbers came
+ito
+ibe". Greater Greater Washington. Retrieved January 27, 2019. ^ Fehr, Stephen
+i(August 19, 2004). "Bus Service to Expand, Shift". The Washington Post.
+iRetrieved May 2, 2019. ^ "New MetroExtra provides faster Metrobus service
+ialong Georgia Avenue" (Press release). Washington Metropolitan Area Transit
+iAuthority. March 19, 2007. Retrieved May 2, 2019. ^ Lazo, Luz (August 23,
+i2014). "Metroway, the region's first bus rapid transit, to debut in Northern
+iVirginia". The Washington Post. Retrieved December 18, 2014. ^ "Route".
+iMetroway. Retrieved December 18, 2014. ^ Smith, Max (April 17, 2016). "New
+ibus-only lanes open along Jefferson Davis Highway". WTOP. WTOP. Retrieved
+iApril 18, 2016.
+i
+iv t e
+i
+iMetrorail Metrobus MetroAccess Metroway
+i
+iRed Line Blue Line Orange Line Yellow Line Green Line Silver Line
+i
+iMetro Transit Police Department SmarTrip List of stations Incidents Rolling
+istock Signaling and operation Purple Line (Maryland)
+i
+iv t e
+i
+iWMATA MTA DDOT NVTC PRTC
+i
+iRed Line Orange Line Yellow Line Green Line Blue Line Silver Line List of
+istations
+i
+iMARC Train Brunswick Line Camden Line Penn Line Virginia Railway Express
+iFredericksburg Line Manassas Line
+i
+iAmtrak Acela Capitol Limited Cardinal Carolinian Crescent Northeast Regional
+iPalmetto Silver Meteor Silver Star Vermonter
+i
+iAnnapolis Transit Arlington Transit CUE Bus DASH DC Circulator Fairfax
+iConnector Loudoun County Transit Frederick TransIT Fredericksburg Regional
+iTransit Metrobus (list of routes) MTA Maryland Commuter Bus PRTC OmniRide
+iRegional Transportation Agency of Central Maryland Ride On Shuttle–UM TheBus
+iMetroAccess (paratransit)
+i
+iFlash BRT Metroway
+i
+iDulles International Airport Washington National Airport Heliports
+i
+iPurple Line Corridor Cities Transitway Pike Transit Initiative West End
+iTransitway Route 7 BRT
+i
+iRetrieved from
+ii"https://en.wikipedia.org/w/index.php?title=Metrobus_(Washington,_D.C.)&oldid=1153914573"
+i
+iCategories: Metrobus (Washington, D.C.) 1967 establishments in Washington,
+iD.C. Bus transportation in Washington, D.C. Bus transportation in Maryland
+iBus
+itransportation in Virginia
+i
+iHidden categories: CS1 maint: url-status Articles with short description
+iShort description is different from Wikidata Articles needing additional
+ireferences from April 2019 All articles needing additional references Use mdy
+idates from October 2019 Articles to be expanded from December 2019 All
+iarticles to be expanded Articles using small message boxes Articles
+icontaining
+ipotentially dated statements from June 2017 All articles containing
+ipotentially dated statements Commons category link is on Wikidata
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://en.wikipedia.org/wiki/Metrobus_(Washington,_D.C.)
+i
+iLICENSE: Creative Commons Attribution-ShareAlike
+i
+i=========================================
+i
+i
+i$
+Bt:Metrobus (Washington, D.C.) - Wikipedia	/x/w/g/https_58__47__47_en_46_wikipedia_46_org_47_wiki_47_Metrobus_95__40_Washington_44__95_D_46_C_46__41_	texopher.com	70
