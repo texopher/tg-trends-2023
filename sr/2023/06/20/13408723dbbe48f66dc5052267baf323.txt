@@ -1,0 +1,1355 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_foxsports_46_com_47_watch_47_play_45__54__55__55__49__50_f_53__56__52__48__48__48_c_50__49_	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_foxsports_46_com_47_watch_47_play_45__54__55__55__49__50_f_53__56__52__48__48__48_c_50__49_	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_foxsports_46_com_47_watch_47_play_45__54__55__55__49__50_f_53__56__52__48__48__48_c_50__49_	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_foxsports_46_com_47_watch_47_play_45__54__55__55__49__50_f_53__56__52__48__48__48_c_50__49_	texopher.com	70
+i
+hRead web directly	URL:https://www.foxsports.com/watch/play-67712f584000c21	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_foxsports_46_com_47_watch_47_play_45__54__55__55__49__50_f_53__56__52__48__48__48_c_50__49_	texopher.com	70
+i
+iHome
+i
+iScores
+i
+iWatch
+i
+iOdds
+i
+iStories
+i
+iSearch
+i
+iSign In
+i
+iAccount
+i
+iSPORTS & TEAMSPLAYERSSHOWSPERSONALITIES
+i
+iSPORTS
+i
+iNFL
+i
+iNCAA FB
+i
+iMLB
+i
+iNBA
+i
+iNCAA BK
+i
+iNASCAR
+i
+iSoccer
+i
+iUSFL
+i
+iNHL
+i
+iGolf
+i
+iWorld Baseball Classic
+i
+iPremier Boxing Champions
+i
+iWWE
+i
+iUFC
+i
+iWNBA
+i
+iNCAAW BK
+i
+iTennis
+i
+iMotor Sports
+i
+iProfessional Bowlers Association
+i
+iHorse Racing
+i
+iWestminster Kennel Club
+i
+iOlympics
+i
+iSHOWS
+i
+iUndisputed
+i
+iThe Herd with Colin Cowherd
+i
+ion
+i
+iThe Skip Bayless Show
+i
+iThe Carton Show
+i
+ion
+i
+iWhat's Wright? With Nick Wright
+i
+iThe Joel Klatt Show
+i
+iFlippin' Bats with Ben Verlander
+i
+iNASCAR Race Hub
+i
+ion
+i
+iTOM RINALDI PRESENTS: WESLEY
+i
+iThe Number One College Football Show
+i
+iFirst Things First
+i
+ion
+i
+iOut of Character with Ryan Satin
+i
+iSpeak
+i
+iWWE Friday Night SmackDown
+i
+ion
+i
+iAlexi Lalas' State of the Union
+i
+iFOX NFL Sunday
+i
+iFOX NFL Kickoff
+i
+iFOX Sports Films
+i
+iFOX Bet Live
+i
+iBig Noon Kickoff
+i
+iNASCAR #HotPass
+i
+iFIFA World Cup - Top Moments
+i
+iFIFA World Cup - Top Players
+i
+iFIFA World Cup - Team Previews
+i
+iFIFA World Cup - Goals
+i
+iFIFA World Cup - Game Recaps
+i
+iFIFA World Cup - My Journey
+i
+iFIFA World Cup - Best Goals from Every Angle
+i
+iDraw for the FIFA Women's World Cup Australia & New Zealand 2023
+i
+iFIFA Women's World Cup - Top Moments
+i
+iFIFA Women's World Cup - Top Players
+i
+iFIFA Women's World Cup - Team Previews
+i
+iFIFA Women's World Cup - Goals
+i
+iFIFA Women's World Cup - Game Recaps
+i
+iFIFA Women's World Cup - Best Goals from Every Angle
+i
+iPERSONALITIES
+i
+iColin Cowherd
+i
+iSkip Bayless
+i
+iAlexi Lalas
+i
+iEmmanuel Acho
+i
+iNick Wright
+i
+iCraig Carton
+i
+iBen Verlander
+i
+iLeSean McCoy
+i
+iCharlotte Wilder
+i
+iBucky Brooks
+i
+iChris Fallica
+i
+iDavid Helman
+i
+iWarren Sharp
+i
+iRic Bucher
+i
+iRob Friedman
+i
+iLaken Litman
+i
+iMelissa Rohlin
+i
+iJoel Klatt
+i
+iRyan Satin
+i
+iJason McIntyre
+i
+iGreg Olsen
+i
+iLandon Donovan
+i
+iRalph Vacchiano
+i
+iHenry Mckenna
+i
+iBob Pockrass
+i
+iCarmen Vitali
+i
+iAndy Katz
+i
+iRJ Young
+i
+iMartin Rogers
+i
+iChad Ochocinco
+i
+iRowan Kavner
+i
+iSam Panayotovich
+i
+iJordan Shusterman
+i
+iPatrick Everson
+i
+iMark Sanchez
+i
+iYaron Weitzman
+i
+iGeoff Schwartz
+i
+iGus Johnson
+i
+iEric D. Williams
+i
+iDoug McIntyre
+i
+iGreg Auman
+i
+iBen Arthur
+i
+iJohn Fanta
+i
+iDeesha Thosar
+i
+iRob Rang
+i
+iRob Stone
+i
+iJake Mintz
+i
+iMichael Vick
+i
+iReggie Bush
+i
+iErin Andrews
+i
+iMatt Leinart
+i
+iBryan Fischer
+i
+iPedro Moura
+i
+iKelly Smith
+i
+iDr. Matt Provencher
+i
+iMike Pereira
+i
+iDean Blandino
+i
+iClay Travis
+i
+iJay Glazer
+i
+iKen Rosenthal
+i
+iMichael Cohen
+i
+iCharissa Thompson
+i
+iTom Rinaldi
+i
+iPeter Schrager
+i
+iTerry Bradshaw
+i
+iAlex Rodriguez
+i
+iJoy Taylor
+i
+iJeff Gordon
+i
+iKevin Wildes
+i
+iFrank Thomas
+i
+iClint Bowyer
+i
+iMichael Strahan
+i
+iEniola Aluko
+i
+iShannon Spake
+i
+iDavid Ortiz
+i
+iJimmy Johnson
+i
+iStu Holden
+i
+iAdam Amin
+i
+iDontrelle Willis
+i
+iJamie Little
+i
+iKevin Burkhardt
+i
+iJohn Smoltz
+i
+iPam Oliver
+i
+iBruce Feldman
+i
+iMichael Waltrip
+i
+iHowie Long
+i
+iJenny Taft
+i
+iCurt Menefee
+i
+iMark Schlereth
+i
+iMike Joy
+i
+iTim Brando
+i
+iJim Jackson
+i
+iChris Myers
+i
+iRegan Smith
+i
+iLindsay Czarniak
+i
+iSteve Lavin
+i
+iMaurice Edu
+i
+iJennifer Hale
+i
+iTom Verducci
+i
+iLarry McReynolds
+i
+iKaitlyn Vincie
+i
+iBill Raftery
+i
+iDaryl Johnston
+i
+iKristina Pink
+i
+iJohnny Strong
+i
+iAlex Curry
+i
+iDonny Marshall
+i
+iDave Wannstedt
+i
+iCobi Jones
+i
+iLaura Okmin
+i
+iJP Dellacamera
+i
+iAdam Alexander
+i
+iAly Wagner
+i
+iHeather O'Reilly
+i
+iLennox Lewis
+i
+iBrian Kenny
+i
+iShawn Porter
+i
+iKeith Thurman
+i
+iLisa Byington
+i
+iDanielle Slaton
+i
+iKatie Witham
+i
+iDanny Garcia
+i
+iKyndra de St. Aubin
+i
+iJoe Goossen
+i
+iA.J. Pierzynski
+i
+iVince Welch
+i
+iDr. Joe Machnik
+i
+iHeidi Androl
+i
+iBobby Labonte
+i
+iSpencer Tillman
+i
+iKenny Albert
+i
+iJonathan Vilma
+i
+iGreg Jennings
+i
+iTodd Bodine
+i
+iUrban Meyer
+i
+iWarren Barton
+i
+iJoe Davis
+i
+iBrady Quinn
+i
+iChris Broussard
+i
+iNFL
+i
+iNFL
+i
+iArizona Cardinals
+i
+iAtlanta Falcons
+i
+iBaltimore Ravens
+i
+iBuffalo Bills
+i
+iCarolina Panthers
+i
+iChicago Bears
+i
+iCincinnati Bengals
+i
+iCleveland Browns
+i
+iDallas Cowboys
+i
+iDenver Broncos
+i
+iDetroit Lions
+i
+iGreen Bay Packers
+i
+iHouston Texans
+i
+iIndianapolis Colts
+i
+iJacksonville Jaguars
+i
+iKansas City Chiefs
+i
+iLas Vegas Raiders
+i
+iLos Angeles Chargers
+i
+iLos Angeles Rams
+i
+iMiami Dolphins
+i
+iMinnesota Vikings
+i
+iNew England Patriots
+i
+iNew Orleans Saints
+i
+iNew York Giants
+i
+iNew York Jets
+i
+iPhiladelphia Eagles
+i
+iPittsburgh Steelers
+i
+iSan Francisco 49ers
+i
+iSeattle Seahawks
+i
+iTampa Bay Buccaneers
+i
+iTennessee Titans
+i
+iWashington Commanders
+i
+iNCAA FB
+i
+iNCAA FB
+i
+iAAC
+i
+iACC
+i
+iBig 12
+i
+iBig Sky
+i
+iBig Ten
+i
+iC-USA
+i
+iCAA
+i
+iInd-FBS
+i
+iIvy
+i
+iMAC
+i
+iMEAC
+i
+iMVC
+i
+iMW
+i
+iNEC
+i
+iPac-12
+i
+iPatriot
+i
+iPioneer
+i
+iSEC
+i
+iSW Ath
+i
+iSouthern
+i
+iSouthlnd
+i
+iSun Belt
+i
+iMLB
+i
+iMLB
+i
+iArizona Diamondbacks
+i
+iAtlanta Braves
+i
+iBaltimore Orioles
+i
+iBoston Red Sox
+i
+iChicago Cubs
+i
+iChicago White Sox
+i
+iCincinnati Reds
+i
+iCleveland Guardians
+i
+iColorado Rockies
+i
+iDetroit Tigers
+i
+iHouston Astros
+i
+iKansas City Royals
+i
+iLos Angeles Angels
+i
+iLos Angeles Dodgers
+i
+iMiami Marlins
+i
+iMilwaukee Brewers
+i
+iMinnesota Twins
+i
+iNew York Mets
+i
+iNew York Yankees
+i
+iOakland Athletics
+i
+iPhiladelphia Phillies
+i
+iPittsburgh Pirates
+i
+iSan Diego Padres
+i
+iSan Francisco Giants
+i
+iSeattle Mariners
+i
+iSt. Louis Cardinals
+i
+iTampa Bay Rays
+i
+iTexas Rangers
+i
+iToronto Blue Jays
+i
+iWashington Nationals
+i
+iNBA
+i
+iNBA
+i
+iAtlanta Hawks
+i
+iBoston Celtics
+i
+iBrooklyn Nets
+i
+iCharlotte Hornets
+i
+iChicago Bulls
+i
+iCleveland Cavaliers
+i
+iDallas Mavericks
+i
+iDenver Nuggets
+i
+iDetroit Pistons
+i
+iGolden State Warriors
+i
+iHouston Rockets
+i
+iIndiana Pacers
+i
+iLA Clippers
+i
+iLos Angeles Lakers
+i
+iMemphis Grizzlies
+i
+iMiami Heat
+i
+iMilwaukee Bucks
+i
+iMinnesota Timberwolves
+i
+iNew Orleans Pelicans
+i
+iNew York Knicks
+i
+iOklahoma City Thunder
+i
+iOrlando Magic
+i
+iPhiladelphia 76ers
+i
+iPhoenix Suns
+i
+iPortland Trail Blazers
+i
+iSacramento Kings
+i
+iSan Antonio Spurs
+i
+iToronto Raptors
+i
+iUtah Jazz
+i
+iWashington Wizards
+i
+iNCAA BK
+i
+iNCAA BK
+i
+iA 10
+i
+iA-Sun
+i
+iAAC
+i
+iACC
+i
+iAm. East
+i
+iBig 12
+i
+iBig East
+i
+iBig Sky
+i
+iBig South
+i
+iBig Ten
+i
+iBig West
+i
+iC-USA
+i
+iCAA
+i
+iDI-IND
+i
+iHorizon
+i
+iIvy
+i
+iMAA
+i
+iMAC
+i
+iMEastern
+i
+iMVC
+i
+iMWC
+i
+iNEC
+i
+iOVC
+i
+iPac-12
+i
+iPatriot
+i
+iSEC
+i
+iSLC
+i
+iSWAC
+i
+iSouthern
+i
+iSummit
+i
+iSun Belt
+i
+iWAC
+i
+iWCC
+i
+iNASCAR
+i
+iNASCAR Cup Series
+i
+iNASCAR Xfinity Series
+i
+iNASCAR Craftsman Truck Series
+i
+iSOCCER
+i
+iEPL
+i
+iFIFA WWC
+i
+iMLS
+i
+iARG Prim
+i
+iAust AL
+i
+iAust Bund
+i
+iBrasil A
+i
+iBundesliga
+i
+iCAN Champ
+i
+iCAN PL
+i
+iChilean PD
+i
+iColombian PA
+i
+iCymru Premier
+i
+iDanish 1. Div
+i
+iDanish Superliga
+i
+iENG Champ
+i
+iENG L1
+i
+iENG L2
+i
+iEredivisie
+i
+iGreek SL
+i
+iIrish PD
+i
+iIsraeli PL
+i
+iJ1 League
+i
+iJupiler
+i
+iLa Liga
+i
+iLiga MX
+i
+iLiga Pro
+i
+iLigue 1
+i
+iMLS Next Pro
+i
+iNOR Eliteserien
+i
+iNOR FD
+i
+iNWSL
+i
+iParaguayan PD
+i
+iPeruvian PD
+i
+iPrimeira
+i
+iRussian PL
+i
+iSPL
+i
+iSWE Allsvenskan
+i
+iSaudi Pro League
+i
+iSerie A
+i
+iSouth African FD
+i
+iSouth African PD
+i
+iSwiss SL
+i
+iTurkish SL
+i
+iUSL
+i
+iUSL Championship
+i
+iUSL One
+i
+iUSL Two
+i
+iUkrainian PL
+i
+iUru PD
+i
+iAfr Cup
+i
+iAlgarve Cup
+i
+iArab Cup
+i
+iArgentina Supercopa
+i
+iBelgian Super Cup
+i
+iBundesliga Playoffs
+i
+iC Nations
+i
+iC U17 Champ.
+i
+iC U20 Champ.
+i
+iC U20 W Champ
+i
+iC W Champ.
+i
+iCCL
+i
+iCONCACAF OLY Qual.
+i
+iConf. Cup
+i
+iCopa Amér
+i
+iCopa Amér Fem
+i
+iCopa Lib.
+i
+iCopa Maradona
+i
+iCopa Rey
+i
+iCopa Sud.
+i
+iCoppa Italia
+i
+iCoupe de France
+i
+iDFB Pokal
+i
+iDutch Shield
+i
+iEngland Shield
+i
+iEuro Cup
+i
+iEuro Qual
+i
+iEuropa
+i
+iEuropa Conf. League
+i
+iFA Cup
+i
+iFIFA WC
+i
+iFrance Trophee
+i
+iGerman DFL-Supercup
+i
+iGold Cup
+i
+iGreek Cup
+i
+iInt'l Champ Cup
+i
+iItaly Supercoppa
+i
+iLeagues Cup
+i
+iLg Cup
+i
+iMen's Olympics
+i
+iRecopa Sudamericana
+i
+iSA U17 Champ
+i
+iSheBelieves Cup
+i
+iSpain Supercopa
+i
+iU17 WC
+i
+iU17 WWC
+i
+iU19 Euro Champ
+i
+iU19 Euro W Champ
+i
+iU20 WC
+i
+iU20 WWC
+i
+iU21 Euro Champ
+i
+iUAE Super Cup
+i
+iUEFA CL
+i
+iUEFA Nations
+i
+iUEFA Super Cup
+i
+iUEFA WCL
+i
+iUS Open Cup
+i
+iWCQ - AFC
+i
+iWCQ - CAF
+i
+iWCQ - CONCACAF
+i
+iWCQ - CONMEBOL
+i
+iWCQ - ICPLY
+i
+iWCQ - OFC
+i
+iWCQ - UEFA
+i
+iWomen's EURO
+i
+iWomen's Olympics
+i
+iWorld Cup
+i
+iFriendly
+i
+iUSWNT-Frnd
+i
+iUSFL
+i
+iUSFL
+i
+iBirmingham Stallions
+i
+iHouston Gamblers
+i
+iMemphis Showboats
+i
+iMichigan Panthers
+i
+iNew Jersey Generals
+i
+iNew Orleans Breakers
+i
+iPhiladelphia Stars
+i
+iPittsburgh Maulers
+i
+iNHL
+i
+iNHL
+i
+iAnaheim Ducks
+i
+iArizona Coyotes
+i
+iBoston Bruins
+i
+iBuffalo Sabres
+i
+iCalgary Flames
+i
+iCarolina Hurricanes
+i
+iChicago Blackhawks
+i
+iColorado Avalanche
+i
+iColumbus Blue Jackets
+i
+iDallas Stars
+i
+iDetroit Red Wings
+i
+iEdmonton Oilers
+i
+iFlorida Panthers
+i
+iLos Angeles Kings
+i
+iMinnesota Wild
+i
+iMontreal Canadiens
+i
+iNashville Predators
+i
+iNew Jersey Devils
+i
+iNew York Islanders
+i
+iNew York Rangers
+i
+iOttawa Senators
+i
+iPhiladelphia Flyers
+i
+iPittsburgh Penguins
+i
+iSan Jose Sharks
+i
+iSeattle Kraken
+i
+iSt. Louis Blues
+i
+iTampa Bay Lightning
+i
+iToronto Maple Leafs
+i
+iVancouver Canucks
+i
+iVegas Golden Knights
+i
+iWashington Capitals
+i
+iWinnipeg Jets
+i
+iGOLF
+i
+iPGA Tour
+i
+iLPGA Tour
+i
+iChampions Tour
+i
+iKorn Ferry Tour
+i
+iDP World Tour
+i
+iWorld Baseball Classic
+i
+iWorld Baseball Classic
+i
+iAustralia
+i
+iCanada
+i
+iChina
+i
+iChinese Taipei
+i
+iColombia
+i
+iCuba
+i
+iCzech Republic
+i
+iDominican Republic
+i
+iGreat Britain
+i
+iIsrael
+i
+iItaly
+i
+iJapan
+i
+iMexico
+i
+iNetherlands
+i
+iNicaragua
+i
+iPanama
+i
+iPuerto Rico
+i
+iRepublic of Korea
+i
+iUSA
+i
+iVenezuela
+i
+iWNBA
+i
+iWNBA
+i
+iAtlanta Dream
+i
+iChicago Sky
+i
+iConnecticut Sun
+i
+iDallas Wings
+i
+iIndiana Fever
+i
+iLas Vegas Aces
+i
+iLos Angeles Sparks
+i
+iMinnesota Lynx
+i
+iNew York Liberty
+i
+iPhoenix Mercury
+i
+iSeattle Storm
+i
+iWashington Mystics
+i
+iNCAAW BK
+i
+iNCAAW BK
+i
+iA 10
+i
+iA-Sun
+i
+iAAC
+i
+iACC
+i
+iAm. East
+i
+iBig 12
+i
+iBig East
+i
+iBig Sky
+i
+iBig South
+i
+iBig Ten
+i
+iBig West
+i
+iC-USA
+i
+iCAA
+i
+iHorizon
+i
+iIND
+i
+iIvy
+i
+iMAA
+i
+iMAC
+i
+iMEastern
+i
+iMVC
+i
+iMWC
+i
+iNEC
+i
+iOVC
+i
+iPac-12
+i
+iPatriot
+i
+iSEC
+i
+iSLC
+i
+iSWAC
+i
+iSouthern
+i
+iSummit
+i
+iSun Belt
+i
+iWAC
+i
+iWCC
+i
+iTennis
+i
+iATP
+i
+iWTA
+i
+iMOTOR SPORTS
+i
+iFormula 1
+i
+iIndyCar Series
+i
+iMotoGP
+i
+iNational Hot Rod Association
+i
+iARCA Racing
+i
+iOLYMPICS
+i
+iSummer Olympics
+i
+iWinter Olympics
+i
+ishare
+i
+iVideo Details
+i
+i===== Kylian Mbappé scored the first goal on a penalty kick in the 55' to put
+iFrance on the board against Greece. =====
+i
+i13 HOURS AGO・Euro Qualifying・0:23
+i
+iEURO QUALIFYING
+i
+iTrending
+i
+iMLB
+i
+iNFL
+i
+iUSFL
+i
+iNBA
+i
+iNASCAR
+i
+iNHL
+i
+iNCAAFB
+i
+iMLS
+i
+iEPL
+i
+iPGA
+i
+i4:41
+i
+iUP NEXT
+i
+i4:55
+i
+i3:45
+i
+i0:51
+i
+i4:44
+i
+i5:54
+i
+i3:48
+i
+i5:52
+i
+i2:12
+i
+i0:55
+i
+iTop Leagues
+i
+iTop Shows
+i
+iAffiliated Apps
+i
+iQuick Links
+i
+iHelpPressAdvertise with UsJobsFOX CincyRSSSitemap
+i
+iFS1FOXFOX NewsFox CorporationFOX Sports SupportsFOX Deportes
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://www.foxsports.com/watch/play-67712f584000c21
+i
+iLICENSE: © 2023 Fox Media LLC and Fox Sports Interactive Media, LLC. All
+irights reserved.
+i
+i=========================================
+i
+i
+i$
+Bt:Kylian Mbappé scores the first goal in the 55' to put France on the board against Greece | FOX Sports	/x/w/g/https_58__47__47_www_46_foxsports_46_com_47_watch_47_play_45__54__55__55__49__50_f_53__56__52__48__48__48_c_50__49_	texopher.com	70

@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_The_43_Strangers_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjjwaT_51_z_57_H_95_AhWHlYkEHfWpB_48_gQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_The_43_Strangers_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjjwaT_51_z_57_H_95_AhWHlYkEHfWpB_48_gQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_The_43_Strangers_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjjwaT_51_z_57_H_95_AhWHlYkEHfWpB_48_gQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_The_43_Strangers_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjjwaT_51_z_57_H_95_AhWHlYkEHfWpB_48_gQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=The+Strangers&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjjwaT3z9H_AhWHlYkEHfWpB0gQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_The_43_Strangers_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjjwaT_51_z_57_H_95_AhWHlYkEHfWpB_48_gQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES VIDEOS BOOKS
+i
+itrue storymaskliv tylerreal lifeunmaskeddollfacegemma wardmovieglenn
+ihowertonscary movie
+i
+iThe Strangers (2008 film) -... en.wikipedia.org
+i
+iThe Strangers: Prey at... www.imdb.com
+i
+iThe Strangers (2008) - IMDb... www.imdb.com
+i
+iThe Strangers: Prey at... ew.com
+i
+iAmazon.com: The Strangers :... www.amazon.com
+i
+iThe Strangers - Plugged In www.pluggedin.com
+i
+iThe Strangers streaming:... www.justwatch.com
+i
+iThe Strangers' Is Still... www.theringer.com
+i
+iThe Strangers | Horror... www.theguardian.com
+i
+iThe Strangers' Remake... deadline.com
+i
+iThe Strangers Official... www.youtube.com
+i
+iThe Strangers Remake... bloody-disgusting.com
+i
+iWhy 'The Strangers' Is... www.etonline.com
+i
+iThe Strangers True Story |... www.popsugar.com
+i
+iMovie Review: 'The... www.kcci.com
+i
+iMovie review: 'The... www.azcentral.com
+i
+iThe Strangers (2008) - IMDb... www.imdb.com
+i
+iThe Strangers | EW.com ew.com
+i
+iThe Strangers (Characters)... halloweenhorrornights.fando...
+i
+iThe Strangers: Prey at... www.rottentomatoes.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=The+Strangers&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjjwaT3z9H_AhWHlYkEHfWpB0gQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:The Strangers - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_The_43_Strangers_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjjwaT_51_z_57_H_95_AhWHlYkEHfWpB_48_gQ_95_AUIBigB	texopher.com	70

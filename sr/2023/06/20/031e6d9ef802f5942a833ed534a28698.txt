@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ammonia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiI_52_NWk_48_dH_95_AhVslIkEHRAGCPAQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ammonia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiI_52_NWk_48_dH_95_AhVslIkEHRAGCPAQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ammonia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiI_52_NWk_48_dH_95_AhVslIkEHRAGCPAQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ammonia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiI_52_NWk_48_dH_95_AhVslIkEHRAGCPAQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Ammonia&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiI4NWk0dH_AhVslIkEHRAGCPAQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ammonia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiI_52_NWk_48_dH_95_AhVslIkEHRAGCPAQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS BOOKS
+i
+istructuregashouseholdlewis
+istructurenitrogenliquidformulachemicalcleanersolution
+i
+iAmmonia - Wikipedia en.wikipedia.org
+i
+iAmazon.com: Awesome... www.amazon.com
+i
+iHill Country Fare Ammonia... www.heb.com
+i
+iLemon Scented Ammonia - 64... www.target.com
+i
+iKroger® All Purpose... www.ralphs.com
+i
+iOccupational Health &... cacgas.com.au
+i
+iSave on Stop & Shop Ammonia... stopandshop.com
+i
+iammonia.png hyperphysics.phy-astr.gsu.e...
+i
+iAmmonia - American Chemical... www.acs.org
+i
+ithermo_951202_27.jpg www.fondriest.com
+i
+iMeijer All Purpose Ammonia,... www.meijer.com
+i
+iAmmonia - American Chemical... www.acs.org
+i
+iAmmonia – a fuel of the... www.euractiv.com
+i
+iAmmonia-1.jpg cqconcepts.com
+i
+iAmmonia - the dangerous gas... www.earth.com
+i
+iAmmonia Detectors and... www.draeger.com
+i
+iAmmoniated heavy duty... washiq.net
+i
+iGreat Value Clear Ammonia... www.walmart.com
+i
+iBrillo Parsons' 56 oz.... www.homedepot.com
+i
+iAmmonia Standard Solution -... www.megazyme.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Ammonia&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiI4NWk0dH_AhVslIkEHRAGCPAQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Ammonia - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Ammonia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiI_52_NWk_48_dH_95_AhVslIkEHRAGCPAQ_95_AUIBigB	texopher.com	70

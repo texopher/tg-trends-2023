@@ -1,0 +1,84 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Miastenia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjs_55_eXe_48_dH_95_AhVOtokEHXHEBfcQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Miastenia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjs_55_eXe_48_dH_95_AhVOtokEHXHEBfcQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Miastenia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjs_55_eXe_48_dH_95_AhVOtokEHXHEBfcQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Miastenia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjs_55_eXe_48_dH_95_AhVOtokEHXHEBfcQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Miastenia&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs7eXe0dH_AhVOtokEHXHEBfcQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Miastenia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjs_55_eXe_48_dH_95_AhVOtokEHXHEBfcQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+isíntomas de lamiastenia ocularemyasthenia gravis sintomasfraqueza
+imuscularmiastenia congenitacrise miastenicajunção neuromusculardoença
+iautoimunemiasteniidebilidad muscular
+i
+i▷ Myasthenia Gravis: What... areaoftalmologica.com
+i
+iProcesses that explain the... drmariocamargo.com
+i
+iMiastenia gravis en la... fernandezagrafojo.com
+i
+iMyasthenia Gravis www.stanfordchildrens.org
+i
+iMyasthenia Gravis Girl With... www.istockphoto.com
+i
+iMiastenia gravis www.fesemi.org
+i
+iMiastenia gravis: o que é,... www.minhavida.com.br
+i
+iMiastenia grave - YouTube www.youtube.com
+i
+iTipos de miastenia gravis:... www.webconsultas.com
+i
+iMiastenia gravis: de la... www.synevo.ro
+i
+iMiastenia oculare: sintomi,... salute.paginebianche.it
+i
+iSpotlightMed - Miastenia... www.facebook.com
+i
+iMiastenia Gravis Ocular:... drdiegodecastro.com
+i
+iMyasthenia Gravis | MG |... medlineplus.gov
+i
+iMiastenia gravis: disturbi,... www.issalute.it
+i
+iMiastenia - YouTube www.youtube.com
+i
+iNEJM on Twitter: "A... twitter.com
+i
+iMiasTenia GraVis added a... www.facebook.com
+i
+iQué es la Miastenia Gravis?... www.grupogamma.com
+i
+iSaludos » El cuaderno de... saludos.cualtis.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Miastenia&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjs7eXe0dH_AhVOtokEHXHEBfcQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Miastenia - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Miastenia_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjs_55_eXe_48_dH_95_AhVOtokEHXHEBfcQ_95_AUIBigB	texopher.com	70
