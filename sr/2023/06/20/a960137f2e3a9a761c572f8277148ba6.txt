@@ -1,0 +1,23 @@
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_ticketmaster_46_sg_47_activity_47_detail_47__50__52__95_coldplay	texopher.com	70
+i
+i403
+i
+iThe page could not be served.
+i
+iOriginal URL:
+iiqueue.ticketmaster.sg/?c=tixcraft&e=23coldplaygs&ver=v3-php-3.7.1&cver=271&man=Coldplay%20Action&t=https%3A%2F%2Fticketmaster.sg%2Factivity%2Fdetail%2F24_coldplay Ip: 157.230.179.238 2023-06-20T10:24:56.7339468Z UTC
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://ticketmaster.sg/activity/detail/24_coldplay
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Error 403	/x/w/g/https_58__47__47_ticketmaster_46_sg_47_activity_47_detail_47__50__52__95_coldplay	texopher.com	70

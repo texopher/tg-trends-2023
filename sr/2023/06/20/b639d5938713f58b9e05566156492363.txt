@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__56__37_D_48__37_BD_37_D_48__37_B_52__37_D_48__37_BE_37_D_48__37_BD_37_D_48__37_B_53__37_D_48__37_B_55__37_D_48__37_B_56__37_D_49__37__56_F_43__37_E_50__37__56__48__37__57__51__43__37_D_48__37__57__48__37_D_49__37__56__48__37_D_48__37_B_51__37_D_48__37_B_53__37_D_48__37_BD_37_D_49__37__56__50__37_D_48__37_B_56__37_D_48__37_BD_37_D_48__37_B_48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiy_55__95_et_49_dH_95_AhWEhIkEHYxDAcwQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__56__37_D_48__37_BD_37_D_48__37_B_52__37_D_48__37_BE_37_D_48__37_BD_37_D_48__37_B_53__37_D_48__37_B_55__37_D_48__37_B_56__37_D_49__37__56_F_43__37_E_50__37__56__48__37__57__51__43__37_D_48__37__57__48__37_D_49__37__56__48__37_D_48__37_B_51__37_D_48__37_B_53__37_D_48__37_BD_37_D_49__37__56__50__37_D_48__37_B_56__37_D_48__37_BD_37_D_48__37_B_48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiy_55__95_et_49_dH_95_AhWEhIkEHYxDAcwQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__56__37_D_48__37_BD_37_D_48__37_B_52__37_D_48__37_BE_37_D_48__37_BD_37_D_48__37_B_53__37_D_48__37_B_55__37_D_48__37_B_56__37_D_49__37__56_F_43__37_E_50__37__56__48__37__57__51__43__37_D_48__37__57__48__37_D_49__37__56__48__37_D_48__37_B_51__37_D_48__37_B_53__37_D_48__37_BD_37_D_49__37__56__50__37_D_48__37_B_56__37_D_48__37_BD_37_D_48__37_B_48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiy_55__95_et_49_dH_95_AhWEhIkEHYxDAcwQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__56__37_D_48__37_BD_37_D_48__37_B_52__37_D_48__37_BE_37_D_48__37_BD_37_D_48__37_B_53__37_D_48__37_B_55__37_D_48__37_B_56__37_D_49__37__56_F_43__37_E_50__37__56__48__37__57__51__43__37_D_48__37__57__48__37_D_49__37__56__48__37_D_48__37_B_51__37_D_48__37_B_53__37_D_48__37_BD_37_D_49__37__56__50__37_D_48__37_B_56__37_D_48__37_BD_37_D_48__37_B_48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiy_55__95_et_49_dH_95_AhWEhIkEHYxDAcwQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F+%E2%80%93+%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy7_et1dH_AhWEhIkEHYxDAcwQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__56__37_D_48__37_BD_37_D_48__37_B_52__37_D_48__37_BE_37_D_48__37_BD_37_D_48__37_B_53__37_D_48__37_B_55__37_D_48__37_B_56__37_D_49__37__56_F_43__37_E_50__37__56__48__37__57__51__43__37_D_48__37__57__48__37_D_49__37__56__48__37_D_48__37_B_51__37_D_48__37_B_53__37_D_48__37_BD_37_D_49__37__56__50__37_D_48__37_B_56__37_D_48__37_BD_37_D_48__37_B_48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiy_55__95_et_49_dH_95_AhWEhIkEHYxDAcwQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iфутбол аргентинаматча индонезияфутбольных матчейаргентина матчтоварищеском
+iматчелеандро паредесliveresultаргентина прогнозтрансляция матчаfootball
+i
+iИндонезия — Аргентина.... www.vseprosport.ru
+i
+iИндонезия — Аргентина —... www.championat.com
+i
+iИндонезия – Аргентина |... mover.uz
+i
+iИндонезия - Аргентина:... ratingbet.com
+i
+iИндонезия — Аргентина.... www.livesport.ru
+i
+iиндонезия аргентина... sport24.ru
+i
+iИндонезия — Аргентина: счет... www.livesport.ru
+i
+iИндонезия - Аргентина:... www.liveresult.ru
+i
+iИндонезия - Аргентина видео... gooool365.org
+i
+iИндонезия – Аргентина:... www.liveresult.ru
+i
+iИндонезия – Аргентина... metaratings.ru
+i
+iИндонезия — Аргентина,... www.vedomosti.ru
+i
+iАргентина обыграла... football24.ru
+i
+iИндонезия - Аргентина... betimate.com
+i
+iИндонезия — Аргентина,... betassist.ru
+i
+iИндонезия - Аргентина... gooool365.org
+i
+iИндонезия - Аргентина... sportnet.live
+i
+iАргентина — Индонезия: кто... sport.rambler.ru
+i
+iИндонезия - Аргентина ≺... sport.ua
+i
+iСМОТРЕТЬ ЭФИР!]] Индонезия... www.raicesbrewing.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F+%E2%80%93+%D0%90%D1%80%D0%B3%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy7_et1dH_AhWEhIkEHYxDAcwQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Индонезия – Аргентина - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_D_48__37__57__56__37_D_48__37_BD_37_D_48__37_B_52__37_D_48__37_BE_37_D_48__37_BD_37_D_48__37_B_53__37_D_48__37_B_55__37_D_48__37_B_56__37_D_49__37__56_F_43__37_E_50__37__56__48__37__57__51__43__37_D_48__37__57__48__37_D_49__37__56__48__37_D_48__37_B_51__37_D_48__37_B_53__37_D_48__37_BD_37_D_49__37__56__50__37_D_48__37_B_56__37_D_48__37_BD_37_D_48__37_B_48__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwiy_55__95_et_49_dH_95_AhWEhIkEHYxDAcwQ_95_AUIBigB	texopher.com	70
