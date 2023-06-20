@@ -1,0 +1,295 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_espn_46_com_47_soccer_47_team_47__95__47_id_47__50__48__51_	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_espn_46_com_47_soccer_47_team_47__95__47_id_47__50__48__51_	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_espn_46_com_47_soccer_47_team_47__95__47_id_47__50__48__51_	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_espn_46_com_47_soccer_47_team_47__95__47_id_47__50__48__51_	texopher.com	70
+i
+hRead web directly	URL:https://www.espn.com/soccer/team/_/id/203	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_espn_46_com_47_soccer_47_team_47__95__47_id_47__50__48__51_	texopher.com	70
+i
+iNFL NFL
+i
+iNBA NBA
+i
+iNHL NHL
+i
+iMLB MLB
+i
+iSoccer Soccer
+i
+iCollege Sports College Sports
+i
+iMore Sports More Sports
+i
+iESPN Plus
+i
+iWatch Watch
+i
+iListen Listen
+i
+iFantasy Fantasy
+i
+iMore ESPN More ESPN
+i
+iSearch
+i
+iFollow 1st in Concacaf Nations League
+i
+iSchedule
+i
+iMEX
+i
+i6/25
+i
+i8:00 pm
+i
+iHON
+i
+iConcacaf Gold Cup
+i
+iPAN
+i
+i0
+i
+iFT
+i
+i1
+i
+iMEX
+i
+iConcacaf Nations League
+i
+iUSA
+i
+i3
+i
+iFT
+i
+i0
+i
+iMEX
+i
+iConcacaf Nations League
+i
+iMEX
+i
+i2
+i
+iFT
+i
+i2
+i
+iCMR
+i
+iInternational Friendly
+i
+iMEX
+i
+i2
+i
+iFT
+i
+i0
+i
+iGUA
+i
+iInternational Friendly
+i
+iUSA
+i
+i1
+i
+iFT
+i
+i1
+i
+iMEX
+i
+iInternational Friendly
+i
+iMEX
+i
+i2
+i
+iFT
+i
+i2
+i
+iJAM
+i
+iConcacaf Nations League
+i
+iSUR
+i
+i0
+i
+iFT
+i
+i2
+i
+iMEX
+i
+iConcacaf Nations League
+i
+iMexico SOCCER
+i
+i===== Mexico =====
+i
+i===== Heriberto Murrieta, Héctor Huerta y Rafael Puente repasan el despido
+idel estratega argentino y Rodrigo Ares de Parga como parte de la estructura
+ide
+ila FMF, además de lo más destacado del mundo del deporte.. =====
+i
+iHeriberto Murrieta, Héctor Huerta y Rafael Puente repasan el despido del
+iestratega argentino y Rodrigo Ares de Parga como parte de la estructura de la
+iFMF, además de lo más destacado del mundo del deporte..
+i
+iMexico SOCCER
+i
+i===== Mexico =====
+i
+i===== Mexico sacks Cocca; Lozano interim coach =====
+i
+iRobin Alam/ISI Photos/Getty Images
+i
+i===== ¿Cuáles fueron los principales errores del Tri ante Estados Unidos?
+i=====
+i
+iLos especialistas de ESPN analizan la derrota de la selección mexicana por
+igoleada a manos de Estados Unidos, además de las palabras del entrenador
+iargentino.
+i
+iMexico SOCCER
+i
+i===== Mexico =====
+i
+i===== Álvaro Morales, Segio Dipp, Paco Gabriel de Anda y León Lecanda debaten
+ien la mesa más poderosa del futbol mexicano. =====
+i
+iÁlvaro Morales, Segio Dipp, Paco Gabriel de Anda y León Lecanda debaten en la
+imesa más poderosa del futbol mexicano.
+i
+i===== Mexico's rock bottom? It felt like it after big loss to USA =====
+i
+iJohn Todd/USSF/Getty Images for USSF
+i
+i===== Why Madrid and Bellingham are a perfect fit, and how to stop anti-gay
+ichants after U.S. vs. Mexico cut short =====
+i
+i(Photo by Pedro Castillo/Real Madrid via Getty Images)
+i
+iMexico SOCCER
+i
+i===== Mexico =====
+i
+i===== Herc Gomez: We were wrong about USMNT talent level =====
+i
+i1:22
+i
+iHerc Gomez: We were wrong about USMNT talent level
+i
+i===== Herc Gomez: We were wrong about USMNT talent level =====
+i
+i===== Gomez slams 'embarrassing' anti-gay chants during USMNT vs. Mexico
+i=====
+i
+i1:24
+i
+iGomez slams 'embarrassing' anti-gay chants during USMNT vs. Mexico
+i
+i===== Gomez slams 'embarrassing' anti-gay chants during USMNT vs. Mexico
+i=====
+i
+i===== Ref ends U.S.-Mexico early amid anti-gay chants =====
+i
+iGetty Images
+i
+i===== Callaghan 'in no way embarrassed' by USMNT red cards =====
+i
+i1:08
+i
+iCallaghan 'in no way embarrassed' by USMNT red cards
+i
+i===== Callaghan 'in no way embarrassed' by USMNT red cards =====
+i
+iBack to Top
+i
+i2022 CONF NL Standings
+i
+iTeam GP W D L GD P Mexico 4 2 2 0 +5 8 Jamaica 4 1 3 0 +2 6 Suriname 4 0 1 3
+i-7 1
+i
+i2022 Team Leaders Concacaf Nations League
+i
+i1
+i
+iMatches3
+i
+iAssists0
+i
+i1
+i
+iMatches3
+i
+iAssists0
+i
+i1
+i
+iMatches3
+i
+iAssists1
+i
+iRankings Concacaf Nations League
+i
+iGoal Difference
+i
+i5
+i
+i4th
+i
+iGoals Scored
+i
+i8
+i
+iTied-3rd
+i
+iAssists
+i
+i3
+i
+iTied-5th
+i
+iGoals Conceded
+i
+i3
+i
+iTied-3rd
+i
+iTerms of Use Privacy Policy Your US State Privacy Rights Children's Online
+iPrivacy Policy Interest-Based Ads About Nielsen Measurement Do Not Sell or
+iShare My Personal Information Contact Us Disney Ad Sales Site Work for ESPN
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL: https://www.espn.com/soccer/team/_/id/203
+i
+iLICENSE: © ESPN Enterprises, Inc. All rights reserved.
+i
+i=========================================
+i
+i
+i$
+Bt:Mexico Soccer - Mexico News, Scores, Stats, Rumors & More | ESPN	/x/w/g/https_58__47__47_www_46_espn_46_com_47_soccer_47_team_47__95__47_id_47__50__48__51_	texopher.com	70

@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Zakonczenie_43_roku_43_szkolnego_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_52_ydCVytH_95_AhWEkokEHSVlDIgQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Zakonczenie_43_roku_43_szkolnego_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_52_ydCVytH_95_AhWEkokEHSVlDIgQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Zakonczenie_43_roku_43_szkolnego_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_52_ydCVytH_95_AhWEkokEHSVlDIgQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Zakonczenie_43_roku_43_szkolnego_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_52_ydCVytH_95_AhWEkokEHSVlDIgQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Zakonczenie+roku+szkolnego&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi4ydCVytH_AhWEkokEHSVlDIgQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Zakonczenie_43_roku_43_szkolnego_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_52_ydCVytH_95_AhWEkokEHSVlDIgQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iliceumszkoły
+ipodstawowejklasżyczeniawzorypodziękowaniauczniapożegnanienauczycielawierszyk
+i
+iZAKOŃCZENIE ROKU SZKOLNEGO... sp3.boleslawiec.pl
+i
+iZakończenie roku szkolnego... sppiece.pl
+i
+iUROCZYSTE ZAKOŃCZENIE ROKU... spokalewo.pl
+i
+iZakończenie roku szkolnego... www.wroclaw.pl
+i
+iUroczyste zakończenie roku... www.sp162.pl
+i
+iZakończenie roku szkolnego... www.prusy.edu.pl
+i
+iZakończenie roku szkolnego... allegro.pl
+i
+iZakończenie roku szkolnego... www.szkolawygielzow.com.pl
+i
+iZAKOŃCZENIE ROKU SZKOLNEGO... loplonsk.pl
+i
+iUroczyste zakończenie roku... sp13.edu.pl
+i
+iZakończenie roku szkolnego... sp46.pl
+i
+iZAKOŃCZENIE ROKU SZKOLNEGO... spbrzana.pl
+i
+iZakończenie roku szkolnego... pruchnik.muzyczna.com.pl
+i
+iZakończenie roku szkolnego... zsstargard.pl
+i
+iUroczyste zakończenie roku... sp5.edu.pl
+i
+iZakończenie roku szkolnego... sp10.olsztyn.eu
+i
+iKoniec roku szkolnego w... wolsztyn.naszemiasto.pl
+i
+iZakończenie roku szkolnego... sp45.gdynia.pl
+i
+iZakończenie roku szkolnego... zso-jozefow.pl
+i
+iUroczyste zakończenie roku... spslawskwielki.pl
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Zakonczenie+roku+szkolnego&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi4ydCVytH_AhWEkokEHSVlDIgQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Zakonczenie roku szkolnego - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Zakonczenie_43_roku_43_szkolnego_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwi_52_ydCVytH_95_AhWEkokEHSVlDIgQ_95_AUIBigB	texopher.com	70

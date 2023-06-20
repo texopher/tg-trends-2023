@@ -1,0 +1,516 @@
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_weather_46_com_47_wx_47_today_47__63_lat_61__49__51__46__48__56__37__50__54_lon_61__56__48__46__50__55__37__50__54_locale_61_en_95_US_37__50__54_par_61_google	texopher.com	70
+i
+iAdvertisement
+i
+iAdvertisement
+i
+iType at least three characters to start auto complete. Recently searched
+ilocations will be displayed if there is no search query. The first option
+iwill
+ibe automatically selected. Use up and down arrows to change selection. Use
+iescape to clear.Search City or Zip Code Search
+i
+irecents
+i
+i===== recents =====
+i
+iYou have no recent locations
+i
+iGlobeUS°F Arrow down
+i
+iImperial - F / mph / miles / inches
+i
+iAmericas Arrow Down
+i
+iAntigua and Barbuda | EnglishArgentina | EspañolBahamas | EnglishBarbados |
+iEnglishBelize | EnglishBolivia | EspañolBrazil | PortuguêsCanada |
+iEnglishCanada | FrançaisChile | EspañolColombia | EspañolCosta Rica |
+iEspañolDominica | EnglishDominican Republic | EspañolEcuador | EspañolEl
+iSalvador | EspañolGrenada | EnglishGuatemala | EspañolGuyana | EnglishHaiti |
+iFrançaisHonduras | EspañolJamaica | EnglishMexico | EspañolNicaragua |
+iEspañolPanama | EspañolPanama | EnglishParaguay | EspañolPeru | EspañolSt.
+iKitts and Nevis | EnglishSt. Lucia | EnglishSt. Vincent and the Grenadines |
+iEnglishSuriname | NederlandsTrinidad and Tobago | EnglishUruguay |
+iEspañolUnited States | EnglishUnited States | EspañolVenezuela | Español
+i
+iAfrica Arrow Down
+i
+iAlgeria | العربيةAlgeria | FrançaisAngola | PortuguêsBenin | FrançaisBurkina
+iFaso | FrançaisBurundi | FrançaisCameroon | FrançaisCameroon | EnglishCape
+iVerde | PortuguêsCentral African Republic | FrançaisChad | FrançaisChad |
+iالعربيةComoros | FrançaisComoros | العربيةDemocratic Republic of the Congo |
+iFrançaisRepublic of Congo | FrançaisCôte d'Ivoire | FrançaisDjibouti |
+iFrançaisDjibouti | العربيةEgypt | العربيةEquatorial Guinea | EspañolEritrea |
+iالعربيةGabon | FrançaisGambia | EnglishGhana | EnglishGuinea |
+iFrançaisGuinea-Bissau | PortuguêsKenya | EnglishLesotho | EnglishLiberia |
+iEnglishLibya | العربيةMadagascar | FrançaisMali | FrançaisMauritania |
+iالعربيةMauritius | EnglishMauritius | FrançaisMorocco | العربيةMorocco |
+iFrançaisMozambique | PortuguêsNamibia | EnglishNiger | FrançaisNigeria |
+iEnglishRwanda | FrançaisRwanda | EnglishSao Tome and Principe |
+iPortuguêsSenegal | FrançaisSierra Leone | EnglishSomalia | العربيةSouth
+iAfrica
+i| EnglishSouth Sudan | EnglishSudan | العربيةSwaziland | EnglishTanzania |
+iEnglishTogo | FrançaisTunisia | العربيةUganda | English
+i
+iAsia Pacific Arrow Down
+i
+iAustralia | EnglishBangladesh | বাংলাBrunei | Bahasa MelayuChina | 中文Hong
+iKong SAR | 中文East Timor | PortuguêsFiji | EnglishIndia (English) |
+iEnglishIndia (Hindi) | हिन्दीIndonesia | Bahasa IndonesiaJapan | 日本語Kiribati
+i|
+iEnglishSouth Korea | 한국어Kyrgyzstan | РусскийMalaysia | Bahasa MelayuMarshall
+iIslands | EnglishMicronesia | EnglishNew Zealand | EnglishPalau |
+iEnglishPhilippines | EnglishPhilippines | TagalogSamoa | EnglishSingapore |
+iEnglishSingapore | 中文Solomon Islands | EnglishTaiwan | 中文Thailand | ไทยTonga
+i|
+iEnglishTuvalu | EnglishVanuatu | EnglishVanuatu | FrançaisVietnam | Tiếng
+iViệt
+i
+iEurope Arrow Down
+i
+iAndorra | CatalàAndorra | FrançaisAustria | DeutschBelarus | РусскийBelgium |
+iDutchBelgium | FrançaisBosnia and Herzegovina | HrvatskiCroatia |
+iHrvatskiCyprus | ΕλληνικάCzech Republic | ČeštinaDenmark | DanskEstonia |
+iРусскийEstonia | EestiFinland | SuomiFrance | FrançaisGermany | DeutschGreece
+i| ΕλληνικάHungary | MagyarIreland | EnglishItaly | ItalianoLiechtenstein |
+iDeutschLuxembourg | FrançaisMalta | EnglishMonaco | FrançaisNetherlands |
+iNederlandsNorway | NorskPoland | PolskiPortugal | PortuguêsRomania |
+iRomânăRussia | РусскийSan Marino | ItalianoSlovakia | SlovenčinaSpain |
+iEspañolSpain | CatalàSweden | SvenskaSwitzerland | DeutschTurkey |
+iTurkçeUkraine | УкраїнськаUnited Kingdom | EnglishState of Vatican City (Holy
+iSee) | Italiano
+i
+iMiddle East Arrow Down
+i
+iBahrain | العربيةIran | فارسىIraq | العربيةIsrael | עִבְרִיתJordan |
+iالعربيةKuwait | العربيةLebanon | العربيةOman | العربيةPakistan | اردوPakistan
+i| EnglishQatar | العربيةSaudi Arabia | العربيةSyria | العربيةUnited Arab
+iEmirates | العربية
+i
+iToday's ForecastHourly ForecastWeekend ForecastMonthly ForecastNational
+iForecastNational NewsAlmanac
+i
+iWeather in Motion®Radar MapsClassic Weather MapsRegional Satellite
+i
+iSevere AlertsSafety & PreparednessHurricane Central
+i
+iAccount
+i
+iTop StoriesVideoPhotosClimate News External LinkAward-Winning Investigations
+iExternal Link
+i
+iAllergy TrackerCold & FluAir Quality Forecast
+i
+iAlexa Skill External LinkWatch Live External LinkPersonalities External Link
+i
+iAlexa Skill External LinkSeasonal Deals
+i
+iData RightsPrivacy Policy
+i
+iArrow Left
+i
+iArrow Right
+i
+iTodayHourly10 DayWeekendMonthlyRadar Tropical StormBret
+i
+iYesterday's Weather External LinkAllergy TrackerFishingCold & FluAir Quality
+iForecast
+i
+iAdvertisement
+i
+iWashington, DC As of 6:12 am EDT
+i
+iCloudy
+i
+iDay 79° • Night 66°
+i
+iCloudy
+i
+i===== Gale Watch +2 More =====
+i
+i===== Today's Forecast for Washington, DC =====
+i
+i74°
+i
+iCloudy
+i
+iRainChance of Rain4%
+i
+i78°
+i
+iCloudy
+i
+iRainChance of Rain5%
+i
+i73°
+i
+iCloudy
+i
+iRainChance of Rain15%
+i
+i68°
+i
+iCloudy
+i
+iRainChance of Rain24%
+i
+iAdvertisement
+i
+i===== Weather Today in Washington, DC =====
+i
+i72°Feels Like
+i
+i5:43 am
+i
+i8:36 pm
+i
+iHigh / Low
+i
+i79°/66°
+i
+iWind
+i
+iWind Direction 10 mph
+i
+iHumidity
+i
+i85%
+i
+iDew Point
+i
+i67°
+i
+iPressure
+i
+iArrow Up 30.05 in
+i
+iUV Index
+i
+i0 of 10
+i
+iVisibility
+i
+i7 mi
+i
+iMoon Phase
+i
+iWaxing Crescent
+i
+i===== Don't Miss =====
+i
+iVideo
+i
+iTropical Storm Bret Could Become Rare June Hurricane
+i
+iVideo
+i
+iHow The Fall COVID Vaccine Will Be Different
+i
+iVideo
+i
+iDamaging Winds, Hail, Isolated Tornado Possible
+i
+iVideo
+i
+iBoaters Rescue 3 In Sinking Houseboat
+i
+i===== Hourly Forecast =====
+i
+i72°
+i
+iCloudy
+i
+iRainChance of Rain8%
+i
+i71°
+i
+iCloudy
+i
+iRainChance of Rain8%
+i
+i73°
+i
+iCloudy
+i
+iRainChance of Rain6%
+i
+i73°
+i
+iCloudy
+i
+iRainChance of Rain5%
+i
+i74°
+i
+iCloudy
+i
+iRainChance of Rain4%
+i
+iAdvertisement
+i
+iAdvertisement
+i
+i===== Our Amazing World =====
+i
+iThe Most Amazing Flower Festivals In The World (PHOTOS)
+i
+iThe World's Most Crowded Beaches
+i
+iThe World's Most Crowded Beaches (PHOTOS)
+i
+iSouthern Plains Tornadoes Leave Severe Damage (PHOTOS)
+i
+i===== Close Calls =====
+i
+iVideo
+i
+iHuge Hailstones Slam Into OK, TX Panhandles
+i
+iVideo
+i
+iMajor Landslide Narrowly Missed Swiss Village
+i
+iVideo
+i
+iFlorida Waterspout, Flying Debris Injures Two
+i
+iVideo
+i
+iWatch: CO Sinkhole Buckles, Collapses As Onlookers Record
+i
+i===== Daily Forecast =====
+i
+i79°
+i
+i66°
+i
+iScattered Showers
+i
+iRainChance of Rain36%
+i
+i72°
+i
+i63°
+i
+iScattered Showers
+i
+iRainChance of Rain61%
+i
+i77°
+i
+i69°
+i
+iRain
+i
+iRainChance of Rain66%
+i
+i83°
+i
+i69°
+i
+iThunderstorm
+i
+iRainChance of Rain65%
+i
+i85°
+i
+i69°
+i
+iScattered Thunderstorms
+i
+iRainChance of Rain51%
+i
+iAdvertisement
+i
+i===== Radar =====
+i
+iNow
+i
+iMapbox Logo
+i
+i© 2023 Mapbox © OpenStreetMap|Improve this map
+i
+i===== Pets Dive Into Summer =====
+i
+iVideo
+i
+iHusky Gets Faceful Of Water While Digging For Clams
+i
+iVideo
+i
+iAlright, Everybody In The Pool
+i
+iVideo
+i
+iWhoops! Cat Did Not Want To Be In That Pool
+i
+iVideo
+i
+iDog Runs After Dolphins to Say ‘Hi’
+i
+i===== Fighting Your Allergies =====
+i
+iSleeping With A Fan Can Trigger Allergies, Some Experts Say
+i
+iTips For An Allergy-Free Road Trip
+i
+iThe Most Amazing Flower Festivals In The World (PHOTOS)
+i
+iHow Humidity Affects Allergies
+i
+iAdvertisement
+i
+iAdvertisement
+i
+i===== Where You Live =====
+i
+iVideo
+i
+iEast Needs Plan As Fires Become More Common
+i
+iVideo
+i
+iThese 5 States Have Highest Rates Of Melanoma
+i
+iVideo
+i
+iPFAs Detected In All 50 States
+i
+iVideo
+i
+iThe 3 Worst Cities For Air Pollution
+i
+iAdvertisement
+i
+iAdvertisement
+i
+i===== What You Need To Know =====
+i
+iVideo
+i
+i5 Things About This Hurricane Season
+i
+i===== You Can Get Through This =====
+i
+iWhat Is the Heat Index?
+i
+iEast Needs Plan As Fires Become More Common
+i
+iThree Signs Of Heat Exhaustion
+i
+iHow To Reduce Body Heat Quickly And Get Relief
+i
+iAdvertisement
+i
+i===== Watson insights =====
+i
+iIBM Watson applies machine learning to gain insights from weather and other
+icomplex data to help you make informed decisions about potential health risks
+iin your area.
+i
+iLearn about IBM Watson insights
+i
+iInfo
+i
+iAllergy Risk Remains High
+i
+i===== Allergy Risk Remains High =====
+i
+iWatson predicts a high risk of allergy symptoms for the next 3 days.
+i
+iToday: High
+i
+iTomorrow: High
+i
+iThursday: High
+i
+i===== Air Quality Index =====
+i
+i61
+i
+iAir quality is acceptable; however, for some pollutants there may be a
+imoderate health concern for a very small number of people who are unusually
+isensitive to air pollution.
+i
+i===== Stay Safe =====
+i
+iAdvertisement
+i
+iAdvertisement
+i
+i===== Hurricane Tracker =====
+i
+iTS
+i
+iTropical Storm Bret
+i
+iJun 20, 5:00 am
+i
+iMax Winds
+i
+i40 mph
+i
+iMovement
+i
+iW at 17 mph
+i
+iPressure
+i
+i1008 mb
+i
+iMapbox Logo
+i
+i© 2023 Mapbox© OpenStreetMapImprove this map
+i
+i===== See It Yourself =====
+i
+iVideo
+i
+iHow To Stargaze At National Parks This Summer
+i
+iVideo
+i
+iSurface Of The Sun Like You've Never Seen
+i
+iVideo
+i
+iLook Up! Venus Brightest In 8 Years
+i
+iVideo
+i
+iMassive Eruption From Sun Caught On Camera
+i
+iAdvertisement
+i
+i===== Health & Activities =====
+i
+iGrass pollen is very high in your area
+i
+iFlu risk is moderate in your area
+i
+iThe Weather Company The Weather Channel Weather Underground
+i
+iGeorgia eSSENTIAL Accessibility
+i
+iWe recognize our responsibility to use data and technology for good. Take
+icontrol of your data.
+i
+i© Copyright TWC Product and Technology LLC 2014, 2023
+i
+iHidden Weather Icon Symbols
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.weather.com/wx/today/?lat=13.08%26lon=80.27%26locale=en_US%26par=google
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Washington, DC Weather Forecast and Conditions - The Weather Channel | Weather.com	/x/w/g/https_58__47__47_www_46_weather_46_com_47_wx_47_today_47__37__51_Flat_37__51_D_49__51__46__48__56__37__50__54_lon_37__51_D_56__48__46__50__55__37__50__54_locale_37__51_Den_95_US_37__50__54_par_37__51_Dgoogle	texopher.com	70

@@ -1,0 +1,45 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_twitter_46_com_47_BenCaspit_63_ref_95_src_61_twsrc_37__50__53__53_Egoogle_37__50__53__55_Ctwcamp_37__50__53__53_Eserp_37__50__53__55_Ctwgr_37__50__53__53_Eauthor	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_twitter_46_com_47_BenCaspit_63_ref_95_src_61_twsrc_37__50__53__53_Egoogle_37__50__53__55_Ctwcamp_37__50__53__53_Eserp_37__50__53__55_Ctwgr_37__50__53__53_Eauthor	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_twitter_46_com_47_BenCaspit_63_ref_95_src_61_twsrc_37__50__53__53_Egoogle_37__50__53__55_Ctwcamp_37__50__53__53_Eserp_37__50__53__55_Ctwgr_37__50__53__53_Eauthor	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_twitter_46_com_47_BenCaspit_63_ref_95_src_61_twsrc_37__50__53__53_Egoogle_37__50__53__55_Ctwcamp_37__50__53__53_Eserp_37__50__53__55_Ctwgr_37__50__53__53_Eauthor	texopher.com	70
+i
+hRead web directly	URL:https://twitter.com/BenCaspit?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_twitter_46_com_47_BenCaspit_63_ref_95_src_61_twsrc_37__50__53__53_Egoogle_37__50__53__55_Ctwcamp_37__50__53__53_Eserp_37__50__53__55_Ctwgr_37__50__53__53_Eauthor	texopher.com	70
+i
+iWe’ve detected that JavaScript is disabled in this browser. Please enable
+iJavaScript or switch to a supported browser to continue using twitter.com.
+iYou
+ican see a list of supported browsers in our Help Center.
+i
+iTerms of Service Privacy Policy Cookie Policy Imprint Ads info © 2023 X Corp.
+i
+iSomething went wrong, but don’t fret — let’s give it another shot.
+i
+iTry again
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://twitter.com/BenCaspit?ref_src=twsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor
+i
+iLICENSE: © 2023 X Corp.
+i
+i=========================================
+i
+i
+i$
+Bt:	/x/w/g/https_58__47__47_twitter_46_com_47_BenCaspit_37__51_Fref_95_src_37__51_Dtwsrc_37__50__53__53_Egoogle_37__50__53__55_Ctwcamp_37__50__53__53_Eserp_37__50__53__55_Ctwgr_37__50__53__53_Eauthor	texopher.com	70
