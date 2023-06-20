@@ -1,0 +1,37 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61_Denmark_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjDzviQ_48_tH_95_AhVjjIkEHcMdBycQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61_Denmark_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjDzviQ_48_tH_95_AhVjjIkEHcMdBycQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61_Denmark_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjDzviQ_48_tH_95_AhVjjIkEHcMdBycQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61_Denmark_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjDzviQ_48_tH_95_AhVjjIkEHcMdBycQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://maps.google.com/maps?hl=en&q=Denmark&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjDzviQ0tH_AhVjjIkEHcMdBycQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61_Denmark_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjDzviQ_48_tH_95_AhVjjIkEHcMdBycQ_95_AUIBigB	texopher.com	70
+i
+iWhen you have eliminated the JavaScript, whatever remains must be an empty
+ipage.
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://maps.google.com/maps?hl=en&q=Denmark&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjDzviQ0tH_AhVjjIkEHcMdBycQ_AUIBigB
+i
+iLICENSE: ©2003 Google
+i
+i=========================================
+i
+i
+i$
+Bt:Google Maps	/x/w/g/https_58__47__47_maps_46_google_46_com_47_maps_63_hl_61_en_38_q_61_Denmark_38_um_61__49__38_ie_61_UTF_45__56__38_sa_61_X_38_ved_61__48_ahUKEwjDzviQ_48_tH_95_AhVjjIkEHcMdBycQ_95_AUIBigB	texopher.com	70

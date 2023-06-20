@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Sz_37_C_51__37_A_57_p_45_k_37_C_51__37_A_49_rtya_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwix_50_aS_49__48_dH_95_AhW_48_jYkEHYK_54_AlMQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Sz_37_C_51__37_A_57_p_45_k_37_C_51__37_A_49_rtya_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwix_50_aS_49__48_dH_95_AhW_48_jYkEHYK_54_AlMQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Sz_37_C_51__37_A_57_p_45_k_37_C_51__37_A_49_rtya_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwix_50_aS_49__48_dH_95_AhW_48_jYkEHYK_54_AlMQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Sz_37_C_51__37_A_57_p_45_k_37_C_51__37_A_49_rtya_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwix_50_aS_49__48_dH_95_AhW_48_jYkEHYK_54_AlMQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Sz%C3%A9p-k%C3%A1rtya&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwix2aS10dH_AhW0jYkEHYK6AlMQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Sz_37_C_51__37_A_57_p_45_k_37_C_51__37_A_49_rtya_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwix_50_aS_49__48_dH_95_AhW_48_jYkEHYK_54_AlMQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iotpmkbbankkártyaképekmintaférfinőihivataloselfogadóhelyszéchenyi pihenő
+ikártya elfogadóhely
+i
+ivsz - Döntött a kormány a... www.vsz.hu
+i
+iShop-Stop - Kedves... www.facebook.com
+i
+iTájékoztató a Széchenyi... kormany.hu
+i
+iSZÉP kártyás kifizetések www.matyashotel.hu
+i
+iSZÉP-kártya: a kormány... www.vg.hu
+i
+iSZÉP kártya Kisokos]: Így... www.danubiushotels.com
+i
+iIndex - Gazdaság - A bankok... index.hu
+i
+iDuplázott az OTP... turizmus.com
+i
+iTudnivalók a SZÉP Kártya... palacehotelheviz.hu
+i
+iSZÉP kártya - Norbalim www.vitorlaznimegyek.hu
+i
+iGazdaság: Augusztustól... hvg.hu
+i
+iVÁLTOZTAK A SZÉP-KÁRTYA... www.heviz.hu
+i
+iCsekkek és utalványok –... www.funside.hu
+i
+iSZÉP-kártya: megjött a... www.portfolio.hu
+i
+iHivatalossá váltak a... 24.hu
+i
+iElfogadjuk az OTP SZÉP... zalaco.hu
+i
+iIndex - Gazdaság - Nagy... index.hu
+i
+iOTP SZÉP kártya: minden... biztosdontes.hu
+i
+iSZÉP kártyával üzletünkben... senseofbeauty.hu
+i
+iSZÉP Kártya elfogadás -... podiumshows.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Sz%C3%A9p-k%C3%A1rtya&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwix2aS10dH_AhW0jYkEHYK6AlMQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Szép-kártya - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Sz_37_C_51__37_A_57_p_45_k_37_C_51__37_A_49_rtya_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwix_50_aS_49__48_dH_95_AhW_48_jYkEHYK_54_AlMQ_95_AUIBigB	texopher.com	70

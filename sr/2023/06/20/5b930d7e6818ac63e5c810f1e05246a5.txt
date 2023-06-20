@@ -1,0 +1,83 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Paul_43_Newman_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjYq_56_LQyNH_95_AhUzrokEHXAkBA_52_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Paul_43_Newman_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjYq_56_LQyNH_95_AhUzrokEHXAkBA_52_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Paul_43_Newman_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjYq_56_LQyNH_95_AhUzrokEHXAkBA_52_Q_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Paul_43_Newman_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjYq_56_LQyNH_95_AhUzrokEHXAkBA_52_Q_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=Paul+Newman&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYq8LQyNH_AhUzrokEHXAkBA4Q_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Paul_43_Newman_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjYq_56_LQyNH_95_AhUzrokEHXAkBA_52_Q_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES NEWS VIDEOS
+i
+iactorrolexthe outsidersfamilycolorrobert redfordsunglassesthe
+istingpostertwilight
+i
+iPaul Newman | Biography,... www.britannica.com
+i
+iPaul Newman - Wikipedia en.wikipedia.org
+i
+iPaul Newman - Wikipedia en.wikipedia.org
+i
+iPaul Newman - IMDb www.imdb.com
+i
+iPaul Newman - Movies, Wife... www.biography.com
+i
+iHollywood Hunk Paul Newman... www.thedailybeast.com
+i
+iPaul Newman: Hundreds of... www.cnn.com
+i
+iA True Philanthropist: An... www.phikappatau.org
+i
+iPaul Newman - Turner... www.tcm.com
+i
+iPaul Newman Will Tell His... www.nytimes.com
+i
+iPaul Newman Recalls Fight... www.newsweek.com
+i
+iPaul Newman in Le Mans... www.artphotolimited.com
+i
+iA Posthumous Memoir Reveals... www.nytimes.com
+i
+iPaul Newman: Old Hollywood... vanguardofhollywood.com
+i
+iThe Iconic Paul Newman... iconicalternatives.com
+i
+iPaul Newman: In memory |... www.rogerebert.com
+i
+iPaul Newman - no shirt... www.posterlounge.com
+i
+iWho Paul Newman Was—and Who... www.newyorker.com
+i
+iPaul Newman memoir... www.independent.co.uk
+i
+iPaul Newman says Joanne... ew.com
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=Paul+Newman&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjYq8LQyNH_AhUzrokEHXAkBA4Q_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:Paul Newman - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61_Paul_43_Newman_38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjYq_56_LQyNH_95_AhUzrokEHXAkBA_52_Q_95_AUIBigB	texopher.com	70

@@ -1,0 +1,82 @@
+i=========================================
+i              HARD TO READ
+i  -------------------------------------
+i
+iThis page is hard to read. Please choose:
+i
+1[?] Read web via proxy	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_54__37_A_53__37__57__51__37_E_52__37_B_57__37__56_B_37_E_56__37_B_48__37_B_55__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjL_54_pj_55_zNH_95_AhV_45_k_52_kEHfQUALUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web via proxy	/x/w/gj/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_54__37_A_53__37__57__51__37_E_52__37_B_57__37__56_B_37_E_56__37_B_48__37_B_55__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjL_54_pj_55_zNH_95_AhV_45_k_52_kEHfQUALUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read web (details) via proxy	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_54__37_A_53__37__57__51__37_E_52__37_B_57__37__56_B_37_E_56__37_B_48__37_B_55__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjL_54_pj_55_zNH_95_AhV_45_k_52_kEHfQUALUQ_95_AUIBigB	texopher.com	70
+i
+1[?] Read js web (details) via proxy	/x/w/gjd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_54__37_A_53__37__57__51__37_E_52__37_B_57__37__56_B_37_E_56__37_B_48__37_B_55__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjL_54_pj_55_zNH_95_AhV_45_k_52_kEHfQUALUQ_95_AUIBigB	texopher.com	70
+i
+hRead web directly	URL:https://www.google.com/search?q=%E6%A5%93%E4%B9%8B%E8%B0%B7&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL6pj7zNH_AhV-k4kEHfQUALUQ_AUIBigB	__SERVER_HOST__	__SERVER_PORT__
+i
+i  -------------------------------------
+i
+1[?] Read Details	/x/w/gd/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_54__37_A_53__37__57__51__37_E_52__37_B_57__37__56_B_37_E_56__37_B_48__37_B_55__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjL_54_pj_55_zNH_95_AhV_45_k_52_kEHfQUALUQ_95_AUIBigB	texopher.com	70
+i
+iALL IMAGES VIDEOS NEWS
+i
+i純喫茶谷探險隊谷數學神偷異世界四重奏冒險家大冒險youtube劍士maplestory mnexon
+i
+i自訂你的《楓之谷》！Nexon 推「楓之谷世界」進軍 www.planet9.gg
+i
+i回谷囉！《楓之谷M》國際版雙平台上架，重溫童年感動|... www.4gamers.com.tw
+i
+i楓之谷M - Google Play 應用程式 play.google.com
+i
+i為何16年仍能屹立不搖？網熱議《新楓之谷》長紅原因|... www.league-funny.com
+i
+i快訊／玩遊戲不如意揚言在北捷隨機殺人「新楓之谷」27歲... tw.news.yahoo.com
+i
+i新楓之谷》全面優化冒險家五大職業限時開放極限燃燒-... gnn.gamer.com.tw
+i
+i新楓之谷maplestory 最團結的冒險！ maplestory.beanfun.com
+i
+i新楓之谷》主打10 級打倒王玩法「LAB... gnn.gamer.com.tw
+i
+i新楓之谷】推薦必解的「關鍵任務」<針織帽> |... www.nownews.com
+i
+i楓之谷R: 經典新定義- Home |... www.facebook.com
+i
+i野王出沒地- 楓之谷私服- 87谷 87ms.net
+i
+i新楓之谷》ON... www.4gamers.com.tw
+i
+i楓之谷M - Google Play 應用程式 play.google.com
+i
+i10年經典《楓之谷》手機新作《口袋楓之谷》8月登場|... game.ettoday.net
+i
+i特惠禮包 ec.gashpoint.com
+i
+i新楓之谷》X《異世界四重奏》聯名合作限時開跑雅兒貝德、... gnn.gamer.com.tw
+i
+i楓之谷R：經典新定義》冰雪嘉年華開幕愛心助童溫馨啟動|... news.gamebase.com.tw
+i
+i西門町| 新楓之谷Wiki | Fandom maplestory.fandom.com
+i
+i正版授權《楓之谷R》限量測試招募開啟，回歸記憶中的楓之... www.4gamers.com.tw
+i
+i攻略】《楓之谷R：經典新定義》如何使用雷電模擬器實現一... www.ldplayer.tw
+i
+iNew York, NY - From your IP address - Learn more
+i
+iSettings Privacy Terms
+i
+i
+i
+i  ------------- SOURCE ----------------
+i
+iURL:
+iihttps://www.google.com/search?q=%E6%A5%93%E4%B9%8B%E8%B0%B7&hl=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjL6pj7zNH_AhV-k4kEHfQUALUQ_AUIBigB
+i
+iLICENSE:
+i
+i=========================================
+i
+i
+i$
+Bt:楓之谷 - Google Search	/x/w/g/https_58__47__47_www_46_google_46_com_47_search_63_q_61__37_E_54__37_A_53__37__57__51__37_E_52__37_B_57__37__56_B_37_E_56__37_B_48__37_B_55__38_hl_61_en_38_source_61_lnms_38_tbm_61_isch_38_sa_61_X_38_ved_61__48_ahUKEwjL_54_pj_55_zNH_95_AhV_45_k_52_kEHfQUALUQ_95_AUIBigB	texopher.com	70
